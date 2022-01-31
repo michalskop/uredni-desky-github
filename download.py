@@ -49,6 +49,6 @@ last_info.sort(key=lambda x: x["date"], reverse=True)
 # output info about the newest piece of information
 # výstup informací o nejnovějším oznámení
 try:
-    sys.stdout.write(name + ": " + last_info[0]["title"] + " ( " + last_info[0]["url"] + " )")
+    sys.stdout.write("Úřední deska " + name + ": " + last_info[0]["title"] + " ( " + last_info[0]["url"] + " )")
 except:
     sys.stdout.write("Error")
