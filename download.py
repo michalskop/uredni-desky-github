@@ -2,7 +2,6 @@
 
 # Stáhne aktuální úřední desky
 
-from calendar import c
 import requests
 import sys
 
