@@ -2635,6 +2635,40 @@
         "název": {"cs": "startovaci byt 27 01 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1861080.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152599",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152599",
+    "název": {"cs": "Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy - Národní plán povodí Labe, Dunaje, Odry"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-02-17"
+    },
+    "číslo_jednací": "MUKK/4955/2022",
+    "spisová_značka": "26/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ministerstvo zemědělství"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "4955"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1869409.pdf"
+      }    ]
   }
   ]
 }
