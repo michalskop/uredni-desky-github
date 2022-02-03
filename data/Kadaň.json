@@ -2033,39 +2033,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152009",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152009",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu jako tzv. bytu pro seniory - ul. Tyršova, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-01-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-03"
-    },
-    "spisová_značka": "11/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "byt"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1844225.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152010",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152010",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Dagmar Strnadová"},
@@ -2500,39 +2467,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "4955"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1869409.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152624",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152624",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 2.2.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-03"
-    },
-    "spisová_značka": "27/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstavka 2 2 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1869752.pdf"
       }    ]
   },
 {
