@@ -2568,6 +2568,77 @@
         "název": {"cs": "4644"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1871664.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153026",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153026",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  únor  2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-03-01"
+    },
+    "spisová_značka": "28/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výcvik unor 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1873922.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153027",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153027",
+    "název": {"cs": "Město Kadaň - Výroční zpráva za rok 2021 - Poskytování informací dle zákona č. 106/1999 Sb. a zákona č. 123/1998 Sb."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-02-21"
+    },
+    "spisová_značka": "27/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "106 1999 2021"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1873997.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "123 1998 2021"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1873999.pdf"
+      }    ]
   }
   ]
 }
