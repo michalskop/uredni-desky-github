@@ -2540,6 +2540,40 @@
         "název": {"cs": "6137"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1881424.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153199",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153199",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 9.2.2022 - ul. Boženy Němcové"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-02-10"
+    },
+    "číslo_jednací": "MUKK/6390/2022",
+    "spisová_značka": "31/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6390"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1883336.pdf"
+      }    ]
   }
   ]
 }
