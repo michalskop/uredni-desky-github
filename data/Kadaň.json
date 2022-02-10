@@ -2035,73 +2035,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152260",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152260",
-    "název": {"cs": "ÚZSVM - aukční vyhláška - p.č. 1313, stavba č.p. 1122 v k.ú. Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-01-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-10"
-    },
-    "číslo_jednací": "MUKK/3729/2022",
-    "spisová_značka": "15/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "3729"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1855600.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152293",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152293",
-    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Uzavření dodatku č. 4 k nájemní smlouvě o výpůjčce č. 14226/17 na pronájem pozemků"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-01-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-10"
-    },
-    "spisová_značka": "19/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Záměr 25 1 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1856912.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152377",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152377",
     "název": {"cs": "EÚ Brno město - Dražební vyhláška - Tomáš Potůček"},
@@ -2472,40 +2405,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "6137"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1881424.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153199",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153199",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 9.2.2022 - ul. Boženy Němcové"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-10"
-    },
-    "číslo_jednací": "MUKK/6390/2022",
-    "spisová_značka": "31/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "6390"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1883336.pdf"
       }    ]
   },
 {
