@@ -47,7 +47,7 @@
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/114813",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-114813",
     "název": {"cs": "Odbor životního prostředí - Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy"},
-    "popis": {"cs": "               Ministerstvo   zemědělství - VV - Opatření obecné povahy         "},
+    "popis": {"cs": " Ministerstvo zemědělství - VV - Opatření obecné povahy "},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2019-04-15"
@@ -81,7 +81,7 @@
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/114866",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-114866",
     "název": {"cs": "Odbor životního prostředí - Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy"},
-    "popis": {"cs": "               VV - OOP   - Odbor hospodářské úpravy a ochrany lesů - kalamitní poškození lesních   porostů         "},
+    "popis": {"cs": " VV - OOP - Odbor hospodářské úpravy a ochrany lesů - kalamitní poškození lesních porostů "},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2019-12-13"
