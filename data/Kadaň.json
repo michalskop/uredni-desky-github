@@ -1835,39 +1835,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/149380",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-149380",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 6T5 8975"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2021-12-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-16"
-    },
-    "spisová_značka": "571/2021",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzva renault"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1782017.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/149468",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-149468",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
