@@ -1934,40 +1934,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152010",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152010",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Dagmar Strnadová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-01-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-17"
-    },
-    "číslo_jednací": "MUKK/2818/2022",
-    "spisová_značka": "2818/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "2818"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1844226.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152108",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152108",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Doručení návrhu 9. změny územního plánu Kadaně a oznámení konání veřejného projednání"},
@@ -2099,40 +2065,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "startovaci byt 27 01 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1861080.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/152599",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-152599",
-    "název": {"cs": "Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy - Národní plán povodí Labe, Dunaje, Odry"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-02-17"
-    },
-    "číslo_jednací": "MUKK/4955/2022",
-    "spisová_značka": "26/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ministerstvo zemědělství"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "4955"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1869409.pdf"
       }    ]
   },
 {
