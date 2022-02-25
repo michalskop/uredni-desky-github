@@ -2771,6 +2771,39 @@
         "název": {"cs": "9418"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1918473.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154097",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154097",
+    "název": {"cs": "Město Kadaň - výběrové řízení - sociální pracovník obce - doba určitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "spisová_značka": "52/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ SvaZ 2 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1918687.pdf"
+      }    ]
   }
   ]
 }
