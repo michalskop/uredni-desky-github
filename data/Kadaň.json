@@ -2769,6 +2769,39 @@
         "název": {"cs": "Výzva 28 2 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1924709.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154143",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154143",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  březen 2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-02-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-01"
+    },
+    "spisová_značka": "55/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výcvik březen aktuálně"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1924904.pdf"
+      }    ]
   }
   ]
 }
