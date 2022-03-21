@@ -3010,6 +3010,40 @@
         "název": {"cs": "12983"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1959586.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155204",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155204",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 21.3.2022 - Kadaň, ul. Husova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-03-21"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "číslo_jednací": "MUKK/13135/2022",
+    "spisová_značka": "85/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "13135"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1964998.pdf"
+      }    ]
   }
   ]
 }
