@@ -3010,6 +3010,140 @@
         "název": {"cs": "13135"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1964998.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155302",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155302",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 12.4.2022 - Pokutice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-13"
+    },
+    "číslo_jednací": "MUKK/13387/2022",
+    "spisová_značka": "86/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "13387"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1967114.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155303",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155303",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 12.4.2022 - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-13"
+    },
+    "číslo_jednací": "MUKK/13388/2022",
+    "spisová_značka": "87/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "13388"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1967115.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155304",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155304",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 4U8 1499"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-23"
+    },
+    "spisová_značka": "88/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 22 3 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1967116.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155305",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155305",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej bytové jednotky v k. ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-03-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-07"
+    },
+    "spisová_značka": "89/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Zámêr obce 22 3 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/1967117.pdf"
+      }    ]
   }
   ]
 }
