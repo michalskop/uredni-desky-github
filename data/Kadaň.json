@@ -1868,40 +1868,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153412",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153412",
-    "název": {"cs": "EÚ Šumperk - Dražební vyhláška - Stanislav Pechoč"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-22"
-    },
-    "číslo_jednací": "MUKK/7290/2022",
-    "spisová_značka": "36/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "7290"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1894488.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153607",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153607",
     "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 17-2-2022"},
@@ -1964,72 +1930,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva 18 2 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1903475.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/153685",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-153685",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník odboru dopravy - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-22"
-    },
-    "spisová_značka": "44/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ ÚD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1908935.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154097",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154097",
-    "název": {"cs": "Město Kadaň - výběrové řízení - sociální pracovník obce - doba určitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-22"
-    },
-    "spisová_značka": "52/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ SvaZ 2 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1918687.pdf"
       }    ]
   },
 {
@@ -2197,40 +2097,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "ZÚ rozbor vody"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1929342.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154323",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154323",
-    "název": {"cs": "EÚ Šumperk - Dražební vyhláška - Stanislav Pechoč - zrušení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-22"
-    },
-    "číslo_jednací": "MUKK/10433/2022",
-    "spisová_značka": "59/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "10433"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1930572.pdf"
       }    ]
   },
 {
@@ -2975,40 +2841,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "12983"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1959586.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155204",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155204",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 21.3.2022 - Kadaň, ul. Husova"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-22"
-    },
-    "číslo_jednací": "MUKK/13135/2022",
-    "spisová_značka": "85/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13135"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1964998.pdf"
       }    ]
   },
 {
