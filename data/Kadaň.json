@@ -1802,39 +1802,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/149468",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-149468",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2021-12-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-31"
-    },
-    "spisová_značka": "572/2021",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Oznámení"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1784235.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/151063",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-151063",
     "název": {"cs": "Město Kadaň - Dotační program na záchranu a obnovu nemovitostí a movitých kulturních památek na území MPR v Kadani v roce 2022"},
@@ -1930,39 +1897,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva 18 2 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1903475.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154129",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154129",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Žitná, ul. Klášterecká - Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-02-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-31"
-    },
-    "spisová_značka": "53/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byty startovací 28 2 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1924707.pdf"
       }    ]
   },
 {
@@ -2269,74 +2203,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154875",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154875",
-    "název": {"cs": "MÚ - odbor dopravy - rozhodnutí veřejnou vyhláškou - Libědice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-31"
-    },
-    "číslo_jednací": "ODPK/19793/2021/119/Pa",
-    "spisová_značka": "72/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozhodnutí"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "19973"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1953350.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154916",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154916",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-31"
-    },
-    "číslo_jednací": "MUKK/12381/2022",
-    "spisová_značka": "73/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "12381"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1953903.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154917",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154917",
     "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 5.4.2022 - Prunéřov"},
@@ -2367,40 +2233,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "12295"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1953904.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154919",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154919",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 5.4.2022, Pokutice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-03-31"
-    },
-    "číslo_jednací": "MUKK/12296/2022",
-    "spisová_značka": "75/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "12296"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1953907.pdf"
       }    ]
   },
 {
