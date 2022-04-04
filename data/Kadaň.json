@@ -2137,39 +2137,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154807",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154807",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 2.4.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-04-04"
-    },
-    "spisová_značka": "71/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20220314082055713"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1951587.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154917",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154917",
     "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 5.4.2022 - Prunéřov"},
@@ -2200,74 +2167,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "12295"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1953904.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155126",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155126",
-    "název": {"cs": "MÚ - ekonomický odbor - Rozhodnutí o prominutí místního poplatku ze psů - mimořádná událost"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-04-04"
-    },
-    "číslo_jednací": "EKO/1341-1/2022",
-    "spisová_značka": "78/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozhodnutí"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "1341"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1957979.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155127",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155127",
-    "název": {"cs": "MÚ - ekonomický odbor - Rozhodnutí o prominutí místního poplatku za obecní systém odpadového hospodářství - mimořádná událost"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-04-04"
-    },
-    "číslo_jednací": "EKO/TDO-1/9994/2022",
-    "spisová_značka": "79/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozhodnutí"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "9994"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1957980.pdf"
       }    ]
   },
 {
