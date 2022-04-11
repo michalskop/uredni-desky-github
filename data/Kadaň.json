@@ -2103,40 +2103,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154696",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154696",
-    "název": {"cs": "MPSV - Úřad práce a jeho pomoc"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-04-11"
-    },
-    "číslo_jednací": "MUKK/10932/2022",
-    "spisová_značka": "70/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "10932"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1946052.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155130",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155130",
     "název": {"cs": "MÚ - odbor ŽP - očkování psů"},
@@ -2300,40 +2266,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výcvik duben"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1969699.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155479",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155479",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Dlouhá v Klášterci nad Ohří a Útočiště"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-04-11"
-    },
-    "číslo_jednací": "ODPK-13625/2022/Slu",
-    "spisová_značka": "96/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13625"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1971472.pdf"
       }    ]
   },
 {
