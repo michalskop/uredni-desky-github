@@ -3188,6 +3188,141 @@
         "název": {"cs": "Zpráva byty"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1999288.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/156395",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-156395",
+    "název": {"cs": "Státní pozemkový úřad - zahájení aktualizace BPEJ - Tušimice, Kadaň, Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-04-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-27"
+    },
+    "číslo_jednací": "MUKK/16217/2022",
+    "spisová_značka": "124/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16217"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2007127.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/156398",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-156398",
+    "název": {"cs": "Státní pozemkový úřad - zahájení aktualizace BPEJ - Tušimice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-04-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-27"
+    },
+    "číslo_jednací": "MUKK/16210/2022",
+    "spisová_značka": "125/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16210"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2007130.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/156399",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-156399",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - oznámení o zahájení řízení o nařízení odstranění stavby - Miřetice u Vintířova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-04-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-27"
+    },
+    "číslo_jednací": "MUKK/16204/2022",
+    "spisová_značka": "126/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16204"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2007131.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/156400",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-156400",
+    "název": {"cs": "KÚ ÚK - 14. zasedání Zastupitelstva Ústeckého kraje - 25.4.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-04-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-04-26"
+    },
+    "spisová_značka": "127/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Pozvánka 14 ZÚK 25 4 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2007134.pdf"
+      }    ]
   }
   ]
 }
