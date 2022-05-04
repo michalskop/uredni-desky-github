@@ -3224,7 +3224,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2022-05-17"
+      "datum": "2022-05-18"
     },
     "spisová_značka": "157/20222",
     "agenda": [
@@ -3243,6 +3243,244 @@
         "typ": "Digitální objekt",
         "název": {"cs": "OD VV OOP Klášterec nad Ohří"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2043288.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157709",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157709",
+    "název": {"cs": "Odbor dopravy - Opatření obecné povahy - Veřejná vyhláška -  přechodná úprava provozu - Klášterec  nad Ohří, u. Olšová"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "ODPK-19918/2022/Slu",
+    "spisová_značka": "158/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD OOP VV Klášterec, ul  Olšová"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047828.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157710",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157710",
+    "název": {"cs": "OD - OOP - VV -  stanovení místní úpravy provozu - Kadaň, ul. Chomutovská"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "ODPK-13609/2022/Slu",
+    "spisová_značka": "159/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD OOP VV ul  Chomutovská"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047829.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157711",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157711",
+    "název": {"cs": "Odbor dopravy - Opatření obecné povahy - Veřejná vyhláška -  přechodná úprava provozu - Vitčice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "ODPK-17213/2022/Slu",
+    "spisová_značka": "160/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD OOP VV Vitčice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047832.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157712",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157712",
+    "název": {"cs": "ŽÚ - Výzva k převzetí písemnosti - Jan Bláha"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "MUKK/19980/2022",
+    "spisová_značka": "161/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ŽÚ Výzva k převzetí písemnosti Jan Bláha"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047833.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157715",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157715",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - Nová Víska, Prunéřov, Místo"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "MUKK/20409/2022",
+    "spisová_značka": "162/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce přerušení el energie"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047925.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157716",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157716",
+    "název": {"cs": "SÚ - VV - Usnesení - Ustanovení opatrovníka A.N., p.č. 860, k.ú. Vernéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "MUKK/20363/2022",
+    "spisová_značka": "163/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SÚ Ustanovení opatrovníka,p č 860,Vernéřov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047927.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157717",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157717",
+    "název": {"cs": "SÚ - VV - Usnesení - Ustanovení Opatrovníka - A.N., č.p.832/1 v k.ú. Vernéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-20"
+    },
+    "číslo_jednací": "MUKK/20472/2022",
+    "spisová_značka": "164/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SÚ Ustanovení opatrovníka,p č 8321, Vernéřov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2047928.pdf"
       }    ]
   }
   ]
