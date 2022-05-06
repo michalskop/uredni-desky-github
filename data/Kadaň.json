@@ -3516,6 +3516,74 @@
         "název": {"cs": "20502"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2052398.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157881",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157881",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Mírové náměstí, ul. Jana Švermy v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-23"
+    },
+    "číslo_jednací": "ODPK-17196/2022/Slu",
+    "spisová_značka": "169/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "17196"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2052401.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157882",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157882",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Okounov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-05-23"
+    },
+    "číslo_jednací": "ODPK-19116/2022/Slu",
+    "spisová_značka": "170/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "19116"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2052402.pdf"
+      }    ]
   }
   ]
 }
