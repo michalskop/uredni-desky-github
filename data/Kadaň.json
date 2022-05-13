@@ -1802,40 +1802,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154315",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154315",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jančov, Jančová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "MUKK/10093/2022",
-    "spisová_značka": "56/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "10093"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1929341.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154316",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154316",
     "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody"},
@@ -2306,39 +2272,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157202",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157202",
-    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej p.č. 2799 v k. ú. Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "spisová_značka": "145/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Záměr obce 27 4 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2033060.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157203",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157203",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 9U5 8245"},
@@ -2368,40 +2301,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výzva 27 4 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2033066.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157205",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157205",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - Chbany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "ODPK-8952/2022/Slu",
-    "spisová_značka": "147/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "8952"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2033067.pdf"
       }    ]
   },
 {
@@ -2436,142 +2335,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "19400"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2034604.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157344",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157344",
-    "název": {"cs": "MÚ - stavební úřad - veřejná vyhláška - usnesení - ustanovení opatrovníka - 16548"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "SÚ-16548/2022/N",
-    "spisová_značka": "150/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16548"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2035209.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157345",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157345",
-    "název": {"cs": "MÚ - stavební úřad - veřejná vyhláška - usnesení - ustanovení opatrovníka - 16545"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "SÚ-16545/2022/N",
-    "spisová_značka": "151/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16545"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2035210.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157348",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157348",
-    "název": {"cs": "MÚ - stavební úřad - veřejná vyhláška - usnesení - ustanovení opatrovníka - 16554"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "SÚ-16554/2022/N",
-    "spisová_značka": "152/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16554"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2035212.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157355",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157355",
-    "název": {"cs": "MÚ - stavební úřad - veřejná vyhláška - usnesení - ustanovení opatrovníka - 16561"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "SÚ-16561/2022/N",
-    "spisová_značka": "153/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16561"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2035298.pdf"
       }    ]
   },
 {
@@ -3117,39 +2880,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158017",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158017",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 12.5.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "spisová_značka": "171/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Clonový odstřel 12 5 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2060963.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158018",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158018",
     "název": {"cs": "Státní pozemkový úřad - oznámení o vyložení návrhu změn - Tušimice, Kadaň, Prunéřov"},
@@ -3247,40 +2977,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzvy 10 5 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2061049.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158051",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158051",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 11.5. a 12.5.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-05-13"
-    },
-    "číslo_jednací": "MUKK/21560,21561/2022",
-    "spisová_značka": "175/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Odstávka 11 12 5 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2062854.pdf"
       }    ]
   },
 {
