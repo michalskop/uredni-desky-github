@@ -3114,6 +3114,74 @@
         "název": {"cs": "21684"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2065623.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158337",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158337",
+    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 21956"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "číslo_jednací": "MUKK/21956/2022",
+    "spisová_značka": "180/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "21956"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2074396.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158339",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158339",
+    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 21987"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "číslo_jednací": "MUKK/21987/2022",
+    "spisová_značka": "181/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "21987"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2074400.pdf"
+      }    ]
   }
   ]
 }
