@@ -3215,6 +3215,73 @@
         "název": {"cs": "Odstávka 18 5 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2078197.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158548",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158548",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Vejprty"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "číslo_jednací": "ODPK-22032/2022/Slu",
+    "spisová_značka": "187/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "22032"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2080436.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158549",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158549",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodloužení stávající smlouvy o výpůjčce č. 14217/17"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "spisová_značka": "188/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "1667"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2080437.pdf"
+      }    ]
   }
   ]
 }
