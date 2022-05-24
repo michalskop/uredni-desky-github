@@ -2941,6 +2941,209 @@
         "název": {"cs": "OŽÚ Výzva k převzetí písemnosti Kamila Agosztová"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2088063.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158764",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158764",
+    "název": {"cs": "Odbor dopravy - Opatření obecné povahy - Veřejná vyhláška -  přechodná úprava provozu - Prunéřov, sil. III/1981"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-09"
+    },
+    "číslo_jednací": "ODPK-22964/2022/Slu",
+    "spisová_značka": "194/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OOP VV přechodný provoz   Prunéřov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090299.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158766",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158766",
+    "název": {"cs": "Odbor dopravy - Opatření obecné povahy - Veřejná vyhláška -  přechodná úprava provozu - Kadaň, Mírové náměstí"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-09"
+    },
+    "číslo_jednací": "ODPK-20134/2022/Slu",
+    "spisová_značka": "195/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OOP VV přechodný provoz Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090301.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158768",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158768",
+    "název": {"cs": "České dráhy - výluka a omezení provozu - Kadaň-Prunéřov-Kadaň-28./29.5. + 29./30.5. 2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "číslo_jednací": "MUKK/23691/2022",
+    "spisová_značka": "196/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "České dráhy, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČD výluka Kadaň Prunéřov Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090307.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158770",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158770",
+    "název": {"cs": "České dráhy - výluka a omezení provozu - Klášterec nad Ohří - Chomutov - 28./29.5. + 29./30.5.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "číslo_jednací": "MUKK/23691/2022",
+    "spisová_značka": "197/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "České dráhy, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČD výluka Klášterec n O  Chomutov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090310.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158774",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158774",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Prunéřov - 14.6.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-15"
+    },
+    "číslo_jednací": "MUKK/23708/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce odstávka elektřiny Prunéřov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090316.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158776",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158776",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Pokutice - 14.6.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-15"
+    },
+    "číslo_jednací": "MUKK/23707/2022",
+    "spisová_značka": "199/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce odstávka elektřiny Pokutice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2090319.pdf"
+      }    ]
   }
   ]
 }
