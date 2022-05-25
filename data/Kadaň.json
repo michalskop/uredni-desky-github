@@ -3144,6 +3144,142 @@
         "název": {"cs": "ČEZ Distribuce odstávka elektřiny Pokutice"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2090319.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158846",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158846",
+    "název": {"cs": "Obecní živnostenský úřad - Výzva k převzetí písemnosti - JUDr. Eva Trsová"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-10"
+    },
+    "číslo_jednací": "MUKK/23453/2022",
+    "spisová_značka": "200/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OŽÚ Výzva k převzetí písemnosti JUDr  Eva Trsová"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2092435.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158847",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158847",
+    "název": {"cs": "Odbor dopravy - Opatření obecné povahy - Veřejná vyhláška -  přechodná úprava provozu - Útočiště"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-10"
+    },
+    "číslo_jednací": "ODPK-23389/2022/Slu",
+    "spisová_značka": "201/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OOP VV přechodný provoz Útočiště"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2092444.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158850",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158850",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie- Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-16"
+    },
+    "číslo_jednací": "MUKK/23970/2022",
+    "spisová_značka": "202/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce odstávka elektřiny Prunéřov (2)"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2092453.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158851",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158851",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Pokutice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-16"
+    },
+    "číslo_jednací": "MUKK/23971/2022",
+    "spisová_značka": "203/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce odstávka elektřiny Pokutice (2)"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2092455.pdf"
+      }    ]
   }
   ]
 }
