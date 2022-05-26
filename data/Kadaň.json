@@ -3348,6 +3348,73 @@
         "název": {"cs": "OD OOP VV přechodný provoz Klášterec,ul Pod Stadionem"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2094760.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158956",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158956",
+    "název": {"cs": "OD - VV - OOP - stanovení místní úpravy provozu - Klášterec nad Ohří, ul. Chomutovská"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-11"
+    },
+    "číslo_jednací": "ODPK-21597/2022/Slu",
+    "spisová_značka": "206/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD VV OOP místní úprava provozu Kláštere, ul  Chomutovská"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2094763.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158958",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158958",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 31.5.2022 od 10.00 - 15.00 hod."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-05-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "spisová_značka": "207/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SSE Explo ČR clonový odstřel lom Úhošťany"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2094766.pdf"
+      }    ]
   }
   ]
 }
