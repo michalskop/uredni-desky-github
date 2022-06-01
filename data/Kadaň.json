@@ -3415,6 +3415,175 @@
         "název": {"cs": "22799"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2107134.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159278",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159278",
+    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 1.6.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-02"
+    },
+    "číslo_jednací": "MUKK/25138/2022",
+    "spisová_značka": "217/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "25138"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2107140.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159279",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159279",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - zrušení odstávky dne 2.6.2022 - Kadaň, Nová Víska, Prunéřov, Místo"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-03"
+    },
+    "číslo_jednací": "MUKK/24552/2022",
+    "spisová_značka": "213/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "24552"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2107143.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159284",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159284",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Pokutice - 21.6.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/24980/2022",
+    "spisová_značka": "214/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "24980"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2107153.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159285",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159285",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Prunéřov - 21.6.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/24979/2022",
+    "spisová_značka": "215/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "24979"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2107158.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159288",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159288",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  červen 2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-01"
+    },
+    "spisová_značka": "216/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "20220523 Informace pro městské a obecní úřady výcvik červen 2022 002"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2107248.pdf"
+      }    ]
   }
   ]
 }
