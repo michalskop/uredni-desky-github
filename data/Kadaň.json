@@ -1802,40 +1802,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154316",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154316",
-    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "číslo_jednací": "MUKK/10114/2022",
-    "spisová_značka": "57/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ZÚ rozbor vody"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1929342.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154428",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154428",
     "název": {"cs": "Město Kadaň - Dotační program 2022 - podnikatelé - 2. pololetí"},
@@ -1971,39 +1937,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155761",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155761",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidla - 29.3.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "spisová_značka": "112/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzvy 30 3 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1982968.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155912",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155912",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -2033,39 +1966,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1986843.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157107",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157107",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  květen  2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "spisová_značka": "144/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik květen 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2030855.pdf"
       }    ]
   },
 {
@@ -2301,74 +2201,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "21684"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2065623.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158337",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158337",
-    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 21956"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "číslo_jednací": "MUKK/21956/2022",
-    "spisová_značka": "180/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "21956"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2074396.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158339",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158339",
-    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 21987"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "číslo_jednací": "MUKK/21987/2022",
-    "spisová_značka": "181/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "21987"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2074400.pdf"
       }    ]
   },
 {
@@ -2809,74 +2641,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158768",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158768",
-    "název": {"cs": "České dráhy - výluka a omezení provozu - Kadaň-Prunéřov-Kadaň-28./29.5. + 29./30.5. 2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "číslo_jednací": "MUKK/23691/2022",
-    "spisová_značka": "196/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "České dráhy, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČD výluka Kadaň Prunéřov Kadaň"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2090307.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158770",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158770",
-    "název": {"cs": "České dráhy - výluka a omezení provozu - Klášterec nad Ohří - Chomutov - 28./29.5. + 29./30.5.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "číslo_jednací": "MUKK/23691/2022",
-    "spisová_značka": "197/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "České dráhy, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČD výluka Klášterec n O  Chomutov"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2090310.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158774",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158774",
     "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Prunéřov - 14.6.2022"},
@@ -3178,39 +2942,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "OD VV OOP místní úprava provozu Kláštere, ul  Chomutovská"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2094763.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158958",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158958",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 31.5.2022 od 10.00 - 15.00 hod."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "spisová_značka": "207/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "SSE Explo ČR clonový odstřel lom Úhošťany"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2094766.pdf"
       }    ]
   },
 {
