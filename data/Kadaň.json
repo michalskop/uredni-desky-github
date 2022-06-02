@@ -2238,73 +2238,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158393",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158393",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu pro seniory - Kadaň, ul. Věžní"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-02"
-    },
-    "spisová_značka": "183/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byt 17 5 2022 Věžní 1392"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2076240.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158395",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158395",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - oznámení o možnosti převzít písemnost - Hradecká, Hradecký"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-02"
-    },
-    "číslo_jednací": "MUKK/22415/2022",
-    "spisová_značka": "184/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "22415"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2076243.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158396",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158396",
     "název": {"cs": "Česká pošta"},
@@ -3145,40 +3078,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "22799"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2107134.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159278",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159278",
-    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 1.6.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-02"
-    },
-    "číslo_jednací": "MUKK/25138/2022",
-    "spisová_značka": "217/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "25138"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2107140.pdf"
       }    ]
   },
 {
