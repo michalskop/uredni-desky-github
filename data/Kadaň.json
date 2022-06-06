@@ -3215,6 +3215,142 @@
         "název": {"cs": "23166"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2111126.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159524",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159524",
+    "název": {"cs": "MÚ - stavební úřad - uvědomění o zahájení vyvlastňovacího řízení a nařízení ústního jednání - 16554"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/25797/2022",
+    "spisová_značka": "222/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16554"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2118101.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159525",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159525",
+    "název": {"cs": "MÚ - stavební úřad - uvědomění o zahájení vyvlastňovacího řízení a nařízení ústního jednání - 16548"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/25772/2022",
+    "spisová_značka": "223/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16548"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2118104.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159526",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159526",
+    "název": {"cs": "MÚ - stavební úřad - uvědomění o zahájení vyvlastňovacího řízení a nařízení ústního jednání - 16561"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/25767/2022",
+    "spisová_značka": "224/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16561"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2118106.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159527",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159527",
+    "název": {"cs": "MÚ - stavební úřad - uvědomění o zahájení vyvlastňovacího řízení a nařízení ústního jednání - 16545"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-06-22"
+    },
+    "číslo_jednací": "MUKK/25805/2022",
+    "spisová_značka": "225/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16545"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2118107.pdf"
+      }    ]
   }
   ]
 }
