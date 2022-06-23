@@ -1937,39 +1937,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155912",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155912",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-04-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-23"
-    },
-    "spisová_značka": "113/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznámení"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1986843.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/157203",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-157203",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 9U5 8245"},
