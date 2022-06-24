@@ -3039,6 +3039,105 @@
         "název": {"cs": "29232"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2155314.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160540",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160540",
+    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-22"
+    },
+    "spisová_značka": "255/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "oznameni 24 6 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2157050.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160542",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160542",
+    "název": {"cs": "Město Kadaň - Plán investiční výstavby na rok 2021 - stav k 30.5.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "spisová_značka": "256/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "plán výstavby k 23 6 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2157054.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160543",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160543",
+    "název": {"cs": "Město Kadaň - Zpráva o péči o zeleň ve městě Kadaň - 2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "spisová_značka": "257/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zpráva zeleň 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2157058.pdf"
+      }    ]
   }
   ]
 }
