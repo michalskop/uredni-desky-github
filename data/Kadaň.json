@@ -3204,6 +3204,39 @@
         "název": {"cs": "zpráva PO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2157079.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160594",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160594",
+    "název": {"cs": "Město Kadaň - Stanovení počtu zastupitelů do Zastupitelstva města Kadaně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-12"
+    },
+    "spisová_značka": "262/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "poćet zastupitel"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2163197.pdf"
+      }    ]
   }
   ]
 }
