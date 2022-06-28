@@ -2136,40 +2136,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159845",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159845",
-    "název": {"cs": "KÚ ÚK - Střednědobý výhled rozpočtu Ústeckého kraje na období 2023-2025 a Závěrečný účet ÚK za rok 2021"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-06-28"
-    },
-    "číslo_jednací": "MUKK/27033/2022",
-    "spisová_značka": "234/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27033"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2127280.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159850",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159850",
     "název": {"cs": "MÚ - odbor dopravy - oznámení o výběru a vrácení správních poplatků občanům Ukrajiny"},
