@@ -3239,6 +3239,176 @@
         "název": {"cs": "čez 20220707104012968"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2187609.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161179",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161179",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu na pozemních komunikacích – Vodorovné dopravní značení, ul.17. listopadu, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "číslo_jednací": "ODPK-21882/2022/Slu",
+    "spisová_značka": "281/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ODPK 21882 1"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2189682.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161180",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161180",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu na pozemních komunikacích - v ul. Potoční ve Vejprtech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "číslo_jednací": "ODPK-22032/2022/Slu",
+    "spisová_značka": "282/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ODPK 22032 2"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2189777.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161181",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161181",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu na pozemních komunikacích - ul. Říční v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "číslo_jednací": "ODPK-25815/2022/Slu",
+    "spisová_značka": "283/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ODPK 25815 3"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2189686.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161182",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161182",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení místní úpravy provozu na pozemních komunikacích - na silnici č. 11/225 a III/2251 a místní komunikaci v obci Poláky"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "číslo_jednací": "ODPK-26901/2022/Slu",
+    "spisová_značka": "284/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ODPK 26901 4"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2189775.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161183",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161183",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení místní úpravy provozu na pozemních komunikacích - ul. Kostelní v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-25"
+    },
+    "číslo_jednací": "ODPK-29438/2022/Slu",
+    "spisová_značka": "284/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ODPK 29438 5"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2189776.pdf"
+      }    ]
   }
   ]
 }
