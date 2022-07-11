@@ -3409,6 +3409,73 @@
         "název": {"cs": "ODPK 29438 5"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2189776.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161273",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161273",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 12.7.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-13"
+    },
+    "spisová_značka": "279/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SSE Explo ČR   clonový odstřel   lom Úhošťany   12 7 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2196428.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161274",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161274",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie dne 29.7.2022 v k.ú. Kadaň a k.ú. Pokutice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-30"
+    },
+    "číslo_jednací": "MUKK/31320/2022",
+    "spisová_značka": "280/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce   odstávka elektřiny 29 7 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2196429.pdf"
+      }    ]
   }
   ]
 }
