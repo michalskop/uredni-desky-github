@@ -1838,39 +1838,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/158022",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-158022",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 4U3 3498, U3 6881"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-05-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-11"
-    },
-    "spisová_značka": "174/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzvy 10 5 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2061049.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159610",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159610",
     "název": {"cs": "Město Kadaň - Závěrečný účet města za rok 2021"},
@@ -2238,40 +2205,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160475",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160475",
-    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - Vilémov u Kadaně"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-11"
-    },
-    "číslo_jednací": "ODPK-26604/2022/Slu",
-    "spisová_značka": "251/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "26604"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2154895.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160476",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160476",
     "název": {"cs": "EÚ Rakovník - Dražební vyhláška - Šárka Hričinová - odročení"},
@@ -2302,74 +2235,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "28868"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2154896.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160502",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160502",
-    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu na pozemních komunikacích - ul. Husova v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-11"
-    },
-    "číslo_jednací": "ODPK/29137/2022/115/Pa",
-    "spisová_značka": "253/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "29149"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2155312.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160503",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160503",
-    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu na pozemních komunikacích - Kovářská"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-11"
-    },
-    "číslo_jednací": "ODPK/27832/2022/116/Pa",
-    "spisová_značka": "254/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "29232"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2155314.pdf"
       }    ]
   },
 {
