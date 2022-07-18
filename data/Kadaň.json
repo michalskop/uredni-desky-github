@@ -3378,6 +3378,105 @@
         "název": {"cs": "ČEZ Distribuce odstávka elektřiny Kadaň 4 8 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2202446.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161611",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161611",
+    "název": {"cs": "Město Kadaň - Dotační program 2022 - Jednorázová dotace z rozpočtu města Kadaně pro začínající podnikatele a na vytvoření nového pracovního místa"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-31"
+    },
+    "spisová_značka": "298/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dotační program"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Program jednorazová dotace"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2210194.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161612",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161612",
+    "název": {"cs": "Město Kadaň - Dotační program 2022 - Stipendijní program města Kadaň pro akademický rok 2022/2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-31"
+    },
+    "spisová_značka": "299/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dotační program"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Stipendijni program"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2210196.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161616",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161616",
+    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 20.7.2022 - Mírové náměstí, ul. ČSA a kpt. Jaroše"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-07-21"
+    },
+    "spisová_značka": "300/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "32309"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2210212.pdf"
+      }    ]
   }
   ]
 }
