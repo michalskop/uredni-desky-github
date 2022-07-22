@@ -2534,40 +2534,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160911",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160911",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 21.7.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-22"
-    },
-    "číslo_jednací": "MUKK/30397/2022",
-    "spisová_značka": "275/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "30397"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2170676.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161121",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161121",
     "název": {"cs": "MÚ - odbor dopravy - Stanovení místní úpravy provozu na pozemních komunikacích - v ul. Tyršova v Klášterci nad Ohří"},
