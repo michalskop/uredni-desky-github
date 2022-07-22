@@ -3409,7 +3409,7 @@
       {
         "typ": "Digitální objekt",
         "název": {"cs": "Zásady"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2217871.pdf"
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2218185.pdf"
       }    ]
   },
 {
@@ -3578,6 +3578,40 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zprávy PO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2217876.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161944",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161944",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Dagmar Buzková"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-08"
+    },
+    "číslo_jednací": "MUKK/33232/2022",
+    "spisová_značka": "311/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "33232"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2218178.pdf"
       }    ]
   }
   ]
