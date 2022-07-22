@@ -3378,6 +3378,174 @@
         "název": {"cs": "32883"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2215773.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161914",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161914",
+    "název": {"cs": "Město Kadaň - Zásady pro hospodaření s byty a nebytovými prostory v majetku města Kadaně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-22"
+    },
+    "spisová_značka": "305/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Zásady"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2217871.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161915",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161915",
+    "název": {"cs": "Město Kadaň - Volby - Stanovení počtu členů okrskové volební komise"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-26"
+    },
+    "spisová_značka": "306/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Poćet ćlen OVK"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2217872.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161916",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161916",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Kadaň - 11.8.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-12"
+    },
+    "číslo_jednací": "MUKK/32995/2022",
+    "spisová_značka": "307/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "32995"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2217873.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161917",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161917",
+    "název": {"cs": "EÚ Šumperk - Dražební vyhláška - Petr Kail"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-24"
+    },
+    "číslo_jednací": "MUKK/32969/2022",
+    "spisová_značka": "308/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "32969"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2217874.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161918",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161918",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 12.8.2022 - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-15"
+    },
+    "číslo_jednací": "MUKK/33212/2022",
+    "spisová_značka": "309/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "33212"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2217875.pdf"
+      }    ]
   }
   ]
 }
