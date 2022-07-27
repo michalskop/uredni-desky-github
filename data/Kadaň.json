@@ -3312,6 +3312,159 @@
         "název": {"cs": "32856"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2226991.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162258",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162258",
+    "název": {"cs": "Vydaná rozhodnutí o registraci kandidátních listin registračním úřadem Kadaň pro volby do zastupitelstev obcí 2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-07-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-26"
+    },
+    "spisová_značka": "316/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Chbany   Pro vzájemné porozumění na venkově"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227336.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   ANO 2011"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227337.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   KSČM"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227338.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   LEPŠÍ SEVER"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227339.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   ODS"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227340.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   Piráti"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227341.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Kadaň   PRO Kadaň a okolí"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227366.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Libědice   HASIČI LIBĚDICE"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227420.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Libědice   NEZÁVISLÉ LIBĚDICE"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227421.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Mašťov   KSČM"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227422.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Mašťov   Sdružení nezávislých kandidátů   Harmonie"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227423.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Mašťov   Spravedlnost a Prosperita"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227424.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Mašťov   ŽIVÉ MĚSTO"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227425.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Pětipsy   Sdružení nezávislých kandidátů"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227426.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Račetice   Sdružení nezávislých kandidátů Račetice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227427.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Račetice   SNK   Prosperita a budoucnost Račetic"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227428.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Rokle   ČSSD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227429.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Rokle   LEPŠÍ VOLBA"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227430.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Rokle   SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227432.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Veliká Ves   Občané pro obec"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227433.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Veliká Ves   Sdružení nezávislých kandidátů"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227435.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vilémov   KSČM"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227436.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vilémov   Obec pro Vás"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227437.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vilémov   Pro Vilémov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227438.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vilémov   Trvalý rozvoj Vilémovska"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2227439.pdf"
+      }    ]
   }
   ]
 }
