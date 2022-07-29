@@ -2204,39 +2204,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160704",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160704",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu jako tzv. prostupného sociálního bydlení 2. stupně -  Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-29"
-    },
-    "spisová_značka": "265/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20220628134828251"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2166002.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160780",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160780",
     "název": {"cs": "Volby - seznam registračních úřadů"},
@@ -2332,40 +2299,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Stanovení počtu zastupitelstev"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2168131.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161130",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161130",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 28.7.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-07-29"
-    },
-    "číslo_jednací": "MUKK/31016/2022",
-    "spisová_značka": "280/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "čez 20220707104012968"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2187609.pdf"
       }    ]
   },
 {
