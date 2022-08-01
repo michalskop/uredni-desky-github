@@ -3398,6 +3398,40 @@
         "název": {"cs": "33885"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2230564.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162445",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162445",
+    "název": {"cs": "Magistrát města Chomutova - Opatření obecné povahy o stanovení přechodné úpravy provozu na silnicích III/22512 a II/568"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-01"
+    },
+    "číslo_jednací": "MUKK/34301/2022",
+    "spisová_značka": "319/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Magistrát města Chomutova"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "34301"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2235965.pdf"
+      }    ]
   }
   ]
 }
