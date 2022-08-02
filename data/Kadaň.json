@@ -2270,40 +2270,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161398",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161398",
-    "název": {"cs": "Státní pozemkový úřad - Oznámení o ukončení aktualizace bonitovaných půdně ekologických jednotek v části k.ú. Tušimice, Kadaň a Prunéřov"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-02"
-    },
-    "číslo_jednací": "MUKK/31372/2022",
-    "spisová_značka": "290/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Státní pozemkový úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Oznámení SPÚ ukončení aktualizace bonitovaných půdních jednotek"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2200448.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161399",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161399",
     "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel, SPZ: 6AM4449,4S26370, 4S90784, 9U82921, 8U87174, LNH0358, 3SI2810"},
