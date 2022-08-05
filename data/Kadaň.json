@@ -1938,40 +1938,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160170",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160170",
-    "název": {"cs": "EÚ Brno město - Dražební vyhláška - Stanislav Miker"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-05"
-    },
-    "číslo_jednací": "MUKK/27731/2022",
-    "spisová_značka": "239/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27731"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2140904.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160295",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160295",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla, ul. U Stadionu Kadaň - provozovatel R. Andraší"},
@@ -2435,40 +2401,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "EÚ Klatovy DV Tomáš Novotný"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2202437.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161470",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161470",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie 4.8.2022 v Kadani - ul. Březinova, Havlíčkova, J.Švermy, Máchova, T.G. Masaryka, U Splitu, V.Havla"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-05"
-    },
-    "číslo_jednací": "MUKK/32057/2022",
-    "spisová_značka": "297/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČEZ Distribuce odstávka elektřiny Kadaň 4 8 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2202446.pdf"
       }    ]
   },
 {
