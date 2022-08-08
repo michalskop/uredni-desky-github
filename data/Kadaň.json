@@ -2471,40 +2471,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161849",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161849",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Vejprty"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-08"
-    },
-    "číslo_jednací": "ODPK-27675/2022/Slu",
-    "spisová_značka": "301/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27675"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2215770.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161850",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161850",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Oznámení o zpracování územní studie - Perštejn - Lužný - L1"},
@@ -2804,40 +2770,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zprávy PO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2217876.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161944",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161944",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Dagmar Buzková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-08"
-    },
-    "číslo_jednací": "MUKK/33232/2022",
-    "spisová_značka": "311/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "33232"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2218178.pdf"
       }    ]
   },
 {
