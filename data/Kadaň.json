@@ -3732,6 +3732,73 @@
         "název": {"cs": "Oznámení o přerušení dodávky vody v rámci rekonstrukce vodovodního řadu"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2257379.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163471",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163471",
+    "název": {"cs": "MÚ – odbor dopravy – oznámení o návrhu opatření obecné povahy – stanovení místní úpravy provozu – Vilémov u Kadaně"},
+    "popis": {"cs": "Opatření obecné povahy – stanovení místní úpravy provozu na pozemních komunikacíchOdbor dopravy Městského úřadu Kadaň, jako příslušný silniční správní úřad podle ustanovení § 124 odst. 6 a§ 77 odst. 1 písm. c) zákona č. 361/2000 Sb., o provozu na pozemních komunikacích, ve znění pozdějších předpisů (dále jen „zákon o silničním provozu') na základě žádosti Obce Vilémov u Kadaně, IČ: 002 62 200, se sídlem: Náměstí 1, 431 54 Vilémov u Kadaně, ze dne 08.06.2022, v souladu s ustanovením § 171 a 173 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen „správní řád'), vydává opatření obecné povahy pro stanovení místní úpravy provozu spočívající v doplnění svislého dopravního značení (dále jen „dopravní značení'):na pozemní komunikaci: na silnici č. III/22417 a pozemní komunikaci v obci Vilémovv místě: na p.p.č. 250/1 a 248/1 v k.ú. Vilémov u Kadaněz důvodu: výstavba komunikacev rámci akce: 'Vilémov u Kadaně, technická infrastruktura pro 22 RD' "},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-23"
+    },
+    "číslo_jednací": "ODPK-26604/2022/Slu",
+    "spisová_značka": "338/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Stanovení místní úpravy provozu – Vilémov u Kadaně"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2260533.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163472",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163472",
+    "název": {"cs": "EÚ Plzeň – Dražební vyhláška – Štěpánka Bartoníčková, Margita Bartoníčková, Pavel Bartuněk"},
+    "popis": {"cs": "EÚ Plzeň   Dražební vyhláška   Štěpánka Bartoníčková, Margita Bartoníčková, Pavel Bartuněk"},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-23"
+    },
+    "číslo_jednací": "MUKK/35701/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Usnesení dražba nemovitostí 08 08 2022 1348 signed "},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2260535.pdf"
+      }    ]
   }
   ]
 }
