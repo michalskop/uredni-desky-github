@@ -3872,6 +3872,79 @@
         "název": {"cs": "Oznámení o vyhlášení el. aukce a žádost o zveřejnění aukční vyhlášky na úřední desce"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2264034.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163560",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163560",
+    "název": {"cs": "MPSV formulář na Czech POINT – jednorázový příspěvek na dítě"},
+    "popis": {"cs": "Ministerstvo práce a sociálních věcí od 15. srpna 2022 zavádí možnost podání žádosti o jednorázový příspěvek na dítě i na vybraných kontaktních místech veřejné správy Czech POINT.O dávku mohou žádat rodiče, kteří nedostali v červenci za měsíc červen přídavky na děti. Těm, kteří je obdrželi, přišla dávka automaticky. Žádat bude možné online na webu MPSV (zde je nutné mít elektronickou identitu občana), nebo osobně na vybraných kontaktních místech veřejné správy Czech POINT, kterými jsou krajské, městské a obecní úřady. Od 1. října bude možné žádat také na pobočkách České pošty."},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-24"
+    },
+    "číslo_jednací": "MUKK/35924/2022",
+    "spisová_značka": "342/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ministerstvo práce a sociálních věcí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Jednorázový příspěvek na dítě Odbor"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2264320.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MPSV formulář na Czech POINT – jednorázový příspěvek na dítě"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2264321.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163564",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163564",
+    "název": {"cs": "MÚ – odbor dopravy – oznámení o opatření obecné povahy pro stanovení přechodné úpravy provozu – konání akce „CÍSAŘSKÝ DEN&quot;"},
+    "popis": {"cs": " Odbor dopravy Městského úřadu Kadaň, jako příslušný silniční správní úřad podle ustanovení   124 odst. 6 a  77 odst. 1 písm. c) zákona č. 361/2000 Sb., o provozu na pozemních komunikacích, ve znění pozdějších předpisů ( dále jen &bdquo;zákon o silničním provozu') na základě žádosti Města Kadaně, IČ: 002 61 912, se sídlem: Mírové náměstí 1,432 01 Kadaň, ze dne 01.08.2022, v souladu s ustanovením  171 a 173 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů (dále jen &bdquo;správní řád'), vydává opatření obecné povahy pro stanovení přechodné úpravy provozu na komunikaci: Mírové náměstí a přilehlé ulice v Kadani v termínu: od 26.08.2022 do 27.08.2022 z důvodu: konání akce &bdquo;CÍSAŘSKÝ DEN' dopravní omezení: ÚPLNÁ UZAVÍRKA Mírového náměstí, ul. Vrchlického, Tyršova, Sládkova, Žatecká, Boženy Němcové a části ul. Jana Švermy a Kpt. Jaroše. "},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-24"
+    },
+    "číslo_jednací": "ODPK-34530/2022/Slu",
+    "spisová_značka": "343/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Oznámení o opatření obecné povahy pro stanovení přechodné úpravy provozu - konání akce „CÍSAŘSKÝ DEN\"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2264326.pdf"
+      }    ]
   }
   ]
 }
