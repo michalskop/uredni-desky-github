@@ -2673,40 +2673,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161918",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161918",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 12.8.2022 - Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-15"
-    },
-    "číslo_jednací": "MUKK/33212/2022",
-    "spisová_značka": "309/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "33212"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2217875.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161919",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161919",
     "název": {"cs": "Město Kadaň - Zpráva o činnosti příspěvkových organizací za rok 2021"},
@@ -2990,40 +2956,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "20220728075937164"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2228817.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162351",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162351",
-    "název": {"cs": "MÚ - Obecní živnostenský úřad - Výzva k převzetí písemnosti  - Filip Eisner"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-08-15"
-    },
-    "číslo_jednací": "MUKK/33885/2022",
-    "spisová_značka": "318/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "33885"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2230564.pdf"
       }    ]
   },
 {
