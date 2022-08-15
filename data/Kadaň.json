@@ -3505,14 +3505,14 @@
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163363",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163363",
     "název": {"cs": "Volební okrsky – oznámení o počtu a sídel volebních okrsků"},
-    "popis": {"cs": " Oznámení o počtu a sídel volebních okrsků dle  15c odst. 1 písm. g) zákona č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně a některých zákonů, ve znění pozdějších předpisů. "},
+    "popis": {"cs": " Oznámení o počtu a sídel volebních okrsků dle§ 15c odst. 1 písm. g) zákona č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně a některých zákonů, ve znění pozdějších předpisů. "},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-08-08"
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2022-08-22"
+      "datum": "2022-09-26"
     },
     "spisová_značka": "334/2022",
     "agenda": [
