@@ -3984,6 +3984,39 @@
         "název": {"cs": "VŘ ÚD SVaZ TP 11 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2284697.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165249",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165249",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 22.8.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-08-23"
+    },
+    "spisová_značka": "354/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 22 8 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2284699.pdf"
+      }    ]
   }
   ]
 }
