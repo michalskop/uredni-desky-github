@@ -3532,6 +3532,72 @@
         "název": {"cs": "ŽÚ Výzva k převzetí písemnosti Jakub Klimek"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2296372.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165718",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165718",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu v rámci sociálního bydlení - ul. Chomutovská"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-29"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-29"
+    },
+    "spisová_značka": "366/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty soc  29 8 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2300817.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165719",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165719",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu pro rodiče samoživitele - ul. Chomutovská"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-08-29"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-29"
+    },
+    "spisová_značka": "367/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byt samoživ  29 8 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2300821.pdf"
+      }    ]
   }
   ]
 }
