@@ -1703,39 +1703,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/154428",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-154428",
-    "název": {"cs": "Město Kadaň - Dotační program 2022 - podnikatelé - 2. pololetí"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "spisová_značka": "60/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dotační program"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Dotaćní program 2  pololetí 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1933340.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155657",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155657",
     "název": {"cs": "Státní pozemkový úřad - zahájení aktualizace BPEJ - Pokutice - pověření ke vstupu a vjezdu na pozemky"},
@@ -2371,39 +2338,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162161",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162161",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  srpen 2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "spisová_značka": "313/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik srpen 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2226696.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162162",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162162",
     "název": {"cs": "EÚ Šumperk - Dražební vyhláška - David Karička"},
@@ -2659,39 +2593,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163188",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163188",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  srpen 2022 - aktualizace"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "spisová_značka": "325/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výcvik srpen 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2245281.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163298",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163298",
     "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Opatření obecné povahy - Zákaz odběru povrchových vod"},
@@ -2789,45 +2690,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Usnesení dražba nemovitostí 08 08 2022 1348 signed "},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2260535.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163547",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163547",
-    "název": {"cs": "Oznámení o vyhlášení el. aukce a žádost o zveřejnění aukční vyhlášky na úřední desce – Kadaň, č.p. 1122"},
-    "popis": {"cs": "Oznamujeme Vám, že Česká republika – Úřad pro zastupování státu ve věcech majetkových vyhlásil dne 9.8.2022 konání aukce prostřednictvím Elektronického aukčního systému, dostupného na webových stránkách www.nabidkamajetku.cz. Začátek aukce se stanovuje na den 30.8.2022 v 10:00 hod a konec aukce na den 31.8.2022 v 10:00 hod.Předmět elektronické aukce:Spoluvlastnický podíl ve výši 39/2000 na níže uvedené nemovité věci:Pozemek- parcela č. 1313, o výměře 194 m2, zastavěná plocha a nádvoříSoučástí je stavba: Kadaň, č.p. 1122, byt.důmzapsaný na listu vlastnictví č. 1963 pro katastrální území Kadaň, obec Kadaň, v katastru nemovitostí vedeném Katastrálním úřadem pro Ústecký kraj, Katastrálním pracovištěm Chomutov. "},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "číslo_jednací": "MUKK/35879/2022",
-    "spisová_značka": "341/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Aukční vyhláška"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2264033.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Oznámení o vyhlášení el. aukce a žádost o zveřejnění aukční vyhlášky na úřední desce"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2264034.pdf"
       }    ]
   },
 {
@@ -3199,72 +3061,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "37224"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2289739.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165446",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165446",
-    "název": {"cs": "Volby - Pozvánka na 1. zasedání členů okrskových volebních komisí"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "spisová_značka": "359/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pozvánka"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2292951.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165447",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165447",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 30.8.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-01"
-    },
-    "spisová_značka": "360/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstřel"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2292952.pdf"
       }    ]
   },
 {
