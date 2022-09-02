@@ -2694,40 +2694,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163612",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163612",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie – Kadaň"},
-    "popis": {"cs": "UPOZORNĚNÍna odstávku elektřiny č. 110060847691 dne 1. 9. 2022 od 7:30 do 15:00 hodinPlánovaná odstávka zahrnuje tyto lokality:Kadaň (okres Chomutov)Jana Švermy: č. p. 1716Klášterec nad Ohří (okres Chomutov)část obce Mikulovice č. p. 57, 74 č. ev. 11, 13, 14, 15, 16, 18, 19, 20, 22, 23, 24, 25, 27, 29, 31-35, 37, 42, 43, 44, 45, 47, 48, 49, 50, 53, 54,59, 60, 61, 70kat. území Mikulovice u Vernéřova (kód 694355): parcelní č. 273, 397/2, 397/6, 397/9, 397/16, 397/25,397/30, 397/31, 469/2UPOZORNĚNÍDotčené zařízení distribuční soustavy je nutné i v době odstávky považovat za zařízení pod napětím, a protovás žádáme o dodržení všech zásad bezpečnosti a provedení opatření potřebných k zamezení případných škod nazdraví a majetku. Provozovatelé výroben elektřiny jsou povinni zajistit přerušení dodávky elektřiny z výrobny dovypnutého úseku distribuční soustavy."},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-02"
-    },
-    "číslo_jednací": "MUKK/36180/2022",
-    "spisová_značka": "344/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "UPOZORNĚNÍ na odstávku elektřiny č. 110060847691"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2266939.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163702",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163702",
     "název": {"cs": "EÚ Praha 3 – Dražební vyhláška – Lenka Dimitrova, Matey Dimitrov Dimitrov"},
@@ -2792,40 +2758,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "36543"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2277203.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165121",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165121",
-    "název": {"cs": "MÚ - stavební úřad - uvědomění o zahájení vyvlastňovacího řízení a nařízení ústního jednání - MUKK/36809/2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-02"
-    },
-    "číslo_jednací": "MUKK/36809/2022",
-    "spisová_značka": "350/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36809"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2281096.pdf"
       }    ]
   },
 {
