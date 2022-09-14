@@ -2104,39 +2104,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161399",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161399",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel, SPZ: 6AM4449,4S26370, 4S90784, 9U82921, 8U87174, LNH0358, 3SI2810"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-07-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-14"
-    },
-    "spisová_značka": "291/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MP Kadaň 7x výzva k odstranění vozidla"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2200449.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/161431",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-161431",
     "název": {"cs": "MÚ - odbor životního prostředí - VV - OOP - Zákaz odběru povrchových vod - Klášterecký potok, Podmileský potok, Prunéřovský potok, Široký potok, Úhošťanský potok, Liboc, Kadaňský potok"},
@@ -2622,40 +2589,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Usnesení dražba nemovitostí 08 08 2022 1348 signed "},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2260535.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163702",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163702",
-    "název": {"cs": "EÚ Praha 3 – Dražební vyhláška – Lenka Dimitrova, Matey Dimitrov Dimitrov"},
-    "popis": {"cs": "Soudní exekutorka JUDr. Ingrid Švecová, Exekutorský úřad Praha 3, se sídlem Vinohradská 174, 130 00 Praha 3, pověřená vedením exekuce na základě pověření Okresního soudu v Chomutově ze dne 04.11.2021, č.j. 26 EXE 11067/2021-76, doložka provedení exekuce byla zapsána dne 23.12.2021, v exekuční věci oprávněných: 1) Radovan Hubík, Růmy čp. 5545, 760 01 Zlín, , práv. zast. Mgr. Michal Dittrich, advokát se sídlem Vinohradská 1597, 130 00 Praha2) Marcela Hubíková, Růmy čp. 5545, 760 01 Zlín, , práv. zast. Mgr. Michal Dittrich, advokát se sídlem Vinohradská 1597, 130 00 Prahaproti povinným: 1) Lenka Dimitrova, bytem Jungmannova čp. 1175, Kadaň 432 01, IČ: 15155111, nar. 23.01.19702) Matey Dimitrov Dimitrov, bytem Jungmannova čp. 1175, Kadaň 432 01, nar. 05.02.1978pro dlužnou částku ve výši: 3 763 686,06 Kč s příslušenstvím ve věci exekuce prodejem nemovitých věcí"},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-12"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-14"
-    },
-    "číslo_jednací": "MUKK/36343/2022",
-    "spisová_značka": "345/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Dražební vyhláška"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2269771.pdf"
       }    ]
   },
 {
