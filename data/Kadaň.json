@@ -3834,6 +3834,176 @@
         "název": {"cs": "41224"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2329868.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167036",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167036",
+    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 20.9.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-15"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-09-21"
+    },
+    "číslo_jednací": "MUKK/41434/2022",
+    "spisová_značka": "398/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "41434"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2333673.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167037",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167037",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - Široké Třebčice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-03"
+    },
+    "číslo_jednací": "ODPK-40993/2022",
+    "spisová_značka": "399/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "40993"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2333675.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167038",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167038",
+    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jaroslav Kundra"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-17"
+    },
+    "číslo_jednací": "MUKK/41493/2022",
+    "spisová_značka": "400/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "41493"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2333679.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167044",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167044",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 6.10.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-07"
+    },
+    "číslo_jednací": "MUKK/41466/2022",
+    "spisová_značka": "401/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "41466"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2333764.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167045",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167045",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. V Hájích - Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-03"
+    },
+    "číslo_jednací": "ODPK - 40469/2022/Slu",
+    "spisová_značka": "402/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "40469"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2333765.pdf"
+      }    ]
   }
   ]
 }
