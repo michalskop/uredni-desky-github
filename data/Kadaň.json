@@ -2559,40 +2559,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/163472",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-163472",
-    "název": {"cs": "EÚ Plzeň – Dražební vyhláška – Štěpánka Bartoníčková, Margita Bartoníčková, Pavel Bartuněk"},
-    "popis": {"cs": "EÚ Plzeň – Dražební vyhláška – Štěpánka Bartoníčková, Margita Bartoníčková, Pavel Bartuněk"},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-16"
-    },
-    "číslo_jednací": "MUKK/35701/2022",
-    "spisová_značka": "339/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Usnesení dražba nemovitostí 08 08 2022 1348 signed "},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2260535.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/164982",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-164982",
     "název": {"cs": "EÚ Přerov - Dražební vyhláška - Daniel Kyška"},
@@ -2856,40 +2822,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Byt samoživ  29 8 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2300821.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165862",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165862",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Fibichova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-16"
-    },
-    "číslo_jednací": "ODPK-38648/2022/Slu",
-    "spisová_značka": "369/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38648"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2304023.pdf"
       }    ]
   },
 {
