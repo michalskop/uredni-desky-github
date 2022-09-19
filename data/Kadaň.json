@@ -2713,7 +2713,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -2780,7 +2780,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -2813,7 +2813,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
