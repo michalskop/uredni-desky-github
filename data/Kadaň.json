@@ -2559,40 +2559,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/164982",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-164982",
-    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Daniel Kyška"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-19"
-    },
-    "číslo_jednací": "MUKK/36543/2022",
-    "spisová_značka": "347/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36543"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2277203.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165247",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165247",
     "název": {"cs": "Město Kadaň - Výběrové řízení - sociální pracovník Terénního programu -  doba určitá"},
@@ -2923,40 +2889,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "39441"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2306914.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165936",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165936",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Vejprty, Kovářská"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-19"
-    },
-    "číslo_jednací": "ODPK-34614/2022/Slu",
-    "spisová_značka": "373/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "34614"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2306915.pdf"
       }    ]
   },
 {
