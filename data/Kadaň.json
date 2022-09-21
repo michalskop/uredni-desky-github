@@ -2559,40 +2559,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165314",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165314",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Návrh zadání územního plánu Račetice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-21"
-    },
-    "číslo_jednací": "MUKK/36138/2022",
-    "spisová_značka": "355/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36138"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2289731.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165317",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165317",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 8U9 7569"},
@@ -2889,74 +2855,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "volby do zastupitelstva Kadaně 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2311880.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166045",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166045",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Dagmar Buzková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-21"
-    },
-    "číslo_jednací": "MUKK/39645/2022",
-    "spisová_značka": "375/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "39645"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2312875.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166046",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166046",
-    "název": {"cs": "MÚ - Obecní živnostenský úřad - Výzva k převzetí písemnosti  - Tereza Šebelová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-21"
-    },
-    "číslo_jednací": "MUKK/39369/2022",
-    "spisová_značka": "376/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "39369"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2312877.pdf"
       }    ]
   },
 {
@@ -3664,40 +3562,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "41224"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2329868.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167036",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167036",
-    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 20.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-21"
-    },
-    "číslo_jednací": "MUKK/41434/2022",
-    "spisová_značka": "398/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "41434"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2333673.pdf"
       }    ]
   },
 {
