@@ -3801,6 +3801,140 @@
         "název": {"cs": "41920"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2343301.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167358",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167358",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 13.10.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-14"
+    },
+    "číslo_jednací": "MUKK/42683/2022",
+    "spisová_značka": "406/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "42683"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2345141.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167359",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167359",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3U6 6518"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-22"
+    },
+    "spisová_značka": "407/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výzva   22 9 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2345143.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167362",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167362",
+    "název": {"cs": "MÚ Klášterec nad Ohří - Veřejná vyhláška - Rozhodnutí o umístění stavby - Mikulovice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-10"
+    },
+    "spisová_značka": "408/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VV Klášterec"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2345147.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167363",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167363",
+    "název": {"cs": "MÚ Podbořany - Veřejná vyhláška - Oznámení zahájení společného řízení - zřízení vodního díla - Krásný Dvůr, Němčany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-09-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-10"
+    },
+    "číslo_jednací": "MUKK/42630/2022",
+    "spisová_značka": "409/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "42630"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2345148.pdf"
+      }    ]
   }
   ]
 }
