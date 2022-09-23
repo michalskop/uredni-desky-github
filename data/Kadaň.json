@@ -1905,40 +1905,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160476",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160476",
-    "název": {"cs": "EÚ Rakovník - Dražební vyhláška - Šárka Hričinová - odročení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-23"
-    },
-    "číslo_jednací": "MUKK/28868/2022",
-    "spisová_značka": "252/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "28868"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2154896.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/160703",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-160703",
     "název": {"cs": "Město Kadaň - Oznámení zveřejnění protokolu o schválení účetní závěrky za rok 2021 města Kadaň"},
@@ -2859,39 +2825,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166142",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166142",
-    "název": {"cs": "Město Kadaň - 3. rozpočtové opatření k 22.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-23"
-    },
-    "spisová_značka": "378/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "3  rozpoćtové opatření"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2314421.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167551",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167551",
     "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Radonice"},
@@ -3428,39 +3361,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "40297"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2325789.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166903",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166903",
-    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 22.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-09-23"
-    },
-    "spisová_značka": "394/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pozvánka ÚD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2329862.pdf"
       }    ]
   },
 {
