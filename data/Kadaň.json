@@ -2173,73 +2173,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165863",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165863",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  září 2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "spisová_značka": "370/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik září 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2304036.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165871",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165871",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Projednání návrhu zprávy o uplatňování územního plánu obce Kryštofovy Hamry"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "číslo_jednací": "MUKK/38697/2022",
-    "spisová_značka": "371/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38664"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2304124.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165935",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165935",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Vejprty"},
@@ -2341,39 +2274,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166523",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166523",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 1.10.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "spisová_značka": "381/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Svoz odpadu"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2318306.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166530",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166530",
     "název": {"cs": "EÚ Praha 1 - Dražební vyhláška - Golden Opportunity, družstvo"},
@@ -2438,40 +2338,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "40422"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2318399.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166677",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166677",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 30.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-12"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "číslo_jednací": "MUKK/40652/2022",
-    "spisová_značka": "389/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40652"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2325700.pdf"
       }    ]
   },
 {
@@ -2543,40 +2409,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167037",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167037",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - Široké Třebčice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "číslo_jednací": "ODPK-40993/2022",
-    "spisová_značka": "399/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40993"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2333675.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167038",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167038",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jaroslav Kundra"},
@@ -2641,40 +2473,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "41466"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2333764.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167045",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167045",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. V Hájích - Klášterec nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-03"
-    },
-    "číslo_jednací": "ODPK - 40469/2022/Slu",
-    "spisová_značka": "402/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40469"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2333765.pdf"
       }    ]
   },
 {
