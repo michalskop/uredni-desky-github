@@ -2173,40 +2173,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165935",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165935",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Vejprty"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-06"
-    },
-    "číslo_jednací": "MUKK/39441/2022",
-    "spisová_značka": "372/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "39441"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2306914.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166047",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166047",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jiří Přibyl"},
