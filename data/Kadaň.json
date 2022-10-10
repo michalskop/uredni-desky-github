@@ -2206,40 +2206,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167551",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167551",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Radonice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "číslo_jednací": "ODPK-41725/2022/Slu",
-    "spisová_značka": "413/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "41725"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345434.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166530",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166530",
     "název": {"cs": "EÚ Praha 1 - Dražební vyhláška - Golden Opportunity, družstvo"},
@@ -2510,73 +2476,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167362",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167362",
-    "název": {"cs": "MÚ Klášterec nad Ohří - Veřejná vyhláška - Rozhodnutí o umístění stavby - Mikulovice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "spisová_značka": "408/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VV Klášterec"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345147.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167363",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167363",
-    "název": {"cs": "MÚ Podbořany - Veřejná vyhláška - Oznámení zahájení společného řízení - zřízení vodního díla - Krásný Dvůr, Němčany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "číslo_jednací": "MUKK/42630/2022",
-    "spisová_značka": "409/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42630"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345148.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167364",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167364",
     "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Tibor Čonka"},
@@ -2611,74 +2510,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167367",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167367",
-    "název": {"cs": "KÚ ÚK - Veřejná vyhláška - Opatření obecné povahy - místní úprava provozu - ul. Tyršova v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "číslo_jednací": "MUKK/42518/2022",
-    "spisová_značka": "411/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42518"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345154.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167553",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167553",
-    "název": {"cs": "MÚ - Obecní živnostenský úřad - Výzva k převzetí písemnosti - Filip Eisner"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "číslo_jednací": "MUKK/42274/2022",
-    "spisová_značka": "412/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42274"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345435.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167617",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167617",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 23.9.2022"},
@@ -2708,40 +2539,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2347309.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167618",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167618",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Sadová v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-10"
-    },
-    "číslo_jednací": "ODPK - 34344/2022/Slu",
-    "spisová_značka": "415/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "34344"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2347310.pdf"
       }    ]
   },
 {
