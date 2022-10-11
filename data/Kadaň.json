@@ -3323,6 +3323,107 @@
         "název": {"cs": "44479"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2373205.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168689",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168689",
+    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody - 3.10.2022 - 30.11.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-01"
+    },
+    "číslo_jednací": "45105/2022",
+    "spisová_značka": "439/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "45105"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2382286.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168692",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168692",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Nad Nemocnicí, ul. Golovinova a ul. Jana Roháče v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-27"
+    },
+    "číslo_jednací": "ODPK-45170/2022/Slu",
+    "spisová_značka": "441/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "45170"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2382368.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168693",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168693",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej bytové jednotky č. 3 v objektu č.p. 1933 v k. ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-27"
+    },
+    "spisová_značka": "440/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Záměr obce 11 10 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2382369.pdf"
+      }    ]
   }
   ]
 }
