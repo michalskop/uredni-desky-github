@@ -3457,6 +3457,74 @@
         "název": {"cs": "pozvánka ÚD"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2385144.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168832",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168832",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Mírové náměstí, ul. Jana Švermy v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-12"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-31"
+    },
+    "číslo_jednací": "ODPK-43521/2022/Slu",
+    "spisová_značka": "443/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "43521"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2385255.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168835",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168835",
+    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Šedý Jaromír"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-12"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-23"
+    },
+    "číslo_jednací": "MUKK/45907/2022",
+    "spisová_značka": "444/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "45907"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2385260.pdf"
+      }    ]
   }
   ]
 }
