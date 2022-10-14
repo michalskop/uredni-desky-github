@@ -2173,39 +2173,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166047",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166047",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jiří Přibyl"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-14"
-    },
-    "číslo_jednací": "MUKK/39491/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "39491"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2312878.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166530",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166530",
     "název": {"cs": "EÚ Praha 1 - Dražební vyhláška - Golden Opportunity, družstvo"},
@@ -2307,40 +2274,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166907",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166907",
-    "název": {"cs": "EÚ Praha 3 - Dražební vyhláška - Dimitrova, Dimitrov - odročení na neurčito"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-14"
-    },
-    "číslo_jednací": "MUKK/41224/2022",
-    "spisová_značka": "397/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "41224"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2329868.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167038",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167038",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jaroslav Kundra"},
@@ -2371,40 +2304,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "41493"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2333679.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167358",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167358",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 13.10.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-14"
-    },
-    "číslo_jednací": "MUKK/42683/2022",
-    "spisová_značka": "406/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42683"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345141.pdf"
       }    ]
   },
 {
@@ -2843,40 +2742,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "44343"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2369606.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168328",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168328",
-    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň - 13.10.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-14"
-    },
-    "číslo_jednací": "MUKK/44277/2022",
-    "spisová_značka": "430/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "44277"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2369607.pdf"
       }    ]
   },
 {
