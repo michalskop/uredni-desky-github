@@ -114,18 +114,18 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/115441",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-115441",
-    "název": {"cs": "Výzva vlastníkům nemovitostí"},
+    "název": {"cs": "ÚZSVM - Výzva vlastníkům nemovitostí"},
     "popis": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
-      "datum": "2021-03-15"
+      "datum": "2022-10-17"
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
       "datum": "2023-12-31"
     },
-    "číslo_jednací": "MUKK/11038/2021",
-    "spisová_značka": "359/2021",
+    "číslo_jednací": "MUKK/46539/2022",
+    "spisová_značka": "450/2022",
     "agenda": [
       {
         "typ": "Agenda",
@@ -140,8 +140,13 @@
 
       {
         "typ": "Digitální objekt",
-        "název": {"cs": "36783"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1589027.pdf"
+        "název": {"cs": "46539"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2395617.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČJ UZSVM UCV 6396 2022 UCVM 1 "},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2395618.pdf"
       }    ]
   },
 {
@@ -3420,6 +3425,107 @@
         "typ": "Digitální objekt",
         "název": {"cs": "46332"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2395613.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169031",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169031",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy na pozemní komunikaci - ul. Jana Švermy ve Vejprtech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-02"
+    },
+    "číslo_jednací": "ODPK-46060/2022/Slu",
+    "spisová_značka": "451/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "46060"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2395619.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169032",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169032",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-02"
+    },
+    "číslo_jednací": "ODPK-43282/2022/Slu",
+    "spisová_značka": "452/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "43282"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2395620.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169033",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169033",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 20.10.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-10-21"
+    },
+    "spisová_značka": "454/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Clonový odstřel 20 10 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2395622.pdf"
       }    ]
   }
   ]
