@@ -2279,40 +2279,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167038",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167038",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Jaroslav Kundra"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-17"
-    },
-    "číslo_jednací": "MUKK/41493/2022",
-    "spisová_značka": "400/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "41493"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2333679.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167359",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167359",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3U6 6518"},
@@ -2581,39 +2547,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Byty Chomutovská 29 9 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2359172.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168131",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168131",
-    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 22.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-17"
-    },
-    "spisová_značka": "425/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ZM 22 9 2022 ÚD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2359173.pdf"
       }    ]
   },
 {
