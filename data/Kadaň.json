@@ -2112,39 +2112,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/165317",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-165317",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 8U9 7569"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-24"
-    },
-    "spisová_značka": "357/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzva 22 8 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2289738.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/166530",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-166530",
     "název": {"cs": "EÚ Praha 1 - Dražební vyhláška - Golden Opportunity, družstvo"},
@@ -2342,79 +2309,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2347309.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167679",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167679",
-    "název": {"cs": "Výsledky voleb do zastupitelstev obcí Kadaň 2022"},
-    "popis": {"cs": "Výsledky voleb do zastupitelstev obcí Kadaň 2022 - viz. přílohy v PDF"},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-24"
-    },
-    "spisová_značka": "417/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Chbany"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349518.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Libedice"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349519.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Mašťov"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349520.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pětipsy"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349521.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Račetice"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349522.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Rokle"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349523.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Veliká Ves"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349524.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Vilémov"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349525.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Kadaň"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2349526.pdf"
       }    ]
   },
 {
@@ -2747,40 +2641,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Byty 4 10  2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2369614.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168459",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168459",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Radonice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-10-24"
-    },
-    "číslo_jednací": "ODPK-44479/2022/Slu",
-    "spisová_značka": "438/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "44479"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2373205.pdf"
       }    ]
   },
 {
