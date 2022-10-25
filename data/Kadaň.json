@@ -3351,6 +3351,40 @@
         "název": {"cs": "46525"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2404375.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169430",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169430",
+    "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Státní statek Jeneč"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-10-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-01"
+    },
+    "číslo_jednací": "MUKK/48100/2022",
+    "spisová_značka": "463/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48100"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2412698.pdf"
+      }    ]
   }
   ]
 }
