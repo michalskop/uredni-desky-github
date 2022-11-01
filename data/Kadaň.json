@@ -2213,39 +2213,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168066",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168066",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  říjen 2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-01"
-    },
-    "spisová_značka": "420/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik říjen 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2355371.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168333",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168333",
     "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu v rámci sociálního bydlení - ul. Chomutovská 1255"},
@@ -2513,39 +2480,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "46392"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2399328.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169159",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169159",
-    "název": {"cs": "KÚ ÚK - 17. zasedání Zastupitelstva Ústeckého kraje - 31.10.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-01"
-    },
-    "spisová_značka": "456/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pozvánka 17 ZÚK 31 10 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2399332.pdf"
       }    ]
   },
 {
