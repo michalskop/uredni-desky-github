@@ -2382,40 +2382,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169031",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169031",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy na pozemní komunikaci - ul. Jana Švermy ve Vejprtech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-02"
-    },
-    "číslo_jednací": "ODPK-46060/2022/Slu",
-    "spisová_značka": "451/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "46060"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2395619.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169032",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169032",
     "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - v Klášterci nad Ohří"},
