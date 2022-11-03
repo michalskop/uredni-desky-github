@@ -3200,7 +3200,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2022-11-17"
+      "datum": "2022-11-18"
     },
     "číslo_jednací": "ODPK-40469/2022/Slu",
     "spisová_značka": "480/2022",
@@ -3220,6 +3220,74 @@
         "typ": "Digitální objekt",
         "název": {"cs": "OD OOP úprava provozu ul V hájích, Kláštere n O"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2431712.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169929",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169929",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - změna termínu stanovení přechodné úpravy provozu - silnice č. III/22425 v obci Radonice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-19"
+    },
+    "číslo_jednací": "ODK-46997/2022/Slu",
+    "spisová_značka": "481/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Plzeň DV L  Sihelníková"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2434103.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169930",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169930",
+    "název": {"cs": "EÚ Plzeň - Dražební vyhláška elektronická - L´ubica Sihelníková, dne 23.11.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-24"
+    },
+    "číslo_jednací": "MUKK/49397/2022",
+    "spisová_značka": "482/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Plzeň DV L  Sihelníková"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2434104.pdf"
       }    ]
   }
   ]
