@@ -2145,39 +2145,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168333",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168333",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu v rámci sociálního bydlení - ul. Chomutovská 1255"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-07"
-    },
-    "spisová_značka": "434/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byty 4 10  2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2369614.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168689",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168689",
     "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody - 3.10.2022 - 30.11.2022"},
@@ -2412,40 +2379,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "47240"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2404371.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169322",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169322",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - ul. Husova v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-07"
-    },
-    "číslo_jednací": "ODPK-46525/2022",
-    "spisová_značka": "462/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "46525"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2404375.pdf"
       }    ]
   },
 {
