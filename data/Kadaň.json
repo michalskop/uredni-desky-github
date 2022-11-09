@@ -1920,7 +1920,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "nespecifikovaný": true
+      "datum": "2022-11-09"
     },
     "číslo_jednací": "MUKK/32041/2022",
     "spisová_značka": "293/2022",
@@ -3467,6 +3467,40 @@
         "typ": "Digitální objekt",
         "název": {"cs": "48541"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2445142.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170322",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170322",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Zrušení OOP - Zákaz odběru povrchových vod"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-25"
+    },
+    "číslo_jednací": "MUKK/50501/2022",
+    "spisová_značka": "496/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "50501"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2447488.pdf"
       }    ]
   }
   ]
