@@ -3468,6 +3468,107 @@
         "název": {"cs": "50501"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2447488.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170356",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170356",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Dagmar Buzková"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "číslo_jednací": "MUKK/50680/2022",
+    "spisová_značka": "497/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "50680"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2449017.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170357",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170357",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Golovinova - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-12"
+    },
+    "spisová_značka": "498/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byt 10 11 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2449018.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170358",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170358",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 15.11.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-16"
+    },
+    "číslo_jednací": "MUKK/50750/2022",
+    "spisová_značka": "499/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "50750"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2449019.pdf"
+      }    ]
   }
   ]
 }
