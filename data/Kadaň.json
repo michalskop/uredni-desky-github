@@ -3467,6 +3467,108 @@
         "název": {"cs": "VŘ RR ŮD"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2451321.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170615",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170615",
+    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu - Kadaňská Jeseň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-15"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-01"
+    },
+    "číslo_jednací": "ODPK-50686/2022/Slu",
+    "spisová_značka": "502/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "50686"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2472081.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170616",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170616",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 15.11.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-15"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-11-16"
+    },
+    "číslo_jednací": "MUKK/51333/2022",
+    "spisová_značka": "503/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "51333"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2472082.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170617",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170617",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 6.12.2022 - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-15"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-07"
+    },
+    "číslo_jednací": "MUKK/51556/2022",
+    "spisová_značka": "504/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "51556"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2472084.pdf"
+      }    ]
   }
   ]
 }
