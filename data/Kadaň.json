@@ -3228,6 +3228,39 @@
         "název": {"cs": "Výzva 22 11 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2487016.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171755",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171755",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. prostupného sociálního bydlení 2. stupně - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-23"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-27"
+    },
+    "spisová_značka": "509/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty 23 11 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2491126.pdf"
+      }    ]
   }
   ]
 }
