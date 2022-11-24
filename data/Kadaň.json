@@ -3227,6 +3227,74 @@
         "název": {"cs": "52756"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2491128.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171784",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171784",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška  - Rozhodnutí - Společné povolení - Kadaň, 5. května - rekonstrukce vodovodu a kanalizace"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-12"
+    },
+    "číslo_jednací": "MUKK/52967/2022",
+    "spisová_značka": "512/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "52967"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2492657.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171785",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171785",
+    "název": {"cs": "KÚ ÚK - Zveřejnění návrhu rozpočtu Ústeckého kraje na rok 2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-13"
+    },
+    "číslo_jednací": "MUKK/52821/2022",
+    "spisová_značka": "513/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "návrh rozpoćtu ÚK 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2492662.pdf"
+      }    ]
   }
   ]
 }
