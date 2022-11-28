@@ -3193,6 +3193,155 @@
         "název": {"cs": "návrh rozpoćtu ÚK 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2492662.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171986",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171986",
+    "název": {"cs": "Volby - Prezident republiky - Počet a sídla volebních okrsků"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-16"
+    },
+    "spisová_značka": "514/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volby"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "volební okrsky"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501623.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171991",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171991",
+    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 28.11.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-30"
+    },
+    "spisová_značka": "515, 516, 520,521/20",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 2U7 3157"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501624.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 3K8 0097"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501626.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 9T6 3537"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501640.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva Chevrolet"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501712.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171992",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171992",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Mírové náměstí, ul. Jana Švermy"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-14"
+    },
+    "číslo_jednací": "ODPK-49422/2022/Slu",
+    "spisová_značka": "517/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49422"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501713.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171994",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171994",
+    "název": {"cs": "MÚ - odbor dopravy - Rozhodnutí - Stavební povolení - Rekonstrukce mostu a opěrné zdi - Údolíčko"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-14"
+    },
+    "číslo_jednací": "MUKK/51072/2022",
+    "spisová_značka": "518/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "51072"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501716.pdf"
+      }    ]
   }
   ]
 }
