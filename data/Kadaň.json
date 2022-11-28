@@ -3342,6 +3342,40 @@
         "název": {"cs": "51072"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2501716.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171996",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171996",
+    "název": {"cs": "ÚZSVM - aukční vyhláška - p.č. 1313, stavba č.p. 1122 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-11-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-15"
+    },
+    "číslo_jednací": "MUKK/53524/2022",
+    "spisová_značka": "519/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "53524"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2501722.pdf"
+      }    ]
   }
   ]
 }
