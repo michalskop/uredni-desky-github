@@ -1810,39 +1810,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159746",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159746",
-    "název": {"cs": "Město Kadaň - Informace o rekonstrukci vodovodního řadu v ulicích města - ČSA, Vrchlického, Čechova"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-06-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-11-30"
-    },
-    "spisová_značka": "228/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "informace"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2124732.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159850",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159850",
     "název": {"cs": "MÚ - odbor dopravy - oznámení o výběru a vrácení správních poplatků občanům Ukrajiny"},
