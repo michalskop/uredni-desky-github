@@ -1675,74 +1675,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155657",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155657",
-    "název": {"cs": "Státní pozemkový úřad - zahájení aktualizace BPEJ - Pokutice - pověření ke vstupu a vjezdu na pozemky"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/14564/2022",
-    "spisová_značka": "103/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Státní pozemkový úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14564"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1980543.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155658",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155658",
-    "název": {"cs": "Státní pozemkový úřad - zahájení aktualizace BPEJ - Úhošť - pověření ke vstupu a vjezdu na pozemky"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/14565/2022",
-    "spisová_značka": "104/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Státní pozemkový úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14565"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1980544.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155757",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155757",
     "název": {"cs": "Zeměměřičský úřad Praha - Veřejná vyhláška"},
@@ -1911,74 +1843,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/162445",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-162445",
-    "název": {"cs": "Magistrát města Chomutova - Opatření obecné povahy o stanovení přechodné úpravy provozu na silnicích III/22512 a II/568"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-08-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/34301/2022",
-    "spisová_značka": "319/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Magistrát města Chomutova"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "34301"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2235965.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167364",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167364",
-    "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Tibor Čonka"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/42530/2022",
-    "spisová_značka": "410/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42530"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2345151.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167617",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167617",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 23.9.2022"},
@@ -2008,40 +1872,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2347309.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/168689",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-168689",
-    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody - 3.10.2022 - 30.11.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "45105/2022",
-    "spisová_značka": "439/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "45105"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2382286.pdf"
       }    ]
   },
 {
@@ -2080,40 +1910,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169430",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169430",
-    "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Státní statek Jeneč"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/48100/2022",
-    "spisová_značka": "463/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "48100"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2412698.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169455",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169455",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3U5 6447"},
@@ -2143,39 +1939,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva 25 10 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2413375.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169524",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169524",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  listopad  2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "spisová_značka": "466/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Újezdní úřad Hradiště cvičení listopad 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2415737.pdf"
       }    ]
   },
 {
@@ -2242,40 +2005,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Střednědobý výhled 2023-2024.pdf"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2415840.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169772",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169772",
-    "název": {"cs": "EÚ Chomutov - Usnesení o nařízení elektronického dražebního jednání - Pecháč Richard - 30.11.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "MUKK/49006/2022",
-    "spisová_značka": "476/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "EÚ Chomutov dražební vyhláška R Pecháč"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2429622.pdf"
       }    ]
   },
 {
@@ -2720,40 +2449,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VŘ RR ŮD"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2451321.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170615",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170615",
-    "název": {"cs": "MÚ - odbor dopravy - Stanovení přechodné úpravy provozu - Kadaňská Jeseň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-01"
-    },
-    "číslo_jednací": "ODPK-50686/2022/Slu",
-    "spisová_značka": "502/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "50686"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2472081.pdf"
       }    ]
   },
 {
