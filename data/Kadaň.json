@@ -3166,8 +3166,177 @@
 
       {
         "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik   prosinec 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2508130.pdf"
+        "název": {"cs": "výcvik prosinec 2022 aktualizace"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517396.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172386",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172386",
+    "název": {"cs": "Magistrát města Chomutova - Oznámení zahájení řízení o povolení uzavírky - VD Nechranice - 15.12.2022"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-16"
+    },
+    "číslo_jednací": "MUKK/54217/2022",
+    "spisová_značka": "530/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Magistrát města Chomutova"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "54217"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517292.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172388",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172388",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej bytové jednotky č.p. 1915 v k. ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-21"
+    },
+    "spisová_značka": "531/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Záměr obce 5 12 2022"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517298.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172390",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172390",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Jana Švermy ve Vejprtech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-21"
+    },
+    "číslo_jednací": "ODPK-46060/2022/Slu",
+    "spisová_značka": "532/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "46060"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517302.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172391",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172391",
+    "název": {"cs": "MÚ - odbor životního prostředí - Rozhodnutí - Veřejná vyhláška  - Společné povolení - Vodovod Pětipsy - rekonstrukce vodovodu a kanalizace - ul. Osvobozená, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-21"
+    },
+    "číslo_jednací": "MUKK/54475/2022",
+    "spisová_značka": "533/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "54475"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517353.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172392",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172392",
+    "název": {"cs": "MÚ - Obecní živnostenský úřad - Výzva k převzetí písemnosti - Karol Vejmelka"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2022-12-21"
+    },
+    "číslo_jednací": "MUKK/54225/2022",
+    "spisová_značka": "534/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Obecní živnostenský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "54225"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2517387.pdf"
       }    ]
   }
   ]
