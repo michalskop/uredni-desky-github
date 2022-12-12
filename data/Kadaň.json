@@ -2154,39 +2154,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170357",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170357",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Golovinova - Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-12"
-    },
-    "spisová_značka": "498/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byt 10 11 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2449018.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170412",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170412",
     "název": {"cs": "Volby - Prezident republiky - Počet členů OVK"},
@@ -2382,40 +2349,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "52662"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2491127.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171784",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171784",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška  - Rozhodnutí - Společné povolení - Kadaň, 5. května - rekonstrukce vodovodu a kanalizace"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-12"
-    },
-    "číslo_jednací": "MUKK/52967/2022",
-    "spisová_značka": "512/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "52967"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2492657.pdf"
       }    ]
   },
 {
