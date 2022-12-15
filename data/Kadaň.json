@@ -2187,39 +2187,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170434",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170434",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník odboru regionálního rozvoje, územního plánování a památkové péče"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-15"
-    },
-    "spisová_značka": "501/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ RR ŮD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2451321.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170708",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170708",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 7AR6135"},
@@ -2400,40 +2367,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/171996",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-171996",
-    "název": {"cs": "ÚZSVM - aukční vyhláška - p.č. 1313, stavba č.p. 1122 v k.ú. Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-15"
-    },
-    "číslo_jednací": "MUKK/53524/2022",
-    "spisová_značka": "519/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "53524"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2501722.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172056",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172056",
     "název": {"cs": "Město Kadaň - Střednědobý výhled rozpočtu na roky 2024-2025"},
@@ -2529,40 +2462,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "4  rozpoćtové opatření"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2503518.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172063",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172063",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - VD Nechranice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-15"
-    },
-    "číslo_jednací": "ODPK-53023/2022",
-    "spisová_značka": "527/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "53023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2503548.pdf"
       }    ]
   },
 {
