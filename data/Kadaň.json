@@ -1675,40 +1675,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/155757",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-155757",
-    "název": {"cs": "Zeměměřičský úřad Praha - Veřejná vyhláška"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-03-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "číslo_jednací": "MUKK/14693/2022",
-    "spisová_značka": "110/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14693"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1982961.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/159610",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-159610",
     "název": {"cs": "Město Kadaň - Závěrečný účet města za rok 2021"},
@@ -2367,105 +2333,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172056",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172056",
-    "název": {"cs": "Město Kadaň - Střednědobý výhled rozpočtu na roky 2024-2025"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "spisová_značka": "522/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Rozpoćtové výhledy"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2503515.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172057",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172057",
-    "název": {"cs": "Město Kadaň - Návrh rozpočtu 2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "spisová_značka": "523/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Návrh rozpoćtu 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2503517.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172058",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172058",
-    "název": {"cs": "Město Kadaň - 4. rozpočtové opatření k 15.12.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "spisová_značka": "524/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "4  rozpoćtové opatření"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2503518.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172207",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172207",
     "název": {"cs": "MÚ - odbor dopravy - rozhodnutí veřejnou vyhláškou - Oprava části ulice Čechova"},
@@ -2529,40 +2396,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výcvik prosinec 2022 aktualizace"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2517396.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/172386",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-172386",
-    "název": {"cs": "Magistrát města Chomutova - Oznámení zahájení řízení o povolení uzavírky - VD Nechranice - 15.12.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "číslo_jednací": "MUKK/54217/2022",
-    "spisová_značka": "530/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Magistrát města Chomutova"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "54217"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2517292.pdf"
       }    ]
   },
 {
@@ -2698,39 +2531,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "54225"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2517387.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/173247",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-173247",
-    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 15.12.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "spisová_značka": "538/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "pozvánka ÚD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2523776.pdf"
       }    ]
   },
 {
