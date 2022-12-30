@@ -3631,6 +3631,45 @@
         "název": {"cs": "Pětipsy"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2574233.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174484",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174484",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - ul. Husova v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2022-12-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-16"
+    },
+    "číslo_jednací": "ODPK-57790, 57789/2022/Slu",
+    "spisová_značka": "580,581/2022",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57789"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2577931.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57790"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2577932.pdf"
+      }    ]
   }
   ]
 }
