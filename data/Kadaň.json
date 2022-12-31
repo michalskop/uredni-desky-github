@@ -78,40 +78,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/114866",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-114866",
-    "název": {"cs": "Odbor životního prostředí - Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy"},
-    "popis": {"cs": " VV - OOP - Odbor hospodářské úpravy a ochrany lesů - kalamitní poškození lesních porostů "},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2019-12-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-31"
-    },
-    "číslo_jednací": "MUKK/51129/2019",
-    "spisová_značka": "516/2019",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ministerstvo zemědělství"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "31122022 ZP VV OOP"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/623693.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/115441",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-115441",
     "název": {"cs": "ÚZSVM - Výzva vlastníkům nemovitostí"},
@@ -147,40 +113,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "ČJ UZSVM UCV 6396 2022 UCVM 1 "},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2395618.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/119422",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-119422",
-    "název": {"cs": "Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2020-04-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-31"
-    },
-    "číslo_jednací": "MUKK/14475/2020",
-    "spisová_značka": "168/2020",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ministerstvo zemědělství"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "31122022 VV OOP"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/740562.pdf"
       }    ]
   },
 {
@@ -316,40 +248,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Dotační program pro II. pololetí roku 2020"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/1442009.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/143953",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-143953",
-    "název": {"cs": "Ministerstvo zemědělství - Veřejná vyhláška - Opatření obecné povahy - Vývoj kalamitního poškození lesních porostů"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2021-09-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-31"
-    },
-    "číslo_jednací": "MUKK/41162/2021",
-    "spisová_značka": "399/2021",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ministerstvo zemědělství"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "41162"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/1630248.pdf"
       }    ]
   },
 {
@@ -1771,39 +1669,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "zverejneni protokolu"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2165999.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/167617",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-167617",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 23.9.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-09-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2022-12-31"
-    },
-    "spisová_značka": "414/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznámení"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2347309.pdf"
       }    ]
   },
 {
