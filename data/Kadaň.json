@@ -3171,6 +3171,39 @@
         "název": {"cs": "829"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2588625.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174745",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174745",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Sociální pracovník sociálně-právní ochrany dětí - doba určitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-31"
+    },
+    "spisová_značka": "6/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ SvaZ ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2589289.pdf"
+      }    ]
   }
   ]
 }
