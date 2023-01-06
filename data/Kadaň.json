@@ -1785,39 +1785,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170090",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170090",
-    "název": {"cs": "Městská policie Kadaň - Výzva k odstranění vozidla Škoda PMT-7067, ul. Fibichova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-11-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-01-06"
-    },
-    "spisová_značka": "486/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MP Výzva k odstranění vozidla Škoda PMT 7076"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2436484.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170245",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170245",
     "název": {"cs": "Město Kadaň - Program pro rok 2023 - Jednorázová dotace z rozpočtu města pro začínající podnikatele a na vytvoření nového pracovního místa"},
@@ -2291,39 +2258,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva 20 12 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2554438.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174169",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174169",
-    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 15.12.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-01-06"
-    },
-    "spisová_značka": "558/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výpis ÚD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2557830.pdf"
       }    ]
   },
 {
@@ -3136,40 +3070,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "458"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2587413.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174695",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174695",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 5.1.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-01-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-01-06"
-    },
-    "číslo_jednací": "MUKK/829/2023",
-    "spisová_značka": "5/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "829"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2588625.pdf"
       }    ]
   },
 {
