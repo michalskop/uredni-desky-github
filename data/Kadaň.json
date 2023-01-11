@@ -3002,6 +3002,240 @@
         "název": {"cs": "Oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2591069.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174993",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174993",
+    "název": {"cs": "KÚ ÚK - 19. zasedání Zastupitelstva Ústeckého kraje - 23.1.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-24"
+    },
+    "spisová_značka": "10/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ZM ÚL"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599517.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174994",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174994",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 17.1.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-18"
+    },
+    "spisová_značka": "11/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 1 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599518.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174997",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174997",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  leden 2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-01"
+    },
+    "spisová_značka": "12/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výcvik leden 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599588.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174999",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174999",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Jana Švermy a T.G. Masaryka v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-27"
+    },
+    "číslo_jednací": "ODPK-472/2023/Slu",
+    "spisová_značka": "13/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "473"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599602.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175000",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175000",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Klášterec nad ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-27"
+    },
+    "číslo_jednací": "ODPK-1056/2023/Slu",
+    "spisová_značka": "14/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "1056"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599603.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175001",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175001",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Jungmannova v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-01-27"
+    },
+    "číslo_jednací": "ODPK-45064/2022/Slu",
+    "spisová_značka": "15/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "45064"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599622.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175002",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175002",
+    "název": {"cs": "Výpis z rejstříku dobrovolných svazků obcí"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "16/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO cyklostezka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výpis z rejstříku dobrovolných svazků obcí"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2599623.pdf"
+      }    ]
   }
   ]
 }
