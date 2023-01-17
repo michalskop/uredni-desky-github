@@ -3069,6 +3069,106 @@
         "název": {"cs": "2052"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2603215.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175296",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175296",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-02"
+    },
+    "číslo_jednací": "ODPK-1313/2023/Slu",
+    "spisová_značka": "23/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "1313"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2610955.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175297",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175297",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej bytové jednotky v č.p. 1933, výpůjčka nebytových prostor v č.p.1339 a pronájem nebytových prostor v č.p.1338  v k. ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-02"
+    },
+    "spisová_značka": "24/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Záměr 17 1 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2610956.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175298",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175298",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej části parcely č. 3145/101 a pronájem a prodej na parcele č, 2953/18 v k. ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-01-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-02"
+    },
+    "spisová_značka": "25/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "záměr 3145"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2610957.pdf"
+      }    ]
   }
   ]
 }
