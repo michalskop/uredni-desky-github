@@ -2362,40 +2362,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174421",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174421",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Lubica Sihelníková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-01-19"
-    },
-    "číslo_jednací": "MUKK/57921/2022",
-    "spisová_značka": "571/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "57921"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2574130.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174422",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174422",
     "název": {"cs": "Město Kadaň - Dotační program 2023 - Program podpory využití zachycené dešťové vody na území města Kadaně pro rok 2023"},
