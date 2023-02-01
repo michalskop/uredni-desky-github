@@ -2617,6 +2617,40 @@
         "název": {"cs": "Zpráva o výsledku přezkoumání DSO za rok 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2642194.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180221",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180221",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - honitby"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-17"
+    },
+    "číslo_jednací": "MUKK/5051/2023",
+    "spisová_značka": "40/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5051"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2648357.pdf"
+      }    ]
   }
   ]
 }
