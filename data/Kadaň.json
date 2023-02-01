@@ -2651,6 +2651,72 @@
         "název": {"cs": "5051"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2648357.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180251",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180251",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Asistent prevence kriminality - doba určitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-14"
+    },
+    "spisová_značka": "42/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "APK ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2648941.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180253",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180253",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Domovník preventista - doba určitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-01"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-02-14"
+    },
+    "spisová_značka": "41/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Domovník ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2648943.pdf"
+      }    ]
   }
   ]
 }
