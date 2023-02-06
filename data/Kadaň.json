@@ -1983,39 +1983,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174803",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174803",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. prostupného sociálního bydlení 2. stupně"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-01-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-06"
-    },
-    "spisová_značka": "7/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byty 6 1 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2591065.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175002",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175002",
     "název": {"cs": "Výpis z rejstříku dobrovolných svazků obcí"},
@@ -2113,40 +2080,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "3241"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2617341.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175481",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175481",
-    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-01-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-06"
-    },
-    "číslo_jednací": "ODPK-685/2023/Slu",
-    "spisová_značka": "29/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "685"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2617342.pdf"
       }    ]
   },
 {
