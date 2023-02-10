@@ -2824,6 +2824,142 @@
         "název": {"cs": "56854"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2665759.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180690",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180690",
+    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Kristina Bazalková"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-04-06"
+    },
+    "číslo_jednací": "MUKK/7217/2023",
+    "spisová_značka": "58/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "7217"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2669925.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180691",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180691",
+    "název": {"cs": "EÚ - Šumperk - Dražební vyhláška - Karolína Jůzová"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-03-24"
+    },
+    "číslo_jednací": "MUKK/7257/2023",
+    "spisová_značka": "57/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "7257"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2669926.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180693",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180693",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Kadaň 2.3.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-03-03"
+    },
+    "číslo_jednací": "MUKK/7042/2023",
+    "spisová_značka": "59/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "7042"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2670003.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180694",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180694",
+    "název": {"cs": "Státní pozemkový úřad - oznámení o zamýšleném převodu"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-10"
+    },
+    "číslo_jednací": "MUKK/6582/2023",
+    "spisová_značka": "60/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6582"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2670005.pdf"
+      }    ]
   }
   ]
 }
