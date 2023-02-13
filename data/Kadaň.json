@@ -1851,39 +1851,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/173448",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-173448",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1AJ9242"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-13"
-    },
-    "spisová_značka": "542/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva 13 12 2022"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2537510.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/173786",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-173786",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 16.12.2022"},
@@ -2180,40 +2147,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VŘ ÚD ŽP 2 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2631716.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175902",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175902",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Rozhodnutí - V Hájích - Miřetice u Klášterce nad Ohří - výstavba RD"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-01-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-13"
-    },
-    "číslo_jednací": "MUKK/4500/2023",
-    "spisová_značka": "36/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "4500"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2634283.pdf"
       }    ]
   },
 {
