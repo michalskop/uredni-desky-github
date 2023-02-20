@@ -1884,39 +1884,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174010",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174010",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 6U4 3971"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-20"
-    },
-    "spisová_značka": "557/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzva 20 12 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2667811.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174419",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174419",
     "název": {"cs": "Město Kadaň - Dotační program 2023 - podnikatelé"},
@@ -2313,74 +2280,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "5817"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2654164.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180395",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180395",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Nerudova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-20"
-    },
-    "číslo_jednací": "ODPK-51282/2022/Slu",
-    "spisová_značka": "46/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51282"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2654165.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180396",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180396",
-    "název": {"cs": "MÚ - stavební úřad - oznámení zahájení územního řízení - ul. Chomutovská, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-02-20"
-    },
-    "číslo_jednací": "MUKK/5472/2023",
-    "spisová_značka": "47/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "2586"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2654166.pdf"
       }    ]
   },
 {
