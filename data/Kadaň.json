@@ -3430,6 +3430,73 @@
         "název": {"cs": "odstřel 3 3 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2707932.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181512",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181512",
+    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-29"
+    },
+    "spisová_značka": "93/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "rozbor vody"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2708372.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181514",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181514",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - Háj u Loučné pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-03-16"
+    },
+    "číslo_jednací": "ODPK-9788/2023/Slu",
+    "spisová_značka": "94/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "9788"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2708376.pdf"
+      }    ]
   }
   ]
 }
