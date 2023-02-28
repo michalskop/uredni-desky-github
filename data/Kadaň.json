@@ -3397,6 +3397,39 @@
         "název": {"cs": "9780"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2706297.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181472",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181472",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 3.3.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-02-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-03-06"
+    },
+    "spisová_značka": "92/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 3 3 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2707932.pdf"
+      }    ]
   }
   ]
 }
