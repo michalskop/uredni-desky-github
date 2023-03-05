@@ -3266,40 +3266,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181570",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181570",
-    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň, ul. Žitná - 1.3.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-05"
-    },
-    "číslo_jednací": "MUKK/10818/2023",
-    "spisová_značka": "95/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "SčVK oznámení o přerušení dodávky vody 1 3 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2710635.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181572",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181572",
     "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - ul. Koželužská a Říční v Kadani, dne 22.3.2023"},
