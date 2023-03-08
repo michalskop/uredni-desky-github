@@ -3296,8 +3296,41 @@
 
       {
         "typ": "Digitální objekt",
-        "název": {"cs": "Byty 7 3 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2725202.pdf"
+        "název": {"cs": "Byty   7 3 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2727673.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181923",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181923",
+    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 1.4.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-03-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-04-03"
+    },
+    "spisová_značka": "101/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Technické služby Kadaň, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Sběr nebezpečného odpadu   1 4 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2727773.pdf"
       }    ]
   }
   ]
