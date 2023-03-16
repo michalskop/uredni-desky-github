@@ -2454,39 +2454,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181093",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181093",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - odbor dopravy - registr řidičů - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-16"
-    },
-    "spisová_značka": "77/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ OD referent registru řidićů 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2690446.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181238",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181238",
     "název": {"cs": "Město Kadaň - Výběrové řízení - odbor dopravy - pozemní komunikace - speciální stavební úřad - doba neurčitá"},
@@ -2682,40 +2649,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "rozbor vody"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2708372.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181514",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181514",
-    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - Háj u Loučné pod Klínovcem"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-16"
-    },
-    "číslo_jednací": "ODPK-9788/2023/Slu",
-    "spisová_značka": "94/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "9788"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2708376.pdf"
       }    ]
   },
 {
