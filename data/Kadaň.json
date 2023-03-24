@@ -2085,40 +2085,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180691",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180691",
-    "název": {"cs": "EÚ - Šumperk - Dražební vyhláška - Karolína Jůzová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-24"
-    },
-    "číslo_jednací": "MUKK/7257/2023",
-    "spisová_značka": "57/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "7257"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2669926.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180694",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180694",
     "název": {"cs": "Státní pozemkový úřad - oznámení o zamýšleném převodu"},
@@ -2415,40 +2381,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "rozbor vody"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2708372.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181572",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181572",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - ul. Koželužská a Říční v Kadani, dne 22.3.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-24"
-    },
-    "číslo_jednací": "MUKK/10874/2023",
-    "spisová_značka": "96/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČEZ Distribude odstávka el energie 22 3 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2710637.pdf"
       }    ]
   },
 {
