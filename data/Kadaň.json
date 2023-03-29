@@ -2185,40 +2185,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180943",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180943",
-    "název": {"cs": "EÚ - Dražební vyhláška - Petr Klaner"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-29"
-    },
-    "číslo_jednací": "MUKK/8039/2023",
-    "spisová_značka": "69/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "8039"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2681528.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180944",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180944",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - František Melichar"},
