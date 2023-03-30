@@ -1785,39 +1785,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/173786",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-173786",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 16.12.2022"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-12-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-30"
-    },
-    "spisová_značka": "550/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznámení"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2545216.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/174419",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-174419",
     "název": {"cs": "Město Kadaň - Dotační program 2023 - podnikatelé"},
@@ -2013,40 +1980,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "5817"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2654164.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180449",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180449",
-    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Jaroslav Mareš, Gabriela Marešová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-30"
-    },
-    "číslo_jednací": "MUKK/6128/2023",
-    "spisová_značka": "49/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "6128"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2661021.pdf"
       }    ]
   },
 {
@@ -2281,39 +2214,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva 27 2 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2706293.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181430",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181430",
-    "název": {"cs": "Město Kadaň - Výroční zpráva za rok 2022 - Poskytování informací dle zákona č. 106/1999 Sb. a zákona č. 123/1998 Sb."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-30"
-    },
-    "spisová_značka": "90/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výroční zpráva"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2706294.pdf"
       }    ]
   },
 {
@@ -2588,39 +2488,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "12403"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2729631.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182206",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182206",
-    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - prodej části parcely č. 632/1 v k.ú. Prunéřov"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-03-30"
-    },
-    "spisová_značka": "106/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Záměr obce 14 3 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2740656.pdf"
       }    ]
   },
 {
