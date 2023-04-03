@@ -3631,6 +3631,140 @@
         "název": {"cs": "16346"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2782830.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183368",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183368",
+    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-06-22"
+    },
+    "spisová_značka": "146/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "oznámeni o rozp pravidlech 3 4 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2791250.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183369",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183369",
+    "název": {"cs": "Výzva k odstranění vozidla - Opel"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-06-05"
+    },
+    "spisová_značka": "147/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 3 4 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2791251.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183371",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183371",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - ul. Olšová v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-04-19"
+    },
+    "číslo_jednací": "ODPK-13238/2023/Slu",
+    "spisová_značka": "148/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "13238"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2791258.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183372",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183372",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - neznámý vlastník pozemku"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-04-19"
+    },
+    "číslo_jednací": "MUKK/16545/2023",
+    "spisová_značka": "149/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16545"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2791259.pdf"
+      }    ]
   }
   ]
 }
