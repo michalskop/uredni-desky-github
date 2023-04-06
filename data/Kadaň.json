@@ -1850,39 +1850,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180389",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180389",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Opel"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "spisová_značka": "44/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva auto 3 2 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2654063.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180394",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180394",
     "název": {"cs": "Český statistický úřad - Životní podmínky 2023 - výběrové šetření v domácnostech"},
@@ -1913,40 +1880,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "5817"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2654164.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180690",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180690",
-    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Kristina Bazalková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/7217/2023",
-    "spisová_značka": "58/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "7217"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2669925.pdf"
       }    ]
   },
 {
@@ -2492,40 +2425,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182355",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182355",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Kadaň - 5.4.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/13800/2023",
-    "spisová_značka": "116/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13800"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2745284.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182396",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182396",
     "název": {"cs": "Město Kadaň - Blokové čištění města - 2023"},
@@ -2621,142 +2520,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "byty 21 3 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2756522.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182561",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182561",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Oznámení o zahájení řízení - Kanalizační řad Úhošťany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/13956/2023",
-    "spisová_značka": "120/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13956"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2756523.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182563",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182563",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Honitby"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/14615/2023",
-    "spisová_značka": "121/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14615"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2756525.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182564",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182564",
-    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 14439"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/14439/2023",
-    "spisová_značka": "122/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14439"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2756526.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182565",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182565",
-    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 14383"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-06"
-    },
-    "číslo_jednací": "MUKK/14383/2023",
-    "spisová_značka": "123/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14383"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2756529.pdf"
       }    ]
   },
 {
