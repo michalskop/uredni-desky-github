@@ -2191,39 +2191,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181850",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181850",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. prostupného sociálního bydlení 2. stupně"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-11"
-    },
-    "spisová_značka": "100/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byty   7 3 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2727673.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181969",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181969",
     "název": {"cs": "EÚ Cheb - Dražební vyhláška - Invest Háj, s.r.o."},
