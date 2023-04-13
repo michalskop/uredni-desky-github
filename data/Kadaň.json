@@ -3563,6 +3563,141 @@
         "název": {"cs": "17885"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2813041.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183935",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183935",
+    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 17941"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-02"
+    },
+    "číslo_jednací": "MUKK/17941/2023",
+    "spisová_značka": "160/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "17941"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2813477.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183936",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183936",
+    "název": {"cs": "MÚ - odbor SVaZ - Veřejná vyhláška - Michal Karchňák - 17939"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-02"
+    },
+    "číslo_jednací": "MUKK/17939/2023",
+    "spisová_značka": "161/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "17939"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2813478.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183937",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183937",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Radonice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-02"
+    },
+    "číslo_jednací": "ODPK-14323/2023/Slu",
+    "spisová_značka": "162/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "14323"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2813481.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183938",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183938",
+    "název": {"cs": "Město Kadaň - Oznámení o vyhlášení právních předpisů - Obecně závazné vyhlášky města Kadaně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-02"
+    },
+    "spisová_značka": "163/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Oznámení o zveřejnění právních předpisů 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2813482.pdf"
+      }    ]
   }
   ]
 }
