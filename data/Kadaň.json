@@ -3498,6 +3498,40 @@
         "název": {"cs": "Výzva Renaut twingo"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2823184.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/184819",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-184819",
+    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Ivo Ladenberger - zrušení"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-04-19"
+    },
+    "číslo_jednací": "MUKK/17497/2023",
+    "spisová_značka": "173/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "17497"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2824985.pdf"
+      }    ]
   }
   ]
 }
