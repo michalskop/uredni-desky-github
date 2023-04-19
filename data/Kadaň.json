@@ -2158,40 +2158,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181970",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181970",
-    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Ivo Ladenberger"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-19"
-    },
-    "číslo_jednací": "MUKK/12403/2023",
-    "spisová_značka": "103/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "12403"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2729631.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/182252",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-182252",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Lenka Dimitrova"},
@@ -2355,39 +2321,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výcvik   duben 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2772103.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183032",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183032",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Prunéřov a Kadaň - 18.4.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-03-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-19"
-    },
-    "spisová_značka": "131/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "15829"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2774636.pdf"
       }    ]
   },
 {
@@ -2654,74 +2587,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výzva 3 4 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2791251.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183371",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183371",
-    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - ul. Olšová v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-04-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-19"
-    },
-    "číslo_jednací": "ODPK-13238/2023/Slu",
-    "spisová_značka": "148/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13238"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2791258.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183372",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183372",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - neznámý vlastník pozemku"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-04-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-19"
-    },
-    "číslo_jednací": "MUKK/16545/2023",
-    "spisová_značka": "149/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16545"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2791259.pdf"
       }    ]
   },
 {
@@ -3497,40 +3362,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzva Renaut twingo"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2823184.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/184819",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-184819",
-    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Ivo Ladenberger - zrušení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-04-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-04-19"
-    },
-    "číslo_jednací": "MUKK/17497/2023",
-    "spisová_značka": "173/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "17497"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2824985.pdf"
       }    ]
   },
 {
