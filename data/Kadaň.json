@@ -3396,6 +3396,108 @@
         "název": {"cs": "Zrušení odstávky"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2825575.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/185036",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-185036",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - ul. Mírová v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-09"
+    },
+    "číslo_jednací": "ODPK-6646/2023/Slu",
+    "spisová_značka": "175/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6646"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2827605.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/185037",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-185037",
+    "název": {"cs": "MÚ - odbor dopravy - OOP - VV - stanovení místní úpravy provozu na pozemních komunikacích - Chbany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-09"
+    },
+    "číslo_jednací": "ODPK-7689/2023/Slu",
+    "spisová_značka": "176/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "7689"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2827606.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/185046",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-185046",
+    "název": {"cs": "EÚ Chomutov - Dražební vyhláška - Richard Pecháč - zrušení"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-04-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-05-11"
+    },
+    "číslo_jednací": "MUKK/18705/2023",
+    "spisová_značka": "177/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "18705"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2827630.pdf"
+      }    ]
   }
   ]
 }
