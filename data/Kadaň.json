@@ -3000,6 +3000,40 @@
         "název": {"cs": "24645"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2896028.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187191",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187191",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-05-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-06-12"
+    },
+    "číslo_jednací": "ODPK/24442/2023/Slu",
+    "spisová_značka": "216/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "24442"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2899379.pdf"
+      }    ]
   }
   ]
 }
