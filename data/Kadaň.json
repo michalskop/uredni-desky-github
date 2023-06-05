@@ -1990,39 +1990,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183369",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183369",
-    "název": {"cs": "Výzva k odstranění vozidla - Opel"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-04-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-05"
-    },
-    "spisová_značka": "147/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva 3 4 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2791251.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/184729",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-184729",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 5U02003"},
@@ -2156,40 +2123,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/186077",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-186077",
-    "název": {"cs": "Severočeská vodárenská společnost a.s. - Předání údajů o vodovodech a kanalizacích pro veřejnou potřebu"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-05"
-    },
-    "číslo_jednací": "MUKK/20967/2023",
-    "spisová_značka": "192/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeská vodárenská společnost a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20967"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2857673.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/186588",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-186588",
     "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - Kadaň"},
@@ -2252,74 +2185,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Byt s dluhem   15 5 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2880981.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/186817",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-186817",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Pražská v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-05"
-    },
-    "číslo_jednací": "MUKK/12925/2023/Slu",
-    "spisová_značka": "208/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "12925"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2886871.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/186818",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-186818",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Říční a Koželužská v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-05"
-    },
-    "číslo_jednací": "ODPK-22605/2023/Slu",
-    "spisová_značka": "209/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "22605"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2886873.pdf"
       }    ]
   },
 {
@@ -3001,40 +2866,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "26367"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2918655.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192305",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192305",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 2.6.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-05"
-    },
-    "číslo_jednací": "MUKK/26508/2023",
-    "spisová_značka": "232/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "26508"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2918656.pdf"
       }    ]
   },
 {
