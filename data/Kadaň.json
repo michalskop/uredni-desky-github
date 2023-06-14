@@ -3102,6 +3102,39 @@
         "název": {"cs": "27162"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2931299.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193290",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193290",
+    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 22.6.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-14"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-06-23"
+    },
+    "spisová_značka": "246/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Pozvánka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Pozvánka na ZM   22 6 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2939861.pdf"
+      }    ]
   }
   ]
 }
