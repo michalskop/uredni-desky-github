@@ -2257,40 +2257,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187073",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187073",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánovaných odstávkách elektrické energie - 13.6.2023 - Tušimice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-14"
-    },
-    "číslo_jednací": "MUKK/24645/2023",
-    "spisová_značka": "214/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "24645"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2896028.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187282",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187282",
     "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  červen 2023"},
@@ -2354,74 +2320,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "25077"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2901377.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187383",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187383",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - ul. Vrchlického, Čechova, Tyršova, Mírové náměstí v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-14"
-    },
-    "číslo_jednací": "ODPK-21581/2023/Slu",
-    "spisová_značka": "222/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "21581"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2906688.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187384",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187384",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení místní úpravy provozu - ul. Olšová v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-14"
-    },
-    "číslo_jednací": "ODPK-13238/2023/Slu",
-    "spisová_značka": "223/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13238"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2906691.pdf"
       }    ]
   },
 {
