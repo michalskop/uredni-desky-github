@@ -3138,7 +3138,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193475",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193475",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení místní úpravy provozu"},
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení místní úpravy provozu - ul. Václava Havla v Kadani"},
     "popis": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
@@ -3165,7 +3165,7 @@
       {
         "typ": "Digitální objekt",
         "název": {"cs": "scan"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2943354.pdf"
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2943361.pdf"
       }    ]
   }
   ]
