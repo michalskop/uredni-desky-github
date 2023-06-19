@@ -1817,40 +1817,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180394",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180394",
-    "název": {"cs": "Český statistický úřad - Životní podmínky 2023 - výběrové šetření v domácnostech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-02-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-19"
-    },
-    "číslo_jednací": "MUKK/5817/2023",
-    "spisová_značka": "45/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Český statistický úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "5817"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2654164.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180884",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180884",
     "název": {"cs": "Registrační list - výpis z rejstříku dobrovolných svazků obcí"},
@@ -1986,39 +1952,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámeni o rozp pravidlech 3 4 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2791250.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/184729",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-184729",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 5U02003"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-04-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-19"
-    },
-    "spisová_značka": "172/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzva Renaut twingo"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2823184.pdf"
       }    ]
   },
 {
@@ -2262,40 +2195,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192302",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192302",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - pozemní komunikace v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-19"
-    },
-    "číslo_jednací": "ODPK-23497/2023/Slu",
-    "spisová_značka": "229/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "23497"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2918653.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192303",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192303",
     "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 2.6.2023"},
@@ -2359,39 +2258,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "26367"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2918655.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192306",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192306",
-    "název": {"cs": "Město Kadaň - Veřejnoprávní smlouva o zabezpečení výkonu přenesené působnosti - obec Račetice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-19"
-    },
-    "spisová_značka": "233/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VPS Račetice"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2918657.pdf"
       }    ]
   },
 {
