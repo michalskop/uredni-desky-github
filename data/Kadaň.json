@@ -3100,6 +3100,106 @@
         "název": {"cs": "29732"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2953415.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193956",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193956",
+    "název": {"cs": "EÚ - Praha 10 - Dražební vyhláška - Jaroslava Haupt"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-23"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-08-09"
+    },
+    "číslo_jednací": "MUKK/29886",
+    "spisová_značka": "262/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29886"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2955430.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193957",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193957",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 3.7.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-23"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-04"
+    },
+    "spisová_značka": "263/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 3 7 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2955431.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193958",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193958",
+    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech k 23.6.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-23"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-09-14"
+    },
+    "spisová_značka": "264/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "oznámení o rozp  pravidlech"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2955432.pdf"
+      }    ]
   }
   ]
 }
