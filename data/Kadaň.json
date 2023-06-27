@@ -2462,39 +2462,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193341",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193341",
-    "název": {"cs": "KÚ ÚK - 22. zasedání Zastupitelstva Ústeckého kraje - 26.6.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-06-27"
-    },
-    "spisová_značka": "252/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ZM"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2940227.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193475",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193475",
     "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení místní úpravy provozu - ul. Václava Havla v Kadani"},
@@ -2516,7 +2483,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
+        "název": {"cs": "Výzva"}
       }
     ],
     "dokument": [
