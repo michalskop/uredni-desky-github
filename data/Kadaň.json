@@ -3027,6 +3027,140 @@
         "název": {"cs": "Byty pro seniory červen 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2960583.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194618",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194618",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - převedení vodohospodářského majetku - Úhošťany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-14"
+    },
+    "spisová_značka": "271/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "záměr 28 06 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2963958.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194620",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194620",
+    "název": {"cs": "KÚ ÚK - Veřejná vyhláška - Oznámení o zveřejnění návrhu 7. aktualizace Zásad územního rozvoje Ústeckého kraje a vyhodnocení vlivů 7aZÚR ÚK na udržitelný rozvoj území pořizované zkráceným postupem a konání veřejného projednávání"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-14"
+    },
+    "číslo_jednací": "MUKK/30170/2023",
+    "spisová_značka": "272/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "30170"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2963965.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194623",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194623",
+    "název": {"cs": "KÚ ÚK - Oznámení o zveřejnění návrhu 7. aktualizace Zásad územního rozvoje Ústeckého kraje a vyhodnocení vlivů 7aZÚR ÚK na udržitelný rozvoj území pořizované zkráceným postupem a konání veřejného projednávání"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-14"
+    },
+    "číslo_jednací": "MUKK/30231/2023",
+    "spisová_značka": "273/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "30231"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2964027.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194624",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194624",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1TH5978"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-08-29"
+    },
+    "spisová_značka": "274/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva Renaut 28 6 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2964032.pdf"
+      }    ]
   }
   ]
 }
