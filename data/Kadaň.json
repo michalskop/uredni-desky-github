@@ -3161,6 +3161,39 @@
         "název": {"cs": "výzva Renaut 28 6 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2964032.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194655",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194655",
+    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 22.6.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-14"
+    },
+    "spisová_značka": "275/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výpis ZM   22 6 2023 ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2964266.pdf"
+      }    ]
   }
   ]
 }
