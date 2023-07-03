@@ -1924,77 +1924,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/187282",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-187282",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  červen 2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-03"
-    },
-    "spisová_značka": "220/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výcvik ćerven 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2901376.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192214",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192214",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Sociální pracovník sociálně-právní ochrany dětí - doba určitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-03"
-    },
-    "spisová_značka": "227/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ SVaZ 7 2023 Ii"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2917058.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "přihláška k VŘ   SVaZ   pracovník SPOD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2917060.docx"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192303",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192303",
     "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 2.6.2023"},
@@ -2057,73 +1986,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Závěrečný účet města za rok 2022"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2925689.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192612",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192612",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 1.7.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-03"
-    },
-    "spisová_značka": "238/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "sber 1 7 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2927494.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192811",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192811",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 30.6.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-03"
-    },
-    "číslo_jednací": "MUKK/27719/2023",
-    "spisová_značka": "239/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27719"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2931220.pdf"
       }    ]
   },
 {
@@ -2191,40 +2053,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výzva 14 6 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2940226.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193475",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193475",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení místní úpravy provozu - ul. Václava Havla v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-03"
-    },
-    "číslo_jednací": "ODPK-18800/2023",
-    "spisová_značka": "253/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "scan"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2943361.pdf"
       }    ]
   },
 {
