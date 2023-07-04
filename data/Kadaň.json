@@ -3224,6 +3224,74 @@
         "název": {"cs": "MÚ OD OOP přechodná úprava provozu Královohradecká Klášterec n O "},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2974221.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195131",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195131",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení místní úpravy provozu v ul. Žatecká v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-19"
+    },
+    "číslo_jednací": "ODPK-31489/2023",
+    "spisová_značka": "291/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP přechodná úprava provozu Žatecká Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2974229.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195134",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195134",
+    "název": {"cs": "MÚ - odbor životního prostředí - VV - OOP - Zákaz odběru povrchových vod - z celého povodí vodního toku na celém území ORP Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "číslo_jednací": "MUKK/31543/2023",
+    "spisová_značka": "392/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ ŽP VV Zákaz odběru povrch vod z celého povodí ORP Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2974239.pdf"
+      }    ]
   }
   ]
 }
