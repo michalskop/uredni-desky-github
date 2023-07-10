@@ -3126,6 +3126,73 @@
         "název": {"cs": "MÚ ŽP VV Zákaz odběru povrch vod z celého povodí ORP Kadaň"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2974239.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195254",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195254",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 27.7.2023 - Kadaň, Pokutická č.p. 1948"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-28"
+    },
+    "číslo_jednací": "MUKK/31873/2023",
+    "spisová_značka": "293/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce odstávka el energie 27 7 2023 Kadaň,Pokutická 1948"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2984646.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195257",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195257",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Renault Clio - SPZ 3SB0545"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-09-04"
+    },
+    "spisová_značka": "294/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Město Kadaň Výzva k odstranění vozidla SPZ 3SB0545"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2984723.pdf"
+      }    ]
   }
   ]
 }
