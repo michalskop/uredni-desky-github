@@ -3227,6 +3227,108 @@
         "název": {"cs": "OD OOP VV přechodná úprava provozu v Klášterci nad Ohří"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2988231.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195515",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195515",
+    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody dne 13.7.2023 - Kadaň, ulice Chomutovská a Bystřická"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-14"
+    },
+    "číslo_jednací": "MUKK/32626/2023",
+    "spisová_značka": "297/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SčVK Oznámení o přerušení dodávky vody ul Chomutovská a Bystřická v Kadani"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2989664.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195517",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195517",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu v ul. Sadová v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-31"
+    },
+    "číslo_jednací": "ODPK-31591/2023",
+    "spisová_značka": "298/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD OOP VV stanovení přechodné úpravy provozu v ul  Sadová v Klášterci nad Ohří (2)"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2989668.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195530",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195530",
+    "název": {"cs": "MÚ - OD - Veřejná vyhláška - oznámení o návrhu Opatření obecné povahy -stanovení místní úpravy provozu v ul. Lípová v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-31"
+    },
+    "číslo_jednací": "ODPK-30480/2023",
+    "spisová_značka": "299/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VV oznámení o návrhu OOP stanovení místní úpravy provozu v ul Lípová v Klášterci nad Ohří"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2989770.pdf"
+      }    ]
   }
   ]
 }
