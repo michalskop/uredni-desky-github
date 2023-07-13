@@ -3300,7 +3300,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195530",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195530",
-    "název": {"cs": "MÚ - OD - Veřejná vyhláška - oznámení o návrhu Opatření obecné povahy -stanovení místní úpravy provozu v ul. Lípová v Klášterci nad Ohří"},
+    "název": {"cs": "MÚ - odbor dopravy - Veřejná vyhláška - oznámení o návrhu Opatření obecné povahy -stanovení místní úpravy provozu v ul. Lípová v Klášterci nad Ohří"},
     "popis": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
@@ -3328,6 +3328,40 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VV oznámení o návrhu OOP stanovení místní úpravy provozu v ul Lípová v Klášterci nad Ohří"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2989770.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195533",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195533",
+    "název": {"cs": "MÚ - odbor dopravy -  Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - ul. Petlérská v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-07-31"
+    },
+    "číslo_jednací": "ODPK-32132/2023",
+    "spisová_značka": "300/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "OD OOP VV přechodná úprava provozu ul Petlérská v Klášterci nad Ohří"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2989774.pdf"
       }    ]
   }
   ]
