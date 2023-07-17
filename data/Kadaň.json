@@ -2357,39 +2357,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194715",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194715",
-    "název": {"cs": "Město Kadaň - Protokol o kontrole výkonu samostatné působnosti + nápravná opatření"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-17"
-    },
-    "spisová_značka": "276/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20230629112002637"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2965572.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194750",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194750",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 9U8 9836"},
@@ -2716,73 +2683,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zpráva Nemocnice"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2967105.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194828",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194828",
-    "název": {"cs": "Město Kadaň - Oznámení o vyhlášení právního předpisu - Obecně závazná vyhláška města Kadaně o zákazu požívání alkoholických nápojů na veřejných prostranstvích"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-17"
-    },
-    "spisová_značka": "287/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20230630094144519"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2967139.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/194927",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-194927",
-    "název": {"cs": "MÚ - stavební úřad - oznámení zahájení územního řízení - Nástavba bytové jednotky objektu č.p. 1198, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-06-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-07-17"
-    },
-    "číslo_jednací": "MUKK/31176/2023",
-    "spisová_značka": "288/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "31176"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2967646.pdf"
       }    ]
   },
 {
