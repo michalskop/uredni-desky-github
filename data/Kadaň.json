@@ -3190,6 +3190,74 @@
         "název": {"cs": "Výběrové řízení   strážník Městské policie Kadaň"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/2991484.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195868",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195868",
+    "název": {"cs": "KÚ ÚK - Opatření obecné povahy - Stanovení přechodné úpravy provozu - I/13 Vernéřov, OK silnic I/13 a II/568"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-08-04"
+    },
+    "číslo_jednací": "MUKK/33177/2023",
+    "spisová_značka": "305/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "33177"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3001014.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195869",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195869",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Oprava železničního přejezdu - Tušimice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-07-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-08-04"
+    },
+    "číslo_jednací": "ODPK-32303/2023/Slu",
+    "spisová_značka": "306/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "32303"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3001015.pdf"
+      }    ]
   }
   ]
 }
