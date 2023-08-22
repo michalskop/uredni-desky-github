@@ -2929,6 +2929,39 @@
         "název": {"cs": "35257"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3061900.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198256",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198256",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích a bytů v rámci soc. bydlení - ul. Chomutovská a ul. Golovinova, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-08-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-09-21"
+    },
+    "spisová_značka": "343/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty 22 8 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3069957.pdf"
+      }    ]
   }
   ]
 }
