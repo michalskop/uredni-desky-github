@@ -2961,6 +2961,39 @@
         "název": {"cs": "39967"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3096670.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199223",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199223",
+    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 13.9.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-09-14"
+    },
+    "spisová_značka": "361/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Pozvánka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Pozvánka ZM 13 9"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3096823.pdf"
+      }    ]
   }
   ]
 }
