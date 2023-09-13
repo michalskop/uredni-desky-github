@@ -2092,40 +2092,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/197262",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-197262",
-    "název": {"cs": "EÚ Liberec - Dražební vyhláška - Zelený palouk, s.r.o."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-08-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-13"
-    },
-    "číslo_jednací": "MUKK/36404/2023",
-    "spisová_značka": "328/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36404"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3042325.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/197524",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-197524",
     "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů s dluhem po předchozím nájemci"},
@@ -2322,40 +2288,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Střelby září 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3081697.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198714",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198714",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Horská ve Vejprtech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-08-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-13"
-    },
-    "číslo_jednací": "ODPK-36540/2023/Slu",
-    "spisová_značka": "348/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36540"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3081704.pdf"
       }    ]
   },
 {
