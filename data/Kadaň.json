@@ -3137,6 +3137,141 @@
         "název": {"cs": "tabulka Kadaň 001"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3110351.xlsx"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199706",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199706",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 4.10.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-05"
+    },
+    "číslo_jednací": "MUKK/41464/2023",
+    "spisová_značka": "374/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "41464"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3115320.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199707",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199707",
+    "název": {"cs": "MÚ - odbor dopravy - Rozhodnutí - Stavební povolení - Rekonstrukce chodníků podél komunikace I. a II. třídy, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-09-29"
+    },
+    "číslo_jednací": "MUKK/16395/2023",
+    "spisová_značka": "375/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "16395"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3115321.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199708",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199708",
+    "název": {"cs": "EÚ - Dražební vyhláška - Vojtěch Surmaj"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-19"
+    },
+    "číslo_jednací": "MUKK/40994/2023",
+    "spisová_značka": "376/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "40994"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3115322.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199710",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199710",
+    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 7.10.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-09"
+    },
+    "spisová_značka": "377/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Technické služby Kadaň, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "sběr odpadu 7 10 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3115327.pdf"
+      }    ]
   }
   ]
 }
