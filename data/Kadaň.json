@@ -3137,6 +3137,72 @@
         "název": {"cs": "Zpráva nezaměstnanost 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3135920.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201701",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201701",
+    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 1/2023"},
+    "popis": {"cs": "DSO Cyklostezka Prunéřov   Černovice - Rozpočtové opatření č. 1/2023"},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "395/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO cyklostezka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Rozpočtové opatření č  1 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3142041.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201703",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201703",
+    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 2/2023"},
+    "popis": {"cs": "DSO Cyklostezka Prunéřov   Černovice - Rozpočtové opatření č. 2/2023 "},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-09-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "396/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO cyklostezka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Rozpočtové opatření č  2 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3142044.pdf"
+      }    ]
   }
   ]
 }
