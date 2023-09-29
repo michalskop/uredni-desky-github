@@ -1823,40 +1823,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/186972",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-186972",
-    "název": {"cs": "Rojivé období včel - kontakt na včelaře"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-05-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-29"
-    },
-    "číslo_jednací": "MUKK/24178/2023",
-    "spisová_značka": "211/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "24178"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2894143.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192546",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192546",
     "název": {"cs": "Město Kadaň - Závěrečný účet města za rok 2022"},
@@ -2021,40 +1987,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "ÚD VŘ SVaZ 11 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3076474.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198707",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198707",
-    "název": {"cs": "EÚ Praha 3 - Dražební vyhláška - Jiřina Malkovská"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-08-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-29"
-    },
-    "číslo_jednací": "MUKK/38479/2023",
-    "spisová_značka": "349/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38479"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3081623.pdf"
       }    ]
   },
 {
@@ -2333,40 +2265,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199707",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199707",
-    "název": {"cs": "MÚ - odbor dopravy - Rozhodnutí - Stavební povolení - Rekonstrukce chodníků podél komunikace I. a II. třídy, Klášterec nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-29"
-    },
-    "číslo_jednací": "MUKK/16395/2023",
-    "spisová_značka": "375/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozhodnutí"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "16395"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3115321.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199708",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199708",
     "název": {"cs": "EÚ - Dražební vyhláška - Vojtěch Surmaj"},
@@ -2430,40 +2328,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "sběr odpadu 7 10 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3115327.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201039",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201039",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Prunéřov"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-09-29"
-    },
-    "číslo_jednací": "ODPK-40622/2023/Slu",
-    "spisová_značka": "378/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40622"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3117869.pdf"
       }    ]
   },
 {
