@@ -2998,6 +2998,106 @@
         "název": {"cs": "43381"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3144909.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202177",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202177",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Kadaň - 17.10.2023, 19.10.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-02"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-20"
+    },
+    "číslo_jednací": "MUKK/43497, 43946/2023",
+    "spisová_značka": "401/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "43497 43946"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3151723.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202179",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202179",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Vedoucí odboru výstavby"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-02"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-20"
+    },
+    "spisová_značka": "399/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ OV 2023 ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3151734.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202182",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202182",
+    "název": {"cs": "Veřejná vyhláška - Agentura ochrany přírody a krajiny České republiky"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-02"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-18"
+    },
+    "spisová_značka": "400/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vv 2023 AOP"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3151736.pdf"
+      }    ]
   }
   ]
 }
