@@ -2930,6 +2930,73 @@
         "název": {"cs": "Vv 2023 AOP"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3151736.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202418",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202418",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 6.10.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-09"
+    },
+    "spisová_značka": "403/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 6 10 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3152279.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202419",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202419",
+    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody - 2.10.2023 - 30.11.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-01"
+    },
+    "číslo_jednací": "MUKK/44417/2023",
+    "spisová_značka": "402/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "44417"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3152280.pdf"
+      }    ]
   }
   ]
 }
