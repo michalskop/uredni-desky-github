@@ -2165,39 +2165,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199710",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199710",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 7.10.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-09"
-    },
-    "spisová_značka": "377/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "sběr odpadu 7 10 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3115327.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201041",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201041",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -2261,73 +2228,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "41531"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3117966.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201670",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201670",
-    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 13.9.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-09"
-    },
-    "spisová_značka": "394/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výpis USN 13 9 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3135797.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201671",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201671",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - Perštejn"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-09"
-    },
-    "číslo_jednací": "ODPK-33759/2023/Slu",
-    "spisová_značka": "393/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "33759"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3135801.pdf"
       }    ]
   },
 {
@@ -2759,39 +2659,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Vv 2023 AOP"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3151736.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202418",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202418",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 6.10.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-09"
-    },
-    "spisová_značka": "403/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstřel 6 10 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3152279.pdf"
       }    ]
   },
 {
