@@ -3102,6 +3102,38 @@
         "název": {"cs": "SčVK oznámení o přerušení dodávky vody 23 10 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3176118.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203134",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203134",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - křižovatka sil. č. II/219 se silnicí č. III/21910 - Loučná pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-31"
+    },
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP přechodná úprava provozu Loučná pod Klínovcem"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176211.pdf"
+      }    ]
   }
   ]
 }
