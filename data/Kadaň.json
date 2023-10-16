@@ -3134,6 +3134,108 @@
         "název": {"cs": "MÚ OD OOP přechodná úprava provozu Loučná pod Klínovcem"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3176211.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203158",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203158",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, ul. Jana Švermy, parkoviště před Orfeem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-31"
+    },
+    "číslo_jednací": "ODPK-44798/2023",
+    "spisová_značka": "421/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV přechodná úprava provozu Kadaň, ul  Jana Švermy"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176484.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203160",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203160",
+    "název": {"cs": "Exekutorský úřad Přerov - Usnesení o nařízení dražebního roku o provedení elektronické dražby dne 6.12.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-07"
+    },
+    "číslo_jednací": "MUKK/46160/2023",
+    "spisová_značka": "422/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Přerov   elektronická dražba dne 6 12 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176489.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203162",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203162",
+    "název": {"cs": "Exekutorský úřad Klatovy - Dražební vyhláška - elektronická dražba nemovitých věcí - 4.1.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-05"
+    },
+    "číslo_jednací": "MUKK/46155/2023",
+    "spisová_značka": "423/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Klatovy    Dražební vyhláška 4 1 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176494.pdf"
+      }    ]
   }
   ]
 }
