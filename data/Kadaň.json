@@ -3032,7 +3032,75 @@
       {
         "typ": "Digitální objekt",
         "název": {"cs": "FÚ KV Dražební jednání 14 11 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3176007.pdf"
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176108.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203124",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203124",
+    "název": {"cs": "MÚ - Odbor regionálního rozvoje, územního plánování a památkové péče - SDĚLENÍ - posuzování Změny č. 8 územního plánu Kadaně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-31"
+    },
+    "číslo_jednací": "MUKK/46064/2023",
+    "spisová_značka": "418/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ RR,ÚP,PP   Sdělení   8  změna ÚP Kadaně"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176107.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203131",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203131",
+    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody dne 23.10.2023 - Kadaň, ul. 5. května, kpt. Jaroše, Školní, Na Příkopě, Koželužská, 1. máje"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-10-24"
+    },
+    "číslo_jednací": "MUKK/46164/2023",
+    "spisová_značka": "419/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SčVK oznámení o přerušení dodávky vody 23 10 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3176118.pdf"
       }    ]
   }
   ]
