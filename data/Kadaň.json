@@ -3202,6 +3202,74 @@
         "název": {"cs": "EÚ Klatovy    Dražební vyhláška 4 1 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3176494.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203231",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203231",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, ul. Chomutovská před &quot;Slovanem&quot;"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-01"
+    },
+    "číslo_jednací": "ODPK-44132/2023",
+    "spisová_značka": "424/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV stanovení přechodné úpravy provozu  Kadaň, ul  Chomutovská u Slovanu"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3178484.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203235",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203235",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, Mírové náměstí a část ul. Jana Švermy"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-01"
+    },
+    "číslo_jednací": "ODPK-44809/2023",
+    "spisová_značka": "425/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV stanovení přechodné úpravy provozu Kadaň, Mírové náměstí a část ul  Jana Švermy"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3178581.pdf"
+      }    ]
   }
   ]
 }
