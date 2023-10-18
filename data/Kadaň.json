@@ -3406,6 +3406,39 @@
         "název": {"cs": "MÚ ŽP VV o možnosti převzetí písemnosti   Rozhodnutí o uznání honitby Vernéřov, Mikulovice a Miřetice u Klášterce nad Ohří"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3180776.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203334",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203334",
+    "název": {"cs": "Program 24. zasedání Zastupitelstva Ústeckého kraje - 30.10.2023 od 10.00 hod."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-01"
+    },
+    "spisová_značka": "430/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Pozvánka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Program 24  zasedání Zastupitelstva Ústeckého kraje   30 10 2023 od 10 00 hod "},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3180920.pdf"
+      }    ]
   }
   ]
 }
