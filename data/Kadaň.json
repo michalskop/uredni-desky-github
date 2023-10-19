@@ -3406,6 +3406,73 @@
         "název": {"cs": "Program 24  zasedání Zastupitelstva Ústeckého kraje   30 10 2023 od 10 00 hod "},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3180920.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203398",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203398",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla červená MAZDA 19F 6, registrační značka: 9U56817"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-18"
+    },
+    "spisová_značka": "431/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Město Kadaň Výzva k odstranění vozidla červená MAZDA 19F 6, registrační značka 9U56817"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3182931.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203400",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203400",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - sil. č. II/223, II/224 a III/22433 - Vodní dílo Přísečnice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-03"
+    },
+    "číslo_jednací": "ODPK-45607/2023",
+    "spisová_značka": "432/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV stanovení přechodné úpravy provozu  sil  Č  II223, II224 a III22433 VD Přísečnice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3182933.pdf"
+      }    ]
   }
   ]
 }
