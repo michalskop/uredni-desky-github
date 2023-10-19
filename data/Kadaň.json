@@ -2029,40 +2029,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199708",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199708",
-    "název": {"cs": "EÚ - Dražební vyhláška - Vojtěch Surmaj"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-09-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-19"
-    },
-    "číslo_jednací": "MUKK/40994/2023",
-    "spisová_značka": "376/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40994"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3115322.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201041",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201041",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
