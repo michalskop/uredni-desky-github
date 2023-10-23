@@ -2722,7 +2722,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -2755,7 +2755,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -2788,7 +2788,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -2821,7 +2821,7 @@
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
+        "název": {"cs": "Volné byty"}
       }
     ],
     "dokument": [
@@ -3351,7 +3351,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2023-11-18"
+      "datum": "2023-12-19"
     },
     "spisová_značka": "431/2023",
     "agenda": [
