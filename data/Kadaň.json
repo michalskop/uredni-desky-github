@@ -51,8 +51,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/122912",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-122912",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Poláky"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2020-06-29"
@@ -64,14 +63,7 @@
     "číslo_jednací": "ODPK-24340/2020/Slu",
     "spisová_značka": "295/2020",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -85,8 +77,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/132070",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-132070",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Dlouhá v Klášterci nad Ohří do obce Útočiště"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2020-12-21"
@@ -98,14 +89,7 @@
     "číslo_jednací": "ODPK-39491/2020/Slu",
     "spisová_značka": "553/2020",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -119,8 +103,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/139015",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-139015",
-    "název": {"cs": "Město Kadaň - Informace o připravované finanční pomoci pro podnikatele od II. pololetí roku 2020"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2020-05-22"
@@ -131,14 +114,7 @@
     },
     "spisová_značka": "208/2020",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -152,8 +128,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144946",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144946",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14201/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -164,14 +139,7 @@
     },
     "spisová_značka": "437/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -185,8 +153,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144947",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144947",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14231/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -197,14 +164,7 @@
     },
     "spisová_značka": "438/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -218,8 +178,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144948",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144948",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14230/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -230,14 +189,7 @@
     },
     "spisová_značka": "439/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -251,8 +203,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144949",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144949",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14235/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -263,14 +214,7 @@
     },
     "spisová_značka": "440/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -284,8 +228,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144950",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144950",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14205/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -296,14 +239,7 @@
     },
     "spisová_značka": "441/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -317,8 +253,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144951",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144951",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14229/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -329,14 +264,7 @@
     },
     "spisová_značka": "442/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -350,8 +278,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/144952",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-144952",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14207/17"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-11"
@@ -362,14 +289,7 @@
     },
     "spisová_značka": "443/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -383,8 +303,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145147",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145147",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí dotace - 15893/21"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-14"
@@ -395,14 +314,7 @@
     },
     "spisová_značka": "449/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -416,8 +328,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145148",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145148",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí dotace - 15900/21"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-14"
@@ -428,14 +339,7 @@
     },
     "spisová_značka": "450/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -449,8 +353,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145150",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145150",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí dotace - 15894/21"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-14"
@@ -461,14 +364,7 @@
     },
     "spisová_značka": "451/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -482,8 +378,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145151",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145151",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí dotace - 15895/21"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-14"
@@ -494,14 +389,7 @@
     },
     "spisová_značka": "452/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -515,8 +403,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145177",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145177",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14547/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -527,14 +414,7 @@
     },
     "spisová_značka": "462/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -548,8 +428,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145178",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145178",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14561/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -560,14 +439,7 @@
     },
     "spisová_značka": "463/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -581,8 +453,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145182",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145182",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14559/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -593,14 +464,7 @@
     },
     "spisová_značka": "464/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -614,8 +478,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145184",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145184",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14562/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -626,14 +489,7 @@
     },
     "spisová_značka": "465/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -647,8 +503,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145185",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145185",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14546/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -659,14 +514,7 @@
     },
     "spisová_značka": "466/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -680,8 +528,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145186",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145186",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14563/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -692,14 +539,7 @@
     },
     "spisová_značka": "467/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -713,8 +553,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145187",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145187",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14549/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -725,14 +564,7 @@
     },
     "spisová_značka": "468/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -746,8 +578,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145189",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145189",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 14548/18"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-15"
@@ -758,14 +589,7 @@
     },
     "spisová_značka": "469/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -779,8 +603,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145324",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145324",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 13693/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-19"
@@ -791,14 +614,7 @@
     },
     "spisová_značka": "477/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -812,8 +628,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145325",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145325",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 13688/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-19"
@@ -824,14 +639,7 @@
     },
     "spisová_značka": "478/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -845,8 +653,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145328",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145328",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 13689/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-19"
@@ -857,14 +664,7 @@
     },
     "spisová_značka": "479/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -878,8 +678,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145329",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145329",
-    "název": {"cs": "Město Kadaň - odbor RR, ÚP a PP - Smlouva o poskytnutí neinvestiční dotace - 13690/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-10-19"
@@ -890,14 +689,7 @@
     },
     "spisová_značka": "480/2016",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -911,8 +703,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145934",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145934",
-    "název": {"cs": "Město Kadaň - odbor SvaZ - Smlouva o poskytnutí dotace - 13286/15"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -923,14 +714,7 @@
     },
     "spisová_značka": "514/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -944,8 +728,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145935",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145935",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13380/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -956,14 +739,7 @@
     },
     "spisová_značka": "515/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -977,8 +753,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145936",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145936",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13381/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -989,14 +764,7 @@
     },
     "spisová_značka": "516/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1010,8 +778,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145937",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145937",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13382/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1022,14 +789,7 @@
     },
     "spisová_značka": "517/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1043,8 +803,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145938",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145938",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13383/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1055,14 +814,7 @@
     },
     "spisová_značka": "518/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1076,8 +828,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145939",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145939",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13384/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1088,14 +839,7 @@
     },
     "spisová_značka": "519/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1109,8 +853,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145940",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145940",
-    "název": {"cs": "MÚ - odbor SvaZ - Smlouva o poskytnutí dotace - 13392/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1121,14 +864,7 @@
     },
     "spisová_značka": "520/2016",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1142,8 +878,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145941",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145941",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13395/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1154,14 +889,7 @@
     },
     "spisová_značka": "521/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1175,8 +903,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145942",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145942",
-    "název": {"cs": "MÚ - odbor SvaZ - Smlouva o poskytnutí dotace - 13402/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1187,14 +914,7 @@
     },
     "spisová_značka": "522/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1208,8 +928,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145943",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145943",
-    "název": {"cs": "MÚ - odbor SvaZ - Smlouva o poskytnutí dotace - 13411/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1220,14 +939,7 @@
     },
     "spisová_značka": "523/2016",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor sociálních věcí a zdravotnictví"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1241,8 +953,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145944",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145944",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13428/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1253,14 +964,7 @@
     },
     "spisová_značka": "524/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1274,8 +978,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145945",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145945",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13430/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1286,14 +989,7 @@
     },
     "spisová_značka": "525/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1307,8 +1003,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145946",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145946",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13434/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1319,14 +1014,7 @@
     },
     "spisová_značka": "526/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1340,8 +1028,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145947",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145947",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13441/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1352,14 +1039,7 @@
     },
     "spisová_značka": "527/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1373,8 +1053,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145948",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145948",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13477/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1385,14 +1064,7 @@
     },
     "spisová_značka": "528/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1406,8 +1078,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/145949",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-145949",
-    "název": {"cs": "MÚ - odbor Eko - Smlouva o poskytnutí dotace - 13501/16"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-05"
@@ -1418,14 +1089,7 @@
     },
     "spisová_značka": "529/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor ekonomický"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Smlouvy"}
-      }
+      
     ],
     "dokument": [
 
@@ -1439,8 +1103,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/148295",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-148295",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - návrh stanovení místní úpravy provozu u KD v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2021-11-19"
@@ -1452,14 +1115,7 @@
     "číslo_jednací": "ODPK-51258/2021/Slu",
     "spisová_značka": "541/2021",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -1473,8 +1129,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169533",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169533",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočet 2022"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-10-26"
@@ -1485,14 +1140,7 @@
     },
     "spisová_značka": "468/2022",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1506,8 +1154,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/169534",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-169534",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Střednědobý výhled 2023-2024"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-10-26"
@@ -1518,14 +1165,7 @@
     },
     "spisová_značka": "469/2022",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1539,8 +1179,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170062",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170062",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Schválený závěrečný účet za rok 2021"},
-    "popis": {"cs": " Schválený závěrečný účet za rok 2021 "},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-11-04"
@@ -1551,14 +1190,7 @@
     },
     "spisová_značka": "483/2022",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1587,8 +1219,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170064",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170064",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočet 2023"},
-    "popis": {"cs": " DSO Cyklostezka Prunéřov   Černovice Rozpočet 2023 "},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-11-04"
@@ -1599,14 +1230,7 @@
     },
     "spisová_značka": "484/2022",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1620,8 +1244,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/170065",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-170065",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Střednědobý výhled 2024-2025"},
-    "popis": {"cs": "DSO Cyklostezka Prunéřov   Černovice Střednědobý výhled 2024-2025"},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2022-11-04"
@@ -1632,14 +1255,7 @@
     },
     "spisová_značka": "485/2022",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1653,8 +1269,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175002",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175002",
-    "název": {"cs": "Výpis z rejstříku dobrovolných svazků obcí"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-01-11"
@@ -1665,14 +1280,7 @@
     },
     "spisová_značka": "16/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1686,8 +1294,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/175996",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-175996",
-    "název": {"cs": "Zpráva o výsledku přezkoumání hospodaření dobrovolného svazku obcí Cyklostezka Prunéřov - Černovice za rok 2022"},
-    "popis": {"cs": "Zpráva o výsledku přezkoumání hospodaření dobrovolného svazku obcí Cyklostezka Prunéřov - Černovice za rok 2022"},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-01-31"
@@ -1698,14 +1305,7 @@
     },
     "spisová_značka": "39/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1719,8 +1319,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/180884",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-180884",
-    "název": {"cs": "Registrační list - výpis z rejstříku dobrovolných svazků obcí"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-02-15"
@@ -1731,14 +1330,7 @@
     },
     "spisová_značka": "65/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -1752,8 +1344,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/181574",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-181574",
-    "název": {"cs": "ÚZSVM - Seznam nedostatečně identifikovaných vlastníků nemovitostí v k.ú. Kadaň + Informační příručka"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-03-01"
@@ -1765,14 +1356,7 @@
     "číslo_jednací": "MUKK/10689/2023",
     "spisová_značka": "97/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
+      
     ],
     "dokument": [
 
@@ -1791,8 +1375,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/183295",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-183295",
-    "název": {"cs": "Město Kadaň - Dopravní omezení, vodní dílo Nechranice"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-03-31"
@@ -1804,14 +1387,7 @@
     "číslo_jednací": "MUKK/15464/2023",
     "spisová_značka": "143/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
+      
     ],
     "dokument": [
 
@@ -1825,8 +1401,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/192546",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-192546",
-    "název": {"cs": "Město Kadaň - Závěrečný účet města za rok 2022"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-06-06"
@@ -1837,14 +1412,7 @@
     },
     "spisová_značka": "236/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
+      
     ],
     "dokument": [
 
@@ -1858,8 +1426,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193755",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193755",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Opatření obecné povahy - Zákaz odběru povrchových vod"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-06-21"
@@ -1871,14 +1438,7 @@
     "číslo_jednací": "MUKK/29019/2023",
     "spisová_značka": "259/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -1892,8 +1452,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195134",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195134",
-    "název": {"cs": "MÚ - odbor životního prostředí - VV - OOP - Zákaz odběru povrchových vod - z celého povodí vodního toku na celém území ORP Kadaň"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-07-04"
@@ -1905,14 +1464,7 @@
     "číslo_jednací": "MUKK/31543/2023",
     "spisová_značka": "292/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -1926,8 +1478,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198780",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198780",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 29.9.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-08-29"
@@ -1938,14 +1489,7 @@
     },
     "spisová_značka": "351/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
+      
     ],
     "dokument": [
 
@@ -1959,8 +1503,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198787",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198787",
-    "název": {"cs": "Město Kadaň - 3. rozpočtové opatření k 13.9.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-08-29"
@@ -1971,14 +1514,7 @@
     },
     "spisová_značka": "350/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -1992,8 +1528,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199523",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199523",
-    "název": {"cs": "ÚZSVM - Seznam nedostatečně identifikovaných vlastníků nemovitostí v k.ú. Kadaň"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-11"
@@ -2005,14 +1540,7 @@
     "číslo_jednací": "MUKK/40045/2023",
     "spisová_značka": "373/2024",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2031,8 +1559,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201041",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201041",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-14"
@@ -2043,14 +1570,7 @@
     },
     "spisová_značka": "379/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2064,8 +1584,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201675",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201675",
-    "název": {"cs": "Město Kadaň - Dotační program 2024 - Jednorázová dotace z rozpočtu města Kadaně pro začínající podnikatele a na vytvoření nového pracovního místa"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2076,14 +1595,7 @@
     },
     "spisová_značka": "392/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dotační program"}
-      }
+      
     ],
     "dokument": [
 
@@ -2097,8 +1609,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201676",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201676",
-    "název": {"cs": "Město Kadaň - Dotační program - Stipendijní program města Kadaň pro akademický rok 2024/2025"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2109,14 +1620,7 @@
     },
     "spisová_značka": "391/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dotační program"}
-      }
+      
     ],
     "dokument": [
 
@@ -2130,8 +1634,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201681",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201681",
-    "název": {"cs": "Město Kadaň - Dotační program - Poskytování dotací z rozpočtu města Kadaně na podporu podnikání pro rok 2024"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2142,14 +1645,7 @@
     },
     "spisová_značka": "390/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dotační program"}
-      }
+      
     ],
     "dokument": [
 
@@ -2163,8 +1659,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201682",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201682",
-    "název": {"cs": "Město Kadaň - Plán investiční výstavby na rok 2023 - stav ke dni 21.8.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2175,14 +1670,7 @@
     },
     "spisová_značka": "389/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
+      
     ],
     "dokument": [
 
@@ -2196,8 +1684,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201683",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201683",
-    "název": {"cs": "Město Kadaň - Zpráva o dopravě ve městě - rok 2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2208,14 +1695,7 @@
     },
     "spisová_značka": "388/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
+      
     ],
     "dokument": [
 
@@ -2229,8 +1709,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201685",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201685",
-    "název": {"cs": "Město Kadaň - Zpráva o nezaměstnanosti - rok 2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-22"
@@ -2241,14 +1720,7 @@
     },
     "spisová_značka": "387/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
+      
     ],
     "dokument": [
 
@@ -2262,8 +1734,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201701",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201701",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 1/2023"},
-    "popis": {"cs": "DSO Cyklostezka Prunéřov   Černovice - Rozpočtové opatření č. 1/2023"},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-25"
@@ -2274,14 +1745,7 @@
     },
     "spisová_značka": "395/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -2295,8 +1759,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201703",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201703",
-    "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 2/2023"},
-    "popis": {"cs": "DSO Cyklostezka Prunéřov   Černovice - Rozpočtové opatření č. 2/2023 "},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-25"
@@ -2307,14 +1770,7 @@
     },
     "spisová_značka": "396/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "DSO cyklostezka"}
-      }
+      
     ],
     "dokument": [
 
@@ -2328,8 +1784,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201771",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201771",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - Na Podlesí, Kadaň"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-09-25"
@@ -2340,14 +1795,7 @@
     },
     "spisová_značka": "397/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
+      
     ],
     "dokument": [
 
@@ -2361,8 +1809,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202179",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202179",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Vedoucí odboru výstavby"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-02"
@@ -2373,14 +1820,7 @@
     },
     "spisová_značka": "399/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2394,8 +1834,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202419",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202419",
-    "název": {"cs": "Zdravotní ústav Ústí nad Labem - Informativní rozbor pitné vody - 2.10.2023 - 30.11.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-05"
@@ -2407,14 +1846,7 @@
     "číslo_jednací": "MUKK/44417/2023",
     "spisová_značka": "402/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zdravotní ústav v Ústí nad Labem"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2428,8 +1860,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202510",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202510",
-    "název": {"cs": "EÚ Praha 9 - Dražební vyhláška - Radim Bouček, Jitka Boučková"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-06"
@@ -2441,14 +1872,7 @@
     "číslo_jednací": "MUKK/44662/2023",
     "spisová_značka": "406/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2462,8 +1886,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202518",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202518",
-    "název": {"cs": "Městská část Prahy 6 - Veřejná vyhláška - Lada Paulová"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-06"
@@ -2475,14 +1898,7 @@
     "číslo_jednací": "MUKK/44783/2023",
     "spisová_značka": "405/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2496,8 +1912,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202519",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202519",
-    "název": {"cs": "Město Kadaň - zveřejnění záměru města - převod p.č. 3176/3 v k.ú. Kadaň a výpůjčka v č.p. 377 v k.ú. Prunéřov"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-06"
@@ -2508,14 +1923,7 @@
     },
     "spisová_značka": "404/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
+      
     ],
     "dokument": [
 
@@ -2529,8 +1937,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202634",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202634",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška doručení Návrhu zadání regulačního plánu Jihovýchodního předpolí Kadaně"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-09"
@@ -2542,14 +1949,7 @@
     "číslo_jednací": "MUKK/44940/2023",
     "spisová_značka": "407/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2568,8 +1968,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202662",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202662",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní  úpravy provozu - Loučná pod Klínovcem"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-10"
@@ -2581,14 +1980,7 @@
     "číslo_jednací": "ODPK-36018/2023/Slu",
     "spisová_značka": "408/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -2602,8 +1994,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202780",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202780",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška  - Oznámení o zahájení řízení o schválení &quot;Kanalizačního řadu pro smíšený kanalizační systém obce Klášterec nad Ohří&quot;"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-11"
@@ -2615,14 +2006,7 @@
     "číslo_jednací": "MUKK/45379/2023",
     "spisová_značka": "409/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2636,8 +2020,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202781",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202781",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - Klášterec nad Ohří"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-11"
@@ -2649,14 +2032,7 @@
     "číslo_jednací": "ODPK-35257/2023/Slu",
     "spisová_značka": "410/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -2670,8 +2046,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202783",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202783",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Upozornění k odstranění a okleštění stromoví a jiných porostů"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-11"
@@ -2683,14 +2058,7 @@
     "číslo_jednací": "MUKK/45551/2023",
     "spisová_značka": "411/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2704,8 +2072,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202936",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202936",
-    "název": {"cs": "Správa městských bytů - Oznámení - nabídka nájmu volného startovacího bytu 2+1, ul. Golovinova 1348/023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-12"
@@ -2716,14 +2083,7 @@
     },
     "spisová_značka": "412/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
+      
     ],
     "dokument": [
 
@@ -2737,8 +2097,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202937",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202937",
-    "název": {"cs": "Správa městských bytů - Oznámení - nabídka nájmu volného bytu pro samoživitele 1+1, ul. Klášterecká 1293/001"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-12"
@@ -2749,14 +2108,7 @@
     },
     "spisová_značka": "413/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
+      
     ],
     "dokument": [
 
@@ -2770,8 +2122,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202938",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202938",
-    "název": {"cs": "Správa městských bytů - Oznámení - nabídka nájmu volného sociálního bytu 2+1, ul. Chomutovská 1248/016"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-12"
@@ -2782,14 +2133,7 @@
     },
     "spisová_značka": "414/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
+      
     ],
     "dokument": [
 
@@ -2803,8 +2147,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202944",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202944",
-    "název": {"cs": "Správa městských bytů - Oznámení - záměr - pronájem bytu 1+2, ul. Chomutovská 1364/5"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-12"
@@ -2815,14 +2158,7 @@
     },
     "spisová_značka": "415/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
+      
     ],
     "dokument": [
 
@@ -2836,8 +2172,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/202946",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-202946",
-    "název": {"cs": "Finanční úřad pro Ústecký kraj, pracoviště Kadaň - Veřejná vyhláška - uložení písemností - Veronika Seidel"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-12"
@@ -2849,14 +2184,7 @@
     "číslo_jednací": "MUKK/45789/2023",
     "spisová_značka": "416/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Finanční úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2870,8 +2198,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203113",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203113",
-    "název": {"cs": "Exekutorský úřad Karlovy Vary - Usnesení o dražebním jednání dne 14.11.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -2883,14 +2210,7 @@
     "číslo_jednací": "MUKK/45887",
     "spisová_značka": "417/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -2904,8 +2224,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203124",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203124",
-    "název": {"cs": "MÚ - Odbor regionálního rozvoje, územního plánování a památkové péče - SDĚLENÍ - posuzování Změny č. 8 územního plánu Kadaně"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -2917,14 +2236,7 @@
     "číslo_jednací": "MUKK/46064/2023",
     "spisová_značka": "418/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2938,8 +2250,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203131",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203131",
-    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody dne 23.10.2023 - Kadaň, ul. 5. května, kpt. Jaroše, Školní, Na Příkopě, Koželužská, 1. máje"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -2951,14 +2262,7 @@
     "číslo_jednací": "MUKK/46164/2023",
     "spisová_značka": "419/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
+      
     ],
     "dokument": [
 
@@ -2972,8 +2276,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203134",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203134",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - křižovatka sil. č. II/219 se silnicí č. III/21910 - Loučná pod Klínovcem"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -2983,14 +2286,7 @@
       "datum": "2023-10-31"
     },
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3004,8 +2300,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203158",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203158",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, ul. Jana Švermy, parkoviště před Orfeem"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -3017,14 +2312,7 @@
     "číslo_jednací": "ODPK-44798/2023",
     "spisová_značka": "421/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3038,8 +2326,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203160",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203160",
-    "název": {"cs": "Exekutorský úřad Přerov - Usnesení o nařízení dražebního roku o provedení elektronické dražby dne 6.12.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -3051,14 +2338,7 @@
     "číslo_jednací": "MUKK/46160/2023",
     "spisová_značka": "422/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3072,8 +2352,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203162",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203162",
-    "název": {"cs": "Exekutorský úřad Klatovy - Dražební vyhláška - elektronická dražba nemovitých věcí - 4.1.2024"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-16"
@@ -3085,14 +2364,7 @@
     "číslo_jednací": "MUKK/46155/2023",
     "spisová_značka": "423/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3106,8 +2378,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203231",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203231",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, ul. Chomutovská před &quot;Slovanem&quot;"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-17"
@@ -3119,14 +2390,7 @@
     "číslo_jednací": "ODPK-44132/2023",
     "spisová_značka": "424/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3140,8 +2404,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203235",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203235",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, Mírové náměstí a část ul. Jana Švermy"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-17"
@@ -3153,14 +2416,7 @@
     "číslo_jednací": "ODPK-44809/2023",
     "spisová_značka": "425/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3174,8 +2430,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203290",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203290",
-    "název": {"cs": "MÚ - odbor dopravy - OOP - VV - stanovení přechodné úpravy provozu - Kovářská, ul. Spojovací"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-18"
@@ -3187,14 +2442,7 @@
     "číslo_jednací": "ODPK-43172/2023",
     "spisová_značka": "426",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3208,8 +2456,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203293",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203293",
-    "název": {"cs": "MÚ - odbor dopravy - Veřejná vyhláška - návrh Opatření obecné povahy - místní úprava provozu - cyklostezka v úseku Račetice - Libědice"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-18"
@@ -3221,14 +2468,7 @@
     "číslo_jednací": "ODPK-45019/2023",
     "spisová_značka": "427/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3242,8 +2482,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203298",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203298",
-    "název": {"cs": "MÚ - odbor dopravy - Veřejná - vyhláška  - návrh Opatření obecné  povahy - místní úprava provozu - cyklostezka v úseku Račetice - Topolanský dvůr"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-18"
@@ -3255,14 +2494,7 @@
     "číslo_jednací": "ODPK-45018/2023",
     "spisová_značka": "428/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3276,8 +2508,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203305",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203305",
-    "název": {"cs": "Veřejná vyhláška o možnosti převzetí písemností - Rozhodnutí o uznání honitby Vernéřov, Mikulovice a Miřetice u Klášterce nad Ohří"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-18"
@@ -3289,14 +2520,7 @@
     "číslo_jednací": "MUKK/46205/2023",
     "spisová_značka": "429/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3310,8 +2534,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203334",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203334",
-    "název": {"cs": "Program 24. zasedání Zastupitelstva Ústeckého kraje - 30.10.2023 od 10.00 hod."},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-18"
@@ -3322,14 +2545,7 @@
     },
     "spisová_značka": "430/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
+      
     ],
     "dokument": [
 
@@ -3343,8 +2559,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203398",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203398",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla červená MAZDA 19F 6, registrační značka: 9U56817"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-19"
@@ -3355,14 +2570,7 @@
     },
     "spisová_značka": "431/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
+      
     ],
     "dokument": [
 
@@ -3376,8 +2584,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203400",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203400",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - sil. č. II/223, II/224 a III/22433 - Vodní dílo Přísečnice"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-19"
@@ -3389,14 +2596,7 @@
     "číslo_jednací": "ODPK-45607/2023",
     "spisová_značka": "432/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
+      
     ],
     "dokument": [
 
@@ -3410,8 +2610,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203476",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203476",
-    "název": {"cs": "Exekutorský úřad Praha 3 - Elektronická  dražební vyhláška nemovitých věcí dne 5.12.2024"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-20"
@@ -3423,14 +2622,7 @@
     "číslo_jednací": "MUKK/46881",
     "spisová_značka": "434/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
+      
     ],
     "dokument": [
 
@@ -3444,8 +2636,7 @@
     "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203479",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203479",
-    "název": {"cs": "PROKONZULTA - E-Vyhláška č. 23DR001222 - 23.11.2023"},
-    "popis": {"cs": ""},
+    "název": {"cs": ""},
     "vyvěšení":{
       "typ": "Časový okamžik",
       "datum": "2023-10-20"
@@ -3457,14 +2648,7 @@
     "číslo_jednací": "MUKK/47039/2023",
     "spisová_značka": "435/2023",
     "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "~Nezařazeno"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Elektronická aukce"}
-      }
+      
     ],
     "dokument": [
 
