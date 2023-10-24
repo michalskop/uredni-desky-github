@@ -3307,6 +3307,105 @@
         "název": {"cs": "PROKONZULTA E Vyhláška č  23DR001222   23 11 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3185298.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203612",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203612",
+    "název": {"cs": "Město Kadaň - Smlouva o poskytnutí dotace - Armstarkovi"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2026-10-26"
+    },
+    "spisová_značka": "436/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Smlouvy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Armstark"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193229.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203613",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203613",
+    "název": {"cs": "Město Kadaň - Smlouva o poskytnutí dotace - Jedličkovi"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2026-10-26"
+    },
+    "spisová_značka": "437/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Smlouvy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Jedlička"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193231.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203615",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203615",
+    "název": {"cs": "Město Kadaň - Smlouva o poskytnutí dotace - Jakoubkovi"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2026-10-26"
+    },
+    "spisová_značka": "438/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Smlouvy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Jakoubek"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193236.pdf"
+      }    ]
   }
   ]
 }
