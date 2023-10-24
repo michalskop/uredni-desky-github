@@ -2770,40 +2770,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203131",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203131",
-    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody dne 23.10.2023 - Kadaň, ul. 5. května, kpt. Jaroše, Školní, Na Příkopě, Koželužská, 1. máje"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-10-24"
-    },
-    "číslo_jednací": "MUKK/46164/2023",
-    "spisová_značka": "419/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "SčVK oznámení o přerušení dodávky vody 23 10 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3176118.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203134",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203134",
     "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - křižovatka sil. č. II/219 se silnicí č. III/21910 - Loučná pod Klínovcem"},
