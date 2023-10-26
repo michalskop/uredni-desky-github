@@ -3568,6 +3568,40 @@
         "název": {"cs": "47475"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3196006.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203796",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203796",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Oprava mostu Chomutov - Cheb"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-13"
+    },
+    "číslo_jednací": "ODPK-48070/2023/Slu",
+    "spisová_značka": "446/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48070"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3197502.pdf"
+      }    ]
   }
   ]
 }
