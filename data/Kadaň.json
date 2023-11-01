@@ -2496,66 +2496,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203231",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203231",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, ul. Chomutovská před &quot;Slovanem&quot;"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-11-01"
-    },
-    "číslo_jednací": "ODPK-44132/2023",
-    "spisová_značka": "424/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203235",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203235",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - Kadaň, Mírové náměstí a část ul. Jana Švermy"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-11-01"
-    },
-    "číslo_jednací": "ODPK-44809/2023",
-    "spisová_značka": "425/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203290",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203290",
     "název": {"cs": "MÚ - odbor dopravy - OOP - VV - stanovení přechodné úpravy provozu - Kovářská, ul. Spojovací"},
@@ -2582,7 +2522,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV stanovení přechodné úpravy provozu   Kovářská, ul  Spojovací"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3180571.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2612,7 +2556,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD VV návrh OOP místní úprava provozu cyklostezka v úseku Račetice Libědice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3180574.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2642,7 +2590,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD VV návrh OOP místní úprava provozu cyklostezka v úseku Račetice Topolanský dvůr"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3180777.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2672,36 +2624,11 @@
     ],
     "dokument": [
 
-    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203334",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203334",
-    "název": {"cs": "Program 24. zasedání Zastupitelstva Ústeckého kraje - 30.10.2023 od 10.00 hod."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-11-01"
-    },
-    "spisová_značka": "430/2023",
-    "agenda": [
       {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-    ]
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ ŽP VV o možnosti převzetí písemnosti   Rozhodnutí o uznání honitby Vernéřov, Mikulovice a Miřetice u Klášterce nad Ohří"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3180776.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2730,7 +2657,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Město Kadaň Výzva k odstranění vozidla červená MAZDA 19F 6, registrační značka 9U56817"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3182931.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2760,7 +2691,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV stanovení přechodné úpravy provozu  sil  Č  II223, II224 a III22433 VD Přísečnice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3182933.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2790,7 +2725,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Praha 3   Elektronická DV nemovitých věcí dne 5 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3185210.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2820,7 +2759,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "PROKONZULTA E Vyhláška č  23DR001222   23 11 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3185298.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2849,7 +2792,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Armstark"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193229.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2878,7 +2825,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Jedlička"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193231.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2907,7 +2858,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva Jakoubek"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3193236.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2936,7 +2891,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Advent"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3195884.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2966,7 +2925,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "36997 1"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3195887.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -2996,7 +2959,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "39506"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3195902.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3026,7 +2993,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "46496"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3195905.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3055,36 +3026,11 @@
     ],
     "dokument": [
 
-    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203740",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203740",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 31.10.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-10-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-11-01"
-    },
-    "spisová_značka": "444/2023",
-    "agenda": [
       {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-    ]
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výzva Renault 25 10 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3195908.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3114,7 +3060,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "47475"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3196006.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3144,7 +3094,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48070"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3197502.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3173,7 +3127,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva Opel 30 10 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3205649.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3203,7 +3161,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "46962"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3205749.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3233,7 +3195,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48478"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3209664.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3263,7 +3229,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "39663"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3209665.pdf"
+      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
@@ -3293,7 +3263,11 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48660"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3209666.pdf"
+      }    ]
   }
   ]
 }
