@@ -1856,6 +1856,40 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/193755",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-193755",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Opatření obecné povahy - Zákaz odběru povrchových vod"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-06-21"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-01"
+    },
+    "číslo_jednací": "MUKK/29019/2023",
+    "spisová_značka": "259/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29019"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/2951602.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/195134",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-195134",
     "název": {"cs": "MÚ - odbor životního prostředí - VV - OOP - Zákaz odběru povrchových vod - z celého povodí vodního toku na celém území ORP Kadaň"},
@@ -3266,6 +3300,39 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzvy 2 11 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3212316.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204359",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204359",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Ekonomický odbor - Odborný pracovník školství"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-05"
+    },
+    "spisová_značka": "456/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ Eko ÚD školstvi"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3214104.pdf"
       }    ]
   }
   ]
