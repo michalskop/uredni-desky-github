@@ -2563,6 +2563,40 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203475",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203475",
+    "název": {"cs": "Exekutorský úřad Brno-Město - elektronická dražební vyhláška nemovitých věcí, dne 23.11.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-10-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "číslo_jednací": "MUKK/46879/2023",
+    "spisová_značka": "433/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Brno město DV   elektronická, nemovitých věcí, dne 23 11 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3185206.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/203476",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-203476",
     "název": {"cs": "Exekutorský úřad Praha 3 - Elektronická  dražební vyhláška nemovitých věcí dne 5.12.2024"},
@@ -3299,6 +3333,174 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VŘ Eko ÚD školstvi"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3214104.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204435",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204435",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - komunikace ve správním území města Kadaně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-22"
+    },
+    "číslo_jednací": "ODPK-48156/2023/Slu",
+    "spisová_značka": "457/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48156"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3220968.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204437",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204437",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Výpůjčka nebytových prostor č.p. 377 v Prunéřově, výpůjčka v k.ú. Tušimice, výpůjčka v k.ú. Úhošťany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-22"
+    },
+    "spisová_značka": "458/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "20231106084315324"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3220971.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204438",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204438",
+    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 2.12.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-04"
+    },
+    "spisová_značka": "459/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Technické služby Kadaň, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "svoz 2 12 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3220972.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204440",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204440",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Haincovi - Miřetice u Klášterce nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-11-22"
+    },
+    "číslo_jednací": "MUKK/49224/2023",
+    "spisová_značka": "460/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49224"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3220975.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204442",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204442",
+    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Petr Daduč"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-01"
+    },
+    "číslo_jednací": "MUKK/49406/2023",
+    "spisová_značka": "461/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49406"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3221066.pdf"
       }    ]
   }
   ]
