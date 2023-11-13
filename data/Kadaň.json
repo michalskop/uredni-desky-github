@@ -3739,6 +3739,72 @@
         "název": {"cs": "sociální 13 11 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3237025.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204984",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204984",
+    "název": {"cs": "Správa městských bytů - Nabídka nájmu volného bytu jako tzv. startovacího - ul. Golovinova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-14"
+    },
+    "spisová_značka": "472/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "startovací 13 11 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3237031.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204985",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204985",
+    "název": {"cs": "Správa městských bytů - Nabídka nájmu volného bytu jako tzv. bytu pro seniory - ul. Tyršova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-11-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-14"
+    },
+    "spisová_značka": "473/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "senioři 13 11 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3237032.pdf"
+      }    ]
   }
   ]
 }
