@@ -3535,6 +3535,72 @@
         "název": {"cs": "Schválený střednědobý výhled 2025 2026"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3278373.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206415",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206415",
+    "název": {"cs": "Město Kadaň - odbor tajemníka úřadu - Majetkoprávní úsek - Oznámení - nabídka pronájmu části parcely 2953/2 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-20"
+    },
+    "spisová_značka": "503/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Záměr města pronajmout část p č 29532 v k ú  Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3278701.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206423",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206423",
+    "název": {"cs": "Město Kadaň - odbor tajemníka úřadu - Majetkoprávní úsek - Oznámení - záměr obce prodat p.č. 3460/188 a 2480/16 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2023-12-21"
+    },
+    "spisová_značka": "504/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Záměr města prodat p č  3460 188 a 2480 16 v k ú  Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3278793.pdf"
+      }    ]
   }
   ]
 }
