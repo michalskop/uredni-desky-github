@@ -3345,7 +3345,7 @@
       "typ": "Časový okamžik",
       "datum": "2023-12-18"
     },
-    "spisová_značka": "505/2023",
+    "spisová_značka": "505/1/2023",
     "agenda": [
       {
         "typ": "Agenda",
@@ -3379,7 +3379,7 @@
       "datum": "2023-12-24"
     },
     "číslo_jednací": "ODPK-45018/2023",
-    "spisová_značka": "505/2023",
+    "spisová_značka": "505/2/2023",
     "agenda": [
       {
         "typ": "Agenda",
@@ -3514,6 +3514,7 @@
       "typ": "Časový okamžik",
       "datum": "2023-12-31"
     },
+    "spisová_značka": "509/2023",
     "agenda": [
       {
         "typ": "Agenda",
