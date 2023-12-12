@@ -2964,40 +2964,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205944",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205944",
-    "název": {"cs": "KÚ ÚK - Návrh rozpočtu Ústeckého kraje na rok 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-12"
-    },
-    "číslo_jednací": "MUKK/52707/2023",
-    "spisová_značka": "497/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "52707"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3263773.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206087",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206087",
     "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Richard Pecháč"},
@@ -3028,39 +2994,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "53561"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3266433.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206088",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206088",
-    "název": {"cs": "KÚ ÚK - 25. zasedání Zastupitelstva Ústeckého kraje - 11.12.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-12"
-    },
-    "spisová_značka": "498/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20231129163527923"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3266436.pdf"
       }    ]
   },
 {
