@@ -1890,39 +1890,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/198787",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-198787",
-    "název": {"cs": "Město Kadaň - 3. rozpočtové opatření k 13.9.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-08-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-15"
-    },
-    "spisová_značka": "350/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "3  rozpočtové opatření k 13 9 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3083066.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/199523",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-199523",
     "název": {"cs": "ÚZSVM - Seznam nedostatečně identifikovaných vlastníků nemovitostí v k.ú. Kadaň"},
@@ -2528,40 +2495,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204689",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204689",
-    "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Richard Pecháč"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-15"
-    },
-    "číslo_jednací": "MUKK/50220/2023",
-    "spisová_značka": "464/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "50220"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3226182.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205240",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205240",
     "název": {"cs": "Ministerstvo práce a sociálních věcí - Varování před podvodnými SMS"},
@@ -2828,40 +2761,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Návrh výhledy rozpoćtu 2025 2026"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3263770.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206087",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206087",
-    "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Richard Pecháč"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-15"
-    },
-    "číslo_jednací": "MUKK/53561/2023",
-    "spisová_značka": "499/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "53561"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3266433.pdf"
       }    ]
   },
 {
