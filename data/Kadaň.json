@@ -2529,40 +2529,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205241",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205241",
-    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Ivan Skalička"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-18"
-    },
-    "číslo_jednací": "MUKK/50972/2023",
-    "spisová_značka": "480/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "50972"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3243071.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205430",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205430",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Zdeňka Kozáková"},
@@ -2699,106 +2665,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205938",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205938",
-    "název": {"cs": "Město Kadaň - Návrh rozpočtu města 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-18"
-    },
-    "spisová_značka": "495/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozpočet města"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Návrh rozpoctu mesta 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3263695.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205941",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205941",
-    "název": {"cs": "Město Kadaň - Návrh střednědobého výhledu rozpočtu na roky 2025 - 2026"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-18"
-    },
-    "spisová_značka": "496/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozpočet města"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Návrh výhledy rozpoćtu 2025 2026"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3263770.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206248",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206248",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o zahájení řízení o prodloužení platnosti povolení - stavební úpravy v ul. ČSA v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-18"
-    },
-    "číslo_jednací": "MUKK/53405/2023",
-    "spisová_značka": "500/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "53405"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3270548.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206380",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206380",
     "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Schválený rozpočet 2024"},
@@ -2927,39 +2793,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Záměr města prodat p č  3460 188 a 2480 16 v k ú  Kadaň"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3278793.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206529",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206529",
-    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 14.12.2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-18"
-    },
-    "spisová_značka": "505/1/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "POZVÁNKA NA 5  ZASEDÁNÍ ZM KADANĚ DNE 14 12 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3281038.pdf"
       }    ]
   },
 {
