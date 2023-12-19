@@ -3433,6 +3433,107 @@
         "název": {"cs": "Zpráva cestovní ruch 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3309084.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207481",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207481",
+    "název": {"cs": "Město Kadaň - zveřejnění záměru města - pronájem části parcely č. 2829/4 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-04"
+    },
+    "spisová_značka": "524/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "záměr 19 12 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3311152.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207483",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207483",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - honitba Vernéřov - Zikovi"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-04"
+    },
+    "číslo_jednací": "MUKK/56556/2023",
+    "spisová_značka": "525/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "56556"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3311153.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207486",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207486",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - honitba Vernéřov - Márová, Sedláček, Exnerová, Vladimirovič, Baier"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-19"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-04"
+    },
+    "číslo_jednací": "MUKK/56554/2023",
+    "spisová_značka": "526/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "56554"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3311240.pdf"
+      }    ]
   }
   ]
 }
