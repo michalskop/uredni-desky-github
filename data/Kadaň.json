@@ -3501,6 +3501,141 @@
         "název": {"cs": "56554"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3311240.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207697",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207697",
+    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 14.12.2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-05"
+    },
+    "spisová_značka": "527/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ZM na ÚD 14 12 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3313748.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207700",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207700",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-05"
+    },
+    "číslo_jednací": "ODPK-51841/2023/Slu",
+    "spisová_značka": "528/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "51841"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3313751.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207701",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207701",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ORP Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-05"
+    },
+    "číslo_jednací": "ODPK-56412/2023/Slu",
+    "spisová_značka": "529/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "56412"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3313755.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207702",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207702",
+    "název": {"cs": "MÚ - odbor životního prostředí  - Veřejná vyhláška  - Rozhodnutí - Kanalizační řád Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-05"
+    },
+    "číslo_jednací": "MUKK/57111/2023",
+    "spisová_značka": "530/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57111"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3313758.pdf"
+      }    ]
   }
   ]
 }
