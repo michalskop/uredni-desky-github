@@ -3739,6 +3739,40 @@
         "název": {"cs": "57339"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3316034.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208071",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208071",
+    "název": {"cs": "MÚ - odbor dopravy - Veřejná vyhláška - oznámení o návrhu Opatření obecné povahy a výzva k uplatnění připomínek, námitek - Klášterec nad Ohří, ul. Tyršova, čp. 149 a čp. 117"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2023-12-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-08"
+    },
+    "číslo_jednací": "ODPK/55656/2023/272/Str",
+    "spisová_značka": "536/2023",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD VV Klášterec n O ,Tyršova ul "},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3318252.pdf"
+      }    ]
   }
   ]
 }
