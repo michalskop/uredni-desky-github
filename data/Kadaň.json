@@ -10,45 +10,6 @@
   "informace": [
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/115441",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-115441",
-    "název": {"cs": "ÚZSVM - Výzva vlastníkům nemovitostí"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2022-10-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-31"
-    },
-    "číslo_jednací": "MUKK/46539/2022",
-    "spisová_značka": "450/2022",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Úřad pro zastupování státu ve věcech majetkových"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "46539"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2395617.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČJ UZSVM UCV 6396 2022 UCVM 1 "},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/2395618.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/122912",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-122912",
     "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Poláky"},
@@ -2695,39 +2656,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "EÚ Přerov elektronická dražba nemovité věci 7 2 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3285605.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206732",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206732",
-    "název": {"cs": "Město Kadaň - Zrušení výběrového řízení - Odborný pracovník školství"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2023-12-31"
-    },
-    "spisová_značka": "509/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "zruseni VŘ"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3291414.pdf"
       }    ]
   },
 {
