@@ -3084,6 +3084,108 @@
         "název": {"cs": "66"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3343789.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208588",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208588",
+    "název": {"cs": "Město Kadaň - Zveřejnění informace - Zahájení zjišťovacího řízení záměru zařazeného v kategorii I - &quot;Rekonstrukce traťového úseku Chomutov (mimo)-Kadaň-Prunéřov (včetně)&quot;"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-24"
+    },
+    "číslo_jednací": "MUKK/805/2024",
+    "spisová_značka": "9/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "805"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3350508.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208589",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208589",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o zahájení řízení o prodloužení platnosti povolení - Rekonstrukce chodníků v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-24"
+    },
+    "číslo_jednací": "MUKK/331/2024",
+    "spisová_značka": "14/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "331"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3350527.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208590",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208590",
+    "název": {"cs": "Město Kadaň - Smlouva o spolupráci - TJ Group, s.r.o."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2027-01-08"
+    },
+    "číslo_jednací": "16799/2023",
+    "spisová_značka": "13/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Smlouvy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Smlouva 16799 23 ŽÚ"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3350528.pdf"
+      }    ]
   }
   ]
 }
