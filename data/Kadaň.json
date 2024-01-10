@@ -3218,6 +3218,107 @@
         "název": {"cs": "442"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3354151.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208793",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208793",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. Na Podlesí v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-26"
+    },
+    "číslo_jednací": "ODPK-50326/2023/Slu",
+    "spisová_značka": "18/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "50326"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3354153.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208794",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208794",
+    "název": {"cs": "KÚ ÚK - 26. zasedání Zastupitelstva Ústeckého kraje - 22.1.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-23"
+    },
+    "spisová_značka": "19/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "26  ZUK 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3354154.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208803",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208803",
+    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň, ul. Koželužská - 16.1.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-01-17"
+    },
+    "číslo_jednací": "MUKK/1600/2024",
+    "spisová_značka": "20/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "1600"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3354195.pdf"
+      }    ]
   }
   ]
 }
