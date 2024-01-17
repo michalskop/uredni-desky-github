@@ -3555,6 +3555,73 @@
         "název": {"cs": "výzvy auta 16 1 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3365037.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209551",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209551",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Ekonomický odbor - Odborný pracovník školství"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-20"
+    },
+    "spisová_značka": "29/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ÚD   VŘ Eko leden 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3366956.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209552",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209552",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-17"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-02"
+    },
+    "číslo_jednací": "ODPK-1804/2024/Slu",
+    "spisová_značka": "30/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "1804"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3366957.pdf"
+      }    ]
   }
   ]
 }
