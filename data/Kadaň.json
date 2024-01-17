@@ -2447,40 +2447,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207032",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207032",
-    "název": {"cs": "EÚ Praha 3 - Dražební vyhláška - Róbert Bolvan - odročení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-01-17"
-    },
-    "číslo_jednací": "MUKK/56096/2023",
-    "spisová_značka": "516/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "56096"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3296605.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207170",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207170",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -3250,40 +3216,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "26  ZUK 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3354154.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208803",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208803",
-    "název": {"cs": "SČVK - Oznámení o přerušení dodávky vody - Kadaň, ul. Koželužská - 16.1.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-01-17"
-    },
-    "číslo_jednací": "MUKK/1600/2024",
-    "spisová_značka": "20/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "1600"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3354195.pdf"
       }    ]
   },
 {
