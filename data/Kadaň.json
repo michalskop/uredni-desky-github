@@ -2212,40 +2212,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205935",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205935",
-    "název": {"cs": "EÚ Praha 10 - Dražební vyhláška - Jaroslav Haupt"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-01-19"
-    },
-    "číslo_jednací": "MUKK/52918",
-    "spisová_značka": "492/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "52918"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3263672.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205936",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205936",
     "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Kristýna Kotlarová"},
@@ -2510,39 +2476,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "56375"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3300850.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207844",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207844",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Referent stavebního úřadu - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-01-19"
-    },
-    "spisová_značka": "532/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ ÚD SÚ 2023"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3315730.pdf"
       }    ]
   },
 {
