@@ -3381,6 +3381,272 @@
         "název": {"cs": "Priloha 5 Hlukova studie"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3377866.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209979",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209979",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu v rámci sociálního bydlení - ul. Golovinova, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-26"
+    },
+    "spisová_značka": "39/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty soc  25 01 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381760.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209980",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209980",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. bytů pro seniory - Tyršova, Věžní, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-26"
+    },
+    "spisová_značka": "40/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty senioři 25 01 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381763.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209983",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209983",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Jitřní, Komenského, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-26"
+    },
+    "spisová_značka": "41/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty startovací Jitřní Komenského 25 01 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381843.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209985",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209985",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Golovinova, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-26"
+    },
+    "spisová_značka": "42/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty startovací Golovinova 25 01 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381847.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209986",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209986",
+    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 25.1.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-26"
+    },
+    "spisová_značka": "43/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výzvy auta 25 01 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381848.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209988",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209988",
+    "název": {"cs": "KÚ ÚK - Den s Ústeckým krajem II. - 6.2.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-07"
+    },
+    "číslo_jednací": "MUKK/3276/2024",
+    "spisová_značka": "44/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "3276"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381853.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209989",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209989",
+    "název": {"cs": "Město Kadaň - Zveřejnění informace - Zahájení zjišťovacího řízení záměru zařazeného v kategorii II - Výstavba nového zdroje v areálu EPR II"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-12"
+    },
+    "číslo_jednací": "MUKK/3374/2024",
+    "spisová_značka": "45/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "3374"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381854.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209992",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209992",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Vedoucí odboru výstavby"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-01-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-02-12"
+    },
+    "spisová_značka": "46/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ OV 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3381857.pdf"
+      }    ]
   }
   ]
 }
