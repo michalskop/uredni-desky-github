@@ -2042,40 +2042,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/204442",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-204442",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Petr Daduč"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-01"
-    },
-    "číslo_jednací": "MUKK/49406/2023",
-    "spisová_značka": "461/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "49406"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3221066.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205430",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205430",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Zdeňka Kozáková"},
@@ -2412,72 +2378,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208224",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208224",
-    "název": {"cs": "Město Kadaň - Oznámení - Změna poplatku za komunální odpad"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-01"
-    },
-    "spisová_značka": "3/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odpady 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3340178.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208225",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208225",
-    "název": {"cs": "Město Kadaň - Oznámení o pokladních hodinách na MÚ Kadaň v lednu 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-01"
-    },
-    "spisová_značka": "4/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "pokladna leden 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3340179.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208590",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208590",
     "název": {"cs": "Město Kadaň - Smlouva o spolupráci - TJ Group, s.r.o."},
@@ -2743,40 +2643,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "2448"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3365035.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209477",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209477",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - honitba Kotvina"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-01"
-    },
-    "číslo_jednací": "MUKK/2478/2024",
-    "spisová_značka": "27/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "2478"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3365036.pdf"
       }    ]
   },
 {
