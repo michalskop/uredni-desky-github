@@ -2042,40 +2042,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205430",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205430",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Zdeňka Kozáková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-21"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-02"
-    },
-    "číslo_jednací": "MUKK/51804/2023",
-    "spisová_značka": "482/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51804"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3246790.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205936",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205936",
     "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Kristýna Kotlarová"},
@@ -2340,40 +2306,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "56375"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3300850.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208072",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208072",
-    "název": {"cs": "Exekutorský úřad Praha 5 - Elektronická  dražební vyhláška nemovitých věcí dne 1.2.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-02"
-    },
-    "číslo_jednací": "MUKK/57796/2023",
-    "spisová_značka": "537/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "EÚ Praha 5   DV   1 2 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3318253.pdf"
       }    ]
   },
 {
@@ -2709,40 +2641,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "ÚD   VŘ Eko leden 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3366956.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209552",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209552",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Klášterec nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-02"
-    },
-    "číslo_jednací": "ODPK-1804/2024/Slu",
-    "spisová_značka": "30/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "1804"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3366957.pdf"
       }    ]
   },
 {
