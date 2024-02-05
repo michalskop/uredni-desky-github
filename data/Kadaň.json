@@ -2713,73 +2713,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209666",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209666",
-    "název": {"cs": "Město Kadaň - zveřejnění záměru města - úprava smluv v k.ú. Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-05"
-    },
-    "spisová_značka": "33/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20240119095116097"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3370124.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209708",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209708",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení místní úpravy provozu - Kotvina"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-05"
-    },
-    "číslo_jednací": "ODPK-2739/2024/Slu",
-    "spisová_značka": "34/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "2739"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3370444.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209709",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209709",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Marie Paparella - doplnění"},
@@ -3240,39 +3173,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "4232"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3381860.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/210364",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-210364",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 2.2.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-05"
-    },
-    "spisová_značka": "48/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstřel 2 2 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3387862.pdf"
       }    ]
   },
 {
