@@ -2042,40 +2042,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/205936",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-205936",
-    "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Kristýna Kotlarová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-11-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-08"
-    },
-    "číslo_jednací": "MUKK/53010/2023",
-    "spisová_značka": "493/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "53010"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3263679.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206380",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206380",
     "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Schválený rozpočet 2024"},
@@ -2142,40 +2108,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/206691",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-206691",
-    "název": {"cs": "Exekutorský úřad Přerov - Usnesení o nařízení elektronické dražby nemovité věci - 7.2.2024 (Jaroslav Pechoč)"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-08"
-    },
-    "číslo_jednací": "MUKK/55312/2023",
-    "spisová_značka": "508/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "EÚ Přerov elektronická dražba nemovité věci 7 2 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3285605.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207016",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207016",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3K85199"},
@@ -2205,40 +2137,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výzva 12 12 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3296586.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207018",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207018",
-    "název": {"cs": "EÚ Přerov - Dražební vyhláška - Jana Slavíková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-08"
-    },
-    "číslo_jednací": "MUKK/55595/2023",
-    "spisová_značka": "512/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "55595"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3296589.pdf"
       }    ]
   },
 {
@@ -2776,103 +2674,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Výzvy auta 23 1 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3377855.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209838",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209838",
-    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - Prodej části parcela č. 3460/188, 2480/14 a 2480/17 v k. ú. Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-08"
-    },
-    "spisová_značka": "37/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Záměr 23 1 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377858.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209839",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209839",
-    "název": {"cs": "KÚ ÚK - Posuzování vlivů na životní prostředí - zahájení zjišťovacího řízení - Výstavba nového zdroje v areálu EPR II"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-08"
-    },
-    "číslo_jednací": "MUKK/3375/2024",
-    "spisová_značka": "36/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "3375"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377860.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Oznameni kotelna Prunerov final"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377861.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Priloha 1 umisteni situace"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377862.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Priloha 2 Stanovisko NATURA 2000"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377863.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Priloha 3 Vyjadreni uzemni plan"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377864.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Priloha 4 Rozptylova studie"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377865.pdf"
-      },
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Priloha 5 Hlukova studie"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3377866.pdf"
       }    ]
   },
 {
