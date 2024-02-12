@@ -3346,6 +3346,39 @@
         "název": {"cs": "20240208092852347"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3404150.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/211029",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-211029",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 2K7 9948"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-02-12"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-15"
+    },
+    "spisová_značka": "61/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 12 2 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3411788.pdf"
+      }    ]
   }
   ]
 }
