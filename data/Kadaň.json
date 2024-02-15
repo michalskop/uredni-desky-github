@@ -2377,39 +2377,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209007",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209007",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. prostupného sociálního bydlení 2. stupně - Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-15"
-    },
-    "spisová_značka": "25/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byty 15 1 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3362322.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209476",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209476",
     "název": {"cs": "EÚ Přerov - Dražební vyhláška - Kristina Bazalková - opakovaná dražba"},
