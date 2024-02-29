@@ -2276,40 +2276,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/207173",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-207173",
-    "název": {"cs": "EÚ  Plzeň-jih - DV - Viera Pilarová"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2023-12-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-02-29"
-    },
-    "číslo_jednací": "MUKK/56375/2023",
-    "spisová_značka": "520/2023",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "56375"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3300850.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208590",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208590",
     "název": {"cs": "Město Kadaň - Smlouva o spolupráci - TJ Group, s.r.o."},
