@@ -3316,6 +3316,273 @@
         "název": {"cs": "9764"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3456533.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213102",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213102",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Kadaň a přilehlé obce - Blokové čištění"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-20"
+    },
+    "číslo_jednací": "ODPK-9256/2024/Slu",
+    "spisová_značka": "93/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "9256"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456538.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213105",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213105",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Revoluční v Mašťově"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-20"
+    },
+    "číslo_jednací": "ODPK-10318/2024/Slu",
+    "spisová_značka": "94/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "10318"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456540.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213106",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213106",
+    "název": {"cs": "EÚ Most - Dražební vyhláška - Golden Opportunity, družstvo v likvidaci - 27.3.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-28"
+    },
+    "číslo_jednací": "MUKK/10165/2024",
+    "spisová_značka": "95/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "10165"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456546.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213107",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213107",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů pro rodiče samoživitele - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-04"
+    },
+    "spisová_značka": "96/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty 4 3 2024 samozivitele"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456547.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213108",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213108",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - Kadaň - ul. Ječná, ul. Golovinova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-04"
+    },
+    "spisová_značka": "97/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty 4 3 2024 startovaci"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456548.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213109",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213109",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu v rámci sociálního bydlení - ul. Na Podlesí"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-04"
+    },
+    "spisová_značka": "98/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty 4 3 2024 socialni"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456550.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213111",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213111",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. bytů pro seniory - ul. Věžní, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-04"
+    },
+    "spisová_značka": "99/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty 4 3 2024 seniori"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456553.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213112",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213112",
+    "název": {"cs": "Město Kadaň - zveřejnění záměru města - pronájem nemovité věci čb. 12 v čp. 1364, ul. Chomutovská, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-20"
+    },
+    "spisová_značka": "100/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Byty pronájem 4 3 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3456556.pdf"
+      }    ]
   }
   ]
 }
