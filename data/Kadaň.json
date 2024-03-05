@@ -3616,6 +3616,74 @@
         "název": {"cs": "konkurs"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3458455.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213220",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213220",
+    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Zpráva o uplatňování plánu - Veřejná vyhláška - Územní plán Okounov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-21"
+    },
+    "číslo_jednací": "MUKK/10816/2024",
+    "spisová_značka": "102/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "10816"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3458539.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213221",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213221",
+    "název": {"cs": "KÚ ÚK - Veřejná vyhláška o návrhu Zprávy o uplatňování Zásad územního rozvoje Ústeckého kraje, ve znění 1., 2., 3. a 4. aktualizace"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-05"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-21"
+    },
+    "číslo_jednací": "MUKK/10749/2024",
+    "spisová_značka": "103/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "10749"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3458541.pdf"
+      }    ]
   }
   ]
 }
