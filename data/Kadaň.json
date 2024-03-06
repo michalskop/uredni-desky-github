@@ -3684,6 +3684,39 @@
         "název": {"cs": "10749"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3458541.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213289",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213289",
+    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 14.3.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-15"
+    },
+    "spisová_značka": "104/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Pozvánka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "pozvánka ZM 14 3 2024 ÚD"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3460430.pdf"
+      }    ]
   }
   ]
 }
