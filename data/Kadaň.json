@@ -3311,6 +3311,106 @@
         "název": {"cs": "Blokové ćiśtění 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3464354.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213801",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213801",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 15.3.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-03-16"
+    },
+    "spisová_značka": "110/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstrel 15 3 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3475349.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213806",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213806",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1UF 0981"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-13"
+    },
+    "spisová_značka": "109/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Výzva 13 3 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3475355.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213807",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213807",
+    "název": {"cs": "Ministerstvo životního prostředí - Závěr zjišťovacího řízení - Závěr zjišťovacího řízení - Rekonstrukce traťového úseku Chomutov - Kadaň - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-02"
+    },
+    "číslo_jednací": "MZP/2024/221/332",
+    "spisová_značka": "108/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ministerstvo životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "221 332"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3475360.pdf"
+      }    ]
   }
   ]
 }
