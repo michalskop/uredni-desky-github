@@ -2110,39 +2110,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209986",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209986",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 25.1.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-03-26"
-    },
-    "spisová_značka": "43/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Výzvy auta 25 01 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3381848.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/210368",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-210368",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Ford"},
