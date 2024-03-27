@@ -3512,6 +3512,107 @@
         "název": {"cs": "Smlouva o spolupráci a sdružení finančních prostředků"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3502230.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214912",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214912",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 3.4.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-04"
+    },
+    "číslo_jednací": "MUKK/14443/2024",
+    "spisová_značka": "137/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "14443"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3502439.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214914",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214914",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Na Podlesí v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-04-12"
+    },
+    "číslo_jednací": "ODPK-12876/2024/Slu",
+    "spisová_značka": "138/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "12876"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3502441.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214916",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214916",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  duben 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-03-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-02"
+    },
+    "spisová_značka": "139/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výcvik duben 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3502444.pdf"
+      }    ]
   }
   ]
 }
