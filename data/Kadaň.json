@@ -2909,40 +2909,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/215042",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-215042",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška o možnosti převzít písemnost - Veronika Hradská"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-04-18"
-    },
-    "číslo_jednací": "MUKK/14651/2024",
-    "spisová_značka": "140/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "14651"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3512565.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/215060",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-215060",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Citroen 7U3 4098"},
