@@ -3580,6 +3580,139 @@
         "název": {"cs": "Zápis z jednání 31. valné hromady DSO „Cyklostezka Prunéřov - Černovice'"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3557667.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217182",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217182",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - pronájem nebytových prostor - č.p. 1338 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-04-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-10"
+    },
+    "spisová_značka": "177/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zamer obce pronajem 24 4 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3560697.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217196",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217196",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 6Z46489"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-04-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-24"
+    },
+    "spisová_značka": "178/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 24 4 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3560800.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217200",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217200",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Prunéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-04-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-10"
+    },
+    "číslo_jednací": "ODPK-18768/2024/Slu",
+    "spisová_značka": "179/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "18768"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3560807.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217202",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217202",
+    "název": {"cs": "Volby - Stanovení mimořádných úředních hodin dne 28.4.2024 a 8.5.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-04-12"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-05-09"
+    },
+    "spisová_značka": "180/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volby"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "volby mim ur hodiny"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3560809.pdf"
+      }    ]
   }
   ]
 }
