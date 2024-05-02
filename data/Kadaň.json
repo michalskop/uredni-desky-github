@@ -2479,39 +2479,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/208604",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-208604",
-    "název": {"cs": "Město Kadaň - Program na záchranu a obnovu nemovitostí a movitých kulturních památek na území Městské památkové rezervace - Kadaň 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-01-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "10/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dotační program"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Program MPR 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3350610.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/209000",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-209000",
     "název": {"cs": "Katastrální úřad pro Ústecký kraj - oznámení o vyhlášení revize katastru nemovitostí"},
@@ -2646,72 +2613,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/212774",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-212774",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1UI 4012"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-02-28"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "86/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva 1UI 4012"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3445446.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213459",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213459",
-    "název": {"cs": "Město Kadaň - Blokové čištění města - 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "107/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Blokové ćiśtění 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3464354.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213806",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213806",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1UF 0981"},
@@ -2745,40 +2646,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213807",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213807",
-    "název": {"cs": "Ministerstvo životního prostředí - Závěr zjišťovacího řízení - Závěr zjišťovacího řízení - Rekonstrukce traťového úseku Chomutov - Kadaň - Prunéřov"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "číslo_jednací": "MZP/2024/221/332",
-    "spisová_značka": "108/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ministerstvo životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozhodnutí"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "221 332"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3475360.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213933",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213933",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -2808,39 +2675,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení o rozpočtových pravidlech 15 3 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3478935.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/213945",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-213945",
-    "název": {"cs": "Město Kadaň - Oznámení o vyhlášení právních předpisů - Obecně závazné vyhlášky města Kadaně - noční klid"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "112/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "OZV 1 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3479032.pdf"
       }    ]
   },
 {
@@ -2940,39 +2774,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Smlouva o spolupráci a sdružení finančních prostředků"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3502230.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214916",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214916",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  duben 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "139/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výcvik duben 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3502444.pdf"
       }    ]
   },
 {
@@ -3106,141 +2907,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "17167"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3532906.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216144",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216144",
-    "název": {"cs": "Město Kadaň - Zveřejnění záměru města - prodloužení nájemní smlouvy a smlouvy o výpůjčce - stavba bez č.p. na p.č. 2226/2 - softball"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "spisová_značka": "156/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zveřejnění záměru obce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Záměr města   15 4 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3538924.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216146",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216146",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. T.G.Masaryka v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "číslo_jednací": "ODPK-13717/2024/Slu",
-    "spisová_značka": "157/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "13717"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3538927.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216148",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216148",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - ul. Jungmannova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "číslo_jednací": "ODPK - 15292/2024/Slu",
-    "spisová_značka": "158/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "15292"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3538929.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216158",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216158",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní  úpravy provozu - Na Strážišti v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "číslo_jednací": "ODPK-7566/2024/Slu",
-    "spisová_značka": "159/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "7566"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3539021.pdf"
       }    ]
   },
 {
@@ -3610,40 +3276,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "9764"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3562370.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217473",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217473",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 30.4.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-02"
-    },
-    "číslo_jednací": "MUKK/19665/2024",
-    "spisová_značka": "186/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "19665"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3565037.pdf"
       }    ]
   },
 {
