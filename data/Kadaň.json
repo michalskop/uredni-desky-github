@@ -1909,40 +1909,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216660",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216660",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie dne 7.5.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-09"
-    },
-    "číslo_jednací": "MUKK/17944, 18109, 17943/2024",
-    "spisová_značka": "163/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "17944 18109 17943"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3546092.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216659",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216659",
     "název": {"cs": "EÚ Praha 9 - Dražební vyhláška - Radim Bouček, Jitka Boučková"},
@@ -2642,39 +2608,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216868",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216868",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Vedoucí odboru výstavby"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-09"
-    },
-    "spisová_značka": "175/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ ÚD OV 6 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3555410.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216957",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216957",
     "název": {"cs": "Zápis z jednání 31. valné hromady Dobrovolného svazku obcí „Cyklostezka Prunéřov - Černovice&quot;"},
@@ -2804,39 +2737,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "18768"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3560807.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217202",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217202",
-    "název": {"cs": "Volby - Stanovení mimořádných úředních hodin dne 28.4.2024 a 8.5.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-12"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-09"
-    },
-    "spisová_značka": "180/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "volby mim ur hodiny"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3560809.pdf"
       }    ]
   },
 {
