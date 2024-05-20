@@ -1744,105 +1744,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216817",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216817",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů pro rodiče samoživitele - ul. Golovinova, ul. Chomutovská, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "174/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "byt pro rodiče samoživitele 19 4 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3548902.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216816",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216816",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Golovinova, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "173/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "startovací byt 19 4 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3548901.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216815",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216815",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů v  rámci sociálního bydlení - ul. Komenského, ul. Golovinova, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "172/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "socialni byt 19 4 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3548899.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216806",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216806",
     "název": {"cs": "Volby - Oznámení o počtu a sídel volebních okrsků"},
@@ -1872,39 +1773,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "volebni okrsky"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3548873.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216662",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216662",
-    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu jako tzv. startovacího - Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "164/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volné byty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Byt startovací 17 4 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3546094.pdf"
       }    ]
   },
 {
@@ -2376,72 +2244,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214022",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214022",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 8U3 4752"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "113/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva auta 18 03 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3484815.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214330",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214330",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 20.3.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-03-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "126/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzvy auta 20 3 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3489035.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/214861",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-214861",
     "název": {"cs": "Smlouva o spolupráci a sdružení finančních prostředků"},
@@ -2743,40 +2545,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/218437",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-218437",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 18.5.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "číslo_jednací": "MUKK/20160/2024",
-    "spisová_značka": "190/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "20160"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3575192.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/218442",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-218442",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1UA9780"},
@@ -2910,74 +2678,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/218671",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-218671",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Úhošťany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "číslo_jednací": "ODPK-15742/2024/slu",
-    "spisová_značka": "195/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "15742"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3582003.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/218672",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-218672",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Petlérská v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "číslo_jednací": "ODPK-17170/2024/Slu",
-    "spisová_značka": "196/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "17170"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3582004.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/218786",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-218786",
     "název": {"cs": "Finanční úřad - Veřejná vyhláška - Uložení písemnosti na FÚ v Kadani - Veronika Seidel"},
@@ -3042,39 +2742,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "20434"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3588214.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/219008",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-219008",
-    "název": {"cs": "Volby - Pozvánka na 1. zasedání členů okrskových volebních komisí"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-05-20"
-    },
-    "spisová_značka": "199/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pozvánka volby"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3594162.pdf"
       }    ]
   },
 {
