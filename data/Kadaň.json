@@ -3129,6 +3129,210 @@
         "název": {"cs": "VŘ OV 2024 ÚD"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3624435.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220299",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220299",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Prunéřov - 10.6.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-11"
+    },
+    "číslo_jednací": "MUKK/23665/2024",
+    "spisová_značka": "211/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "23665"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627658.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220300",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220300",
+    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Oznámení o zahájení řízení - Obec Radonice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "číslo_jednací": "MUKK/23747/2024",
+    "spisová_značka": "212/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "23747"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627659.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220301",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220301",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Kadaň - opravy havárií teplovodního vedení"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "číslo_jednací": "ODPK-19471/2024/Slu",
+    "spisová_značka": "213/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "19471"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627660.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220302",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220302",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Perštejn"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "číslo_jednací": "ODPK-22793/2024/Slu",
+    "spisová_značka": "214/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "22793"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627661.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220304",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220304",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Kadaň - dopravní značení"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "číslo_jednací": "ODPK-22748/2024",
+    "spisová_značka": "215/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "22748"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627663.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220306",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220306",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - CV-Vilémov, Blov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-22"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "číslo_jednací": "ODPK-23919/2024",
+    "spisová_značka": "216/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "23919"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3627665.pdf"
+      }    ]
   }
   ]
 }
