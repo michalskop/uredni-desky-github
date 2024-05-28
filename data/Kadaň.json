@@ -3468,6 +3468,39 @@
         "název": {"cs": "24138"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3632305.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220697",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220697",
+    "název": {"cs": "Návrh závěrečného účtu města za rok 2023"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-28"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-12"
+    },
+    "spisová_značka": "225/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozpočet města"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Návrh závěrečného účtu města za rok 2023"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3636464.pdf"
+      }    ]
   }
   ]
 }
