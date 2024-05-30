@@ -3501,6 +3501,45 @@
         "název": {"cs": "Návrh závěrečného účtu města za rok 2023"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3636464.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220898",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220898",
+    "název": {"cs": "SČvK - Oznámení o přechodném zakalení vodovodní sítě 29. - 30.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-05-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-03"
+    },
+    "číslo_jednací": "MUKK/25741",
+    "spisová_značka": "298/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SčVK oznámení o zakalení vodovodní sítě"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3640729.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Měrná kampaň Kadaň 2"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3640730.xlsx"
+      }    ]
   }
   ]
 }
