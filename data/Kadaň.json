@@ -1777,40 +1777,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216659",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216659",
-    "název": {"cs": "EÚ Praha 9 - Dražební vyhláška - Radim Bouček, Jitka Boučková"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-04"
-    },
-    "číslo_jednací": "MUKK/18153/2024",
-    "spisová_značka": "162/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "18153"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3546091.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201701",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201701",
     "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 1/2023"},
