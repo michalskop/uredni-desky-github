@@ -3605,6 +3605,39 @@
         "název": {"cs": "zámér 3 6 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3648020.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/221276",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-221276",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Odbor životního prostředí - pracovník na úseku ochrany ovzduší a odpadového hospodářství - doba určitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "spisová_značka": "240/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ ÚD ŽP 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3649478.pdf"
+      }    ]
   }
   ]
 }
