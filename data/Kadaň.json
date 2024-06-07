@@ -3806,6 +3806,274 @@
         "název": {"cs": "25166"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3651791.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223600",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223600",
+    "název": {"cs": "MÚ - odbor dopravy - oznámení o návrhu opatření obecné povahy - stanovení místní úpravy provozu - Loučná pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-24"
+    },
+    "číslo_jednací": "ODPK-25006/2024/Slu",
+    "spisová_značka": "247/2026",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "25006"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657092.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223602",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223602",
+    "název": {"cs": "KÚ ÚK - Rozhodnutí - Závěr zjišťovacího řízení doručovaný veřejnou vyhláškou - Rozhodnutí - FVE DNT 02, DNT 03, DNT 04 - Vrchní vedení pro vyvedení výkonu z FVE Tušimice II a Tušimice III - I. Etapa"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-24"
+    },
+    "číslo_jednací": "MUKK/27014/2024",
+    "spisová_značka": "248/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "27014"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657097.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223603",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223603",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 11.6.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-12"
+    },
+    "číslo_jednací": "MUKK/27145/2024",
+    "spisová_značka": "249/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "27145"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657099.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223604",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223604",
+    "název": {"cs": "EÚ Nový Jičín - Dražební vyhláška - CV TECH, s.r.o."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "MUKK/27146/2024",
+    "spisová_značka": "250/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "27146"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657100.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223605",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223605",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volného bytu pro rodiče samoživitele - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-08"
+    },
+    "spisová_značka": "251/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byt samoživitelé 7 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657101.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223606",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223606",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. bytů pro seniory - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-08"
+    },
+    "spisová_značka": "252/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty senioři 7 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657102.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223607",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223607",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-08"
+    },
+    "spisová_značka": "253/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty startovací 7 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657103.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223609",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223609",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 5S64368"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-08-08"
+    },
+    "spisová_značka": "254/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva auta 7 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3657106.pdf"
+      }    ]
   }
   ]
 }
