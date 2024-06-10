@@ -1744,39 +1744,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216806",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216806",
-    "název": {"cs": "Volby - Oznámení o počtu a sídel volebních okrsků"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "spisová_značka": "168/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "volebni okrsky"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3548873.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/201701",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-201701",
     "název": {"cs": "DSO Cyklostezka Prunéřov – Černovice - Rozpočtové opatření č. 1/2023"},
@@ -2243,39 +2210,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/215403",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-215403",
-    "název": {"cs": "Volby - Stanovení minimálního počtu členů okrskové volební komise"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "spisová_značka": "143/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Volby pocet clenu OVK"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3518432.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/216957",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-216957",
     "název": {"cs": "Zápis z jednání 31. valné hromady Dobrovolného svazku obcí „Cyklostezka Prunéřov - Černovice&quot;"},
@@ -2558,39 +2492,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220369",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220369",
-    "název": {"cs": "Volby - Oznámení o době a místě konání voleb do Evropského parlamentu"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "spisová_značka": "217/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Volby do EP"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3629620.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220501",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220501",
     "název": {"cs": "Notářský úřad - Považská Bystrica - Pavol Blaško"},
@@ -2659,40 +2560,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220503",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220503",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Oznámení o zahájení řízení - Pětipsy, místní část Vidolice - vodovod"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "číslo_jednací": "MUKK/24633/2024",
-    "spisová_značka": "220/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "24633"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3632292.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220504",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220504",
     "název": {"cs": "ÚZSVM - Aukční vyhláška - prodej pozemku, parcely č. 539/5 v k.ú. Prunéřov"},
@@ -2723,108 +2590,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "23278"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3632293.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220507",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220507",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Dvořákova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "číslo_jednací": "ODPK/22747/2024",
-    "spisová_značka": "222/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "22747"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3632297.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220508",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220508",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Vikletice - Chbany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "číslo_jednací": "ODPK-23215/2024/Slu",
-    "spisová_značka": "223/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "23215"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3632298.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/220509",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-220509",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Chomutovská v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-10"
-    },
-    "číslo_jednací": "ODPK-22559/2024/Slu",
-    "spisová_značka": "224/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "22559"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3632299.pdf"
       }    ]
   },
 {
