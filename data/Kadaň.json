@@ -2998,40 +2998,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/221036",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-221036",
-    "název": {"cs": "MÚ - odbor životního prostředí - VV - OOP - Zákaz vstupu na vodní hladinu toků"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-05-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "nespecifikovaný": true
-    },
-    "číslo_jednací": "MUKK/26185/2024",
-    "spisová_značka": "231/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MÚ OŽP VV zákaz vstupu na vodní hladinu toků"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3642725.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/221039",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-221039",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Oznámení o zahájení řízení pořízení VI. úplné aktualizace územních podkladů ORP Kadaň"},
