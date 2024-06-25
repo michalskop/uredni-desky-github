@@ -3491,6 +3491,242 @@
         "název": {"cs": "Sběr odpadu   29 6 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3687648.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224961",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224961",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - České Hamry"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "ODPK-27501/2024/Slu",
+    "spisová_značka": "283/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "27501"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689432.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224962",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224962",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - změna termínu přechodné úpravy provozu - v Klášterci nad Ohří - Rašovická lávka"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "ODPK-28173/2024/Slu",
+    "spisová_značka": "284/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "28173"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689434.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224963",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224963",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Za Hřbitovem v Klášterci nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "ODPK-29449/2024/Slu",
+    "spisová_značka": "285/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29449"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689438.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224968",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224968",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Háj u Loučné pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "ODPK-29334/2024/Slu",
+    "spisová_značka": "286/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29334"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689443.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224969",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224969",
+    "název": {"cs": "Tepelné hospodářství Kadaň, s.r.o. - Odstávka horkovodu Tušimice - Kadaň - 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-08-05"
+    },
+    "spisová_značka": "287/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Tepelné hospodářství Kadaň, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstávka 30 7 2 8 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689445.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224973",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224973",
+    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 27.6.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-06-28"
+    },
+    "spisová_značka": "289/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "odstřel 27 6 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689449.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224974",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224974",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 11.7.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-06-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-12"
+    },
+    "číslo_jednací": "MUKK/29801/2024",
+    "spisová_značka": "288/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29801"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3689450.pdf"
+      }    ]
   }
   ]
 }
