@@ -2930,39 +2930,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224080",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224080",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Odbor životního prostředí - administrativní pracovník, koordinační pracovník pro jednotné environmentální stanovisko dle zákona č. 148/2023 Sb. - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-28"
-    },
-    "spisová_značka": "267/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ ÚD ŽP cerven 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3669446.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224210",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224210",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -3593,39 +3560,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "odstávka 30 7 2 8 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3689445.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224973",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224973",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 27.6.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-06-28"
-    },
-    "spisová_značka": "289/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstřel 27 6 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3689449.pdf"
       }    ]
   },
 {
