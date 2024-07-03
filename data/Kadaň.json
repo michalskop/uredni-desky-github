@@ -2560,40 +2560,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224046",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224046",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 2.7.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-03"
-    },
-    "číslo_jednací": "MUKK/27947/2024",
-    "spisová_značka": "264/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27947"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3669210.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224048",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224048",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Doručení návrhu Změny č. 1 územního plánu Měděnce a oznámení konání veřejného projednávání"},
@@ -2690,40 +2656,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "oznámení o rozp  pravidlech 14 6 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3671569.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224339",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224339",
-    "název": {"cs": "Státní pozemkový úřad - Zahájení aktualizace (domapování) BPEJ v části katastrálního území Prunéřov (661864)"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-03"
-    },
-    "číslo_jednací": "MUKK/28478/2024",
-    "spisová_značka": "26/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Státní pozemkový úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "28478"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3676405.pdf"
       }    ]
   },
 {
