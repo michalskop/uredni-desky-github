@@ -4034,6 +4034,73 @@
         "název": {"cs": "31670"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3703470.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225723",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225723",
+    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 10.7.2024 - Úhošťany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "MUKK/32279/2024",
+    "spisová_značka": "315/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "32279"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3704723.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225724",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225724",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník odboru sociálních věcí a zdravotnictví - odborný garant - doba neurčitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-08-01"
+    },
+    "spisová_značka": "316/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ SVaZ ÚD 2024 odborný garant"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3704725.pdf"
+      }    ]
   }
   ]
 }
