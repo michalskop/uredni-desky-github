@@ -3867,6 +3867,40 @@
         "název": {"cs": "VŘ SVaZ ÚD 2024 odborný garant"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3704725.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226013",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226013",
+    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody - Kadaň, V Zahrádkách"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "číslo_jednací": "MUKK/32734/2024",
+    "spisová_značka": "317/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SčVK Oznámení o přerušení dodávky vody Kadaň,V Zahradách"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3712645.pdf"
+      }    ]
   }
   ]
 }
