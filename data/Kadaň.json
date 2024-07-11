@@ -3901,6 +3901,73 @@
         "název": {"cs": "SčVK Oznámení o přerušení dodávky vody Kadaň,V Zahradách"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3712645.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226252",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226252",
+    "název": {"cs": "SSE Explo Česká republika s.r.o. - clonový odstřel v lomu Úhošťany - 16.7.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-17"
+    },
+    "spisová_značka": "318/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "SSE Explo ČR s r o    clonový odstřel v lomu Úhošťany dne 16 7 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3716878.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226253",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226253",
+    "název": {"cs": "EÚ Nový Jičín - usnesení o odročení dražebního jednání na neurčito - CV TECH s.r.o."},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-26"
+    },
+    "číslo_jednací": "MUKK/33201/2024",
+    "spisová_značka": "319/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Elektronická aukce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "EÚ Nový Jičín   odročení dražby na neurčito   CV TECH s r o "},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3716879.pdf"
+      }    ]
   }
   ]
 }
