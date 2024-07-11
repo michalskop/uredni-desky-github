@@ -2293,40 +2293,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223604",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223604",
-    "název": {"cs": "EÚ Nový Jičín - Dražební vyhláška - CV TECH, s.r.o."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "MUKK/27146/2024",
-    "spisová_značka": "250/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27146"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3657100.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/223609",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-223609",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 5S64368"},
@@ -2787,142 +2753,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zápis VH DSO 32"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3677928.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224961",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224961",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - České Hamry"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "ODPK-27501/2024/Slu",
-    "spisová_značka": "283/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27501"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3689432.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224962",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224962",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - změna termínu přechodné úpravy provozu - v Klášterci nad Ohří - Rašovická lávka"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "ODPK-28173/2024/Slu",
-    "spisová_značka": "284/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "28173"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3689434.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224963",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224963",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Za Hřbitovem v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "ODPK-29449/2024/Slu",
-    "spisová_značka": "285/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "29449"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3689438.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224968",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224968",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Háj u Loučné pod Klínovcem"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-25"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "ODPK-29334/2024/Slu",
-    "spisová_značka": "286/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "29334"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3689443.pdf"
       }    ]
   },
 {
@@ -3803,40 +3633,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225723",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225723",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 10.7.2024 - Úhošťany"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "MUKK/32279/2024",
-    "spisová_značka": "315/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "32279"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3704723.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225724",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225724",
     "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník odboru sociálních věcí a zdravotnictví - odborný garant - doba neurčitá"},
@@ -3866,40 +3662,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VŘ SVaZ ÚD 2024 odborný garant"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3704725.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226013",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226013",
-    "název": {"cs": "SČvK - Oznámení o přerušení dodávky vody - Kadaň, V Zahrádkách"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "číslo_jednací": "MUKK/32734/2024",
-    "spisová_značka": "317/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "SčVK Oznámení o přerušení dodávky vody Kadaň,V Zahradách"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3712645.pdf"
       }    ]
   },
 {
