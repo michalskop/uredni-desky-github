@@ -3465,6 +3465,40 @@
         "název": {"cs": "MÚ OD   OOP  přechod úprava provozu   Radonice"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3723353.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226543",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226543",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - stanovení přechodné úpravy provozu - sil. č. III/1988 v Okounově"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-07-31"
+    },
+    "číslo_jednací": "MUKK/33671/2024",
+    "spisová_značka": "321/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD   OOP   přechodná úprava provozu   Okounov"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3725176.pdf"
+      }    ]
   }
   ]
 }
