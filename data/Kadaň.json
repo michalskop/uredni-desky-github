@@ -2893,40 +2893,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226253",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226253",
-    "název": {"cs": "EÚ Nový Jičín - usnesení o odročení dražebního jednání na neurčito - CV TECH s.r.o."},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-11"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-27"
-    },
-    "číslo_jednací": "MUKK/33201/2024",
-    "spisová_značka": "319/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Elektronická aukce"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "EÚ Nový Jičín   odročení dražby na neurčito   CV TECH s r o "},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3716879.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226404",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226404",
     "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - částečná uzavírka provozu - rekonstrukce silnic a chodníků v Radonicích"},
