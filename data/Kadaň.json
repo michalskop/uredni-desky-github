@@ -2559,40 +2559,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225235",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225235",
-    "název": {"cs": "EÚ Praha 3 - Dražební vyhláška - Vladimír Elznic, REZORT ELZA, s.r.o. - odročení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-27"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-29"
-    },
-    "číslo_jednací": "MUKK/30806/2024",
-    "spisová_značka": "290/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "30806"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3693393.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225352",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225352",
     "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Doručení návrhu 10. změny územního plánu Kadaně a oznámení konání veřejného projednávání"},
@@ -3300,40 +3266,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zpráva přezkum 2023   DSO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3739461.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227281",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227281",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - 26.7.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-07-29"
-    },
-    "číslo_jednací": "MUKK/35398/2024",
-    "spisová_značka": "332/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "35398"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3741114.pdf"
       }    ]
   }
   ]
