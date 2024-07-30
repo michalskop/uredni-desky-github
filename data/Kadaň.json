@@ -3267,6 +3267,50 @@
         "název": {"cs": "Zpráva přezkum 2023   DSO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3739461.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227432",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227432",
+    "název": {"cs": "Ministerstvo životního prostředí - Veřejná vyhláška o oznámení o předložení záměru na vyhlášení Chráněné krajinné oblasti Krušné hory k projednání"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-07-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-08-15"
+    },
+    "číslo_jednací": "MUKK/35751/2024",
+    "spisová_značka": "333/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ministerstvo životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "35751"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3746216.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Návrh záměru na vyhlášení CHKO Krušné hory"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3746233.pdf"
+      },
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Vymezení Chraněné krajinné oblasti Krušné hory 000"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3746311.pdf"
+      }    ]
   }
   ]
 }
