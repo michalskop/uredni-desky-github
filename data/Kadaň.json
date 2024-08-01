@@ -2359,40 +2359,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224048",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224048",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška - Doručení návrhu Změny č. 1 územního plánu Měděnce a oznámení konání veřejného projednávání"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-06-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-08-01"
-    },
-    "číslo_jednací": "MUKK/27794/2024",
-    "spisová_značka": "265/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "27794"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3669214.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/224049",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-224049",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 9U2 9170"},
@@ -2627,40 +2593,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225446",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225446",
-    "název": {"cs": "Státní pozemkový úřad - Oznámení o vyložení návrhu změn map BPEJ - Prunéřov (661864)"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-01"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-08-01"
-    },
-    "číslo_jednací": "MUKK/31519/2024",
-    "spisová_značka": "304/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Státní pozemkový úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "31519"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3699986.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225461",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225461",
     "název": {"cs": "Město Kadaň - Výběrové řízení - Ekonomický odbor - Odborný pracovník školství"},
@@ -2822,73 +2754,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Byt   senioři   2   7   2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3701633.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/225724",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-225724",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník odboru sociálních věcí a zdravotnictví - odborný garant - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-08-01"
-    },
-    "spisová_značka": "316/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ SVaZ ÚD 2024 odborný garant"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3704725.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/226543",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-226543",
-    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - stanovení přechodné úpravy provozu - sil. č. III/1988 v Okounově"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-08-01"
-    },
-    "číslo_jednací": "MUKK/33671/2024",
-    "spisová_značka": "321/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MÚ OD   OOP   přechodná úprava provozu   Okounov"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3725176.pdf"
       }    ]
   },
 {
