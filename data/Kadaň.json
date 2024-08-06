@@ -3141,6 +3141,74 @@
         "název": {"cs": "36554"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3756149.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228027",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228027",
+    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Roško Martina"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-08-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-03"
+    },
+    "číslo_jednací": "MUKK/36831/2024",
+    "spisová_značka": "340/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "36831"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3757801.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228029",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228029",
+    "název": {"cs": "Agentura ochrany přírody a krajiny České republiky"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-08-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-08-22"
+    },
+    "číslo_jednací": "MUKK/36795/2024",
+    "spisová_značka": "341/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "36795"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3757885.pdf"
+      }    ]
   }
   ]
 }
