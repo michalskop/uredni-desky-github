@@ -3529,7 +3529,77 @@
     ],
     "dokument": [
 
-    ]
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Prodej části pozemku par  3460 188 v kú  Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3800891.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229633",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229633",
+    "název": {"cs": "MÚ - odbor tajemníka úřadu - majetkoprávní úsek - prodej části pozemku par. č. 3460/188 v kú Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-08-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-09-12"
+    },
+    "spisová_značka": "379/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Prodej části pozemku par  3460 188 v kú  Kadaň"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3800891.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229635",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229635",
+    "název": {"cs": "MÚ - odbor tajemníka úřadu - majetkoprávní úsek - pronájem zemědělských pozemků v k. ú. Kadaň a k. ú. Tušimice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-08-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-09-12"
+    },
+    "spisová_značka": "380/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Pronájem zemědělských pozemků kú Kadaň a kú Tušimice"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3800894.pdf"
+      }    ]
   }
   ]
 }
