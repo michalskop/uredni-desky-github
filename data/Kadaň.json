@@ -3837,6 +3837,40 @@
         "název": {"cs": "MÚ OD   OOP   přechodná úprava provozu   ul  Prunéřovská a Hřbitovní v Kadani"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3807256.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229904",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229904",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 20.09.2024 - Vinohrady, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-08-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-09-21"
+    },
+    "číslo_jednací": "MUKK/40600/2024",
+    "spisová_značka": "391/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "ČEZ Distribuce   plánovaná odstávka elektřiny   Vinohrady, Kadaň dne 20 9 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3809196.pdf"
+      }    ]
   }
   ]
 }
