@@ -3767,6 +3767,72 @@
         "název": {"cs": "VŘ D RR 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3817614.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230111",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230111",
+    "název": {"cs": "KÚ ÚK - 30. zasedání Zastupitelstva Ústeckého kraje  - 9. září 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-09-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-09-10"
+    },
+    "spisová_značka": "395/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "KU UK ZM 9 9 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3820148.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230116",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230116",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3AD6831"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-09-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-04"
+    },
+    "spisová_značka": "396/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "vyzva 3AD6831"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3820160.pdf"
+      }    ]
   }
   ]
 }
