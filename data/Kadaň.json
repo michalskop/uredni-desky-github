@@ -3867,6 +3867,35 @@
         "název": {"cs": "oznameni po ZM 12 9 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3846275.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230951",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230951",
+    "název": {"cs": "Město Kadaň - Oznámení o vyhlášení právního předpisu - Obecně závazná vyhláška města Kadaně o stanovení místních koeficientů pro výpočet daně z nemovitých věcí"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-09-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "414/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Hospodaření města"}
+      }
+    ],
+    "dokument": [
+
+    ]
   }
   ]
 }
