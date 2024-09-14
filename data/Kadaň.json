@@ -2995,40 +2995,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229931",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229931",
-    "název": {"cs": "MÚ - odbor dopravy - Veřejná vyhláška - návrh Opatření obecné povahy - místní úprava provozu v Klášterci nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-14"
-    },
-    "číslo_jednací": "MUKK/40213/2024",
-    "spisová_značka": "392/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MÚ OD   VV   návrh OOP   místní úprava provozu v Klášterci nad Ohří"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3809553.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229937",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229937",
     "název": {"cs": "KÚKÚ -odbor životního prostředí-EIA ULK1282 Vrchní vedení pro vyvedení výkonu z FVE Prunéřov I a II, I. a II. etapa zahájení"},
