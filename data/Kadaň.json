@@ -3726,6 +3726,40 @@
         "název": {"cs": "Výpis usneení ZM   12 9 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3861311.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231480",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231480",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Loučná pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-09-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "číslo_jednací": "R/2024/18646/2",
+    "spisová_značka": "422/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "18646"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3863624.pdf"
+      }    ]
   }
   ]
 }
