@@ -2628,40 +2628,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228879",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228879",
-    "název": {"cs": "Severočeské vodovody a kanalizace - oznámení o přerušení dodávky vody - Úhošťany - 20.8.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-21"
-    },
-    "číslo_jednací": "MUKK/38614/2024",
-    "spisová_značka": "362/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38614"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3776027.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228880",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228880",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1UP 2529"},
@@ -2923,40 +2889,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Město Kadaň   Oznámení   volný byt jako sociální v ul  Chomutovská"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3805053.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229904",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229904",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 20.09.2024 - Vinohrady, Kadaň"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-30"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-21"
-    },
-    "číslo_jednací": "MUKK/40600/2024",
-    "spisová_značka": "391/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ČEZ Distribuce   plánovaná odstávka elektřiny   Vinohrady, Kadaň dne 20 9 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3809196.pdf"
       }    ]
   },
 {
