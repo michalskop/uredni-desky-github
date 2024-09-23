@@ -2426,39 +2426,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227160",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227160",
-    "název": {"cs": "Volby - Stanovení minimálního počtu členů okrskové volební komise - září 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-23"
-    },
-    "spisová_značka": "322/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Minimalni pocet clenu OVK zari 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3737779.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227229",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227229",
     "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice - Zpráva o výsledku přezkoumání hospodaření za rok 2023"},
@@ -2489,39 +2456,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Zpráva přezkum 2023   DSO"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3739461.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227973",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227973",
-    "název": {"cs": "Volby - Oznámení o počtu a sídel volebních okrsků - krajské a senátní volby"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-23"
-    },
-    "spisová_značka": "337/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "volební okrsky září 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3756138.pdf"
       }    ]
   },
 {
@@ -2988,106 +2922,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "vyzva 3AD6831"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3820160.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230117",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230117",
-    "název": {"cs": "Volby - Oznámení o době a místě konání voleb do Zastupitelstva kraje a Senátu Parlamentu České republiky"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-23"
-    },
-    "spisová_značka": "397/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Volby"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznameni volby okrsky"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3820163.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230417",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230417",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Měděnec"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-23"
-    },
-    "číslo_jednací": "ODPK-37661/2024/Slu",
-    "spisová_značka": "404/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "37661"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3829469.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230418",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230418",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 21.9.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-09-23"
-    },
-    "spisová_značka": "403/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Sběr odpadu   21 9 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3829470.pdf"
       }    ]
   },
 {
