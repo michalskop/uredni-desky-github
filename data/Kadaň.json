@@ -2426,40 +2426,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228027",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228027",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Roško Martina"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-06"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-03"
-    },
-    "číslo_jednací": "MUKK/36831/2024",
-    "spisová_značka": "340/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "36831"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3757801.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228358",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228358",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Viera Pilarová"},
@@ -2760,40 +2726,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230935",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230935",
-    "název": {"cs": "EÚ - Plzeň - sever - Dražební vyhláška - Roško Martina - zrušení"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-03"
-    },
-    "číslo_jednací": "MUKK/42695/2024",
-    "spisová_značka": "412/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42695"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3846271.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230937",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230937",
     "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
@@ -2853,74 +2785,6 @@
     "dokument": [
 
     ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231185",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231185",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - změna termínu přechodné úpravy provozu - ul. Říční v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-03"
-    },
-    "číslo_jednací": "ODPK-42724/2024/Slu",
-    "spisová_značka": "417/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42724"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3856490.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231188",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231188",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Hlavní v Perštejně"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-17"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-03"
-    },
-    "číslo_jednací": "ODPK-39504/2024/Slu",
-    "spisová_značka": "418/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "39504"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3856493.pdf"
-      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
