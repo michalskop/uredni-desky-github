@@ -2352,8 +2352,8 @@
 
       {
         "typ": "Digitální objekt",
-        "název": {"cs": "Zápis VH DSO 32"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3677928.pdf"
+        "název": {"cs": "Zápis 32 VH DSO 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3898148.pdf"
       }    ]
   },
 {
@@ -3972,6 +3972,39 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232425",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232425",
+    "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice - Oprava cyklostezky - Oznámení o výběru dodavatele"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-02"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "454/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO cyklostezka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Oznámení"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3893630.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232426",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232426",
     "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice - Oprava cyklostezky - Oznámení o výběru dodavatele"},
@@ -4001,6 +4034,39 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Oznámení"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3893631.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232589",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232589",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - odbor vnitřních věcí - pracovník podatelny"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-04"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-29"
+    },
+    "spisová_značka": "455/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ ÚD OVV 2024 podatelna"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3898142.pdf"
       }    ]
   }
   ]
