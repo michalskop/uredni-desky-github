@@ -3668,39 +3668,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232397",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232397",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 4.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-05"
-    },
-    "spisová_značka": "446/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstrel 4 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3893366.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232398",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232398",
     "název": {"cs": "EÚ Kolín - Dražební vyhláška - Marian Leitner, Zuzana Leitnerová - 9.10.2024"},
