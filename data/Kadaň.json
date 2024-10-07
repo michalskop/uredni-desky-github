@@ -4068,6 +4068,273 @@
         "název": {"cs": "VŘ ÚD ŹP říjen 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3904009.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232675",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232675",
+    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 7.10.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "spisová_značka": "458/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "vyzvy auta 7 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904450.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232678",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232678",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 24.10.2024 - ul. Polní Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-25"
+    },
+    "číslo_jednací": "MUKK/46027/2024",
+    "spisová_značka": "459/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "46027"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904454.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232680",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232680",
+    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - ul. Žitná, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-25"
+    },
+    "číslo_jednací": "MUKK/45907/2024",
+    "spisová_značka": "460/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "ČEZ Distribuce, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "45907"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904457.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232681",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232681",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Transformovna Tušimice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-10-23"
+    },
+    "číslo_jednací": "R/2024/29306/2",
+    "spisová_značka": "461/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "29306"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904466.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232682",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232682",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů pro rodiče samoživitele - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-06"
+    },
+    "spisová_značka": "462/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty samozivitele 7 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904471.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232684",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232684",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - ul. Žitná, Na Podlesí, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-06"
+    },
+    "spisová_značka": "463/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty startovaci 7 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904474.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232690",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232690",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. bytů pro seniory - Tyršova, Věžní, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-06"
+    },
+    "spisová_značka": "464/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty seniori 7 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904582.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232692",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232692",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů v rámci sociálního bydlení, ul. Golovinova"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-07"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-06"
+    },
+    "spisová_značka": "465/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty socialni 7 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3904599.pdf"
+      }    ]
   }
   ]
 }
