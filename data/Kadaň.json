@@ -2358,40 +2358,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227098",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227098",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Opatření obecné povahy - Zákaz odběru povrchových vod"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-07-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-09"
-    },
-    "číslo_jednací": "MUKK/34710/2024",
-    "spisová_značka": "327/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "34710"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3737149.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/227229",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-227229",
     "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice - Zpráva o výsledku přezkoumání hospodaření za rok 2023"},
@@ -2523,40 +2489,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "výzva 16 8 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3776028.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228995",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228995",
-    "název": {"cs": "MÚ - odbor životního prostředí - Veřejná vyhláška - Opatření obecné povahy - Zákaz odběru povrchových vod"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-09"
-    },
-    "číslo_jednací": "MUKK/38636/2024",
-    "spisová_značka": "369/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38636"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3783803.pdf"
       }    ]
   },
 {
@@ -2785,40 +2717,6 @@
     "dokument": [
 
     ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231297",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231297",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - Kadaň, Úhošťany - 7.10 a 8.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-09"
-    },
-    "číslo_jednací": "MUKK/42981, 43174/2024",
-    "spisová_značka": "420/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstávky 7 8 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3859152.pdf"
-      }    ]
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
