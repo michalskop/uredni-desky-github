@@ -1668,39 +1668,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229039",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229039",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - CVD 9076"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "spisová_značka": "370/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva CVD 9076"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3784354.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/229270",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-229270",
     "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel ze dne 22.8.2024"},
@@ -1895,105 +1862,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231485",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231485",
-    "název": {"cs": "Město Kadaň - Zpráva o dopravě ve městě - rok 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "spisová_značka": "427/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Zpráva doprava 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3863630.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231487",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231487",
-    "název": {"cs": "Město Kadaň - Plán investiční výstavby na rok 2024 - stav k 2.9.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "spisová_značka": "428/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Zpráva plán investiční výstavby 2 9 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3863641.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231489",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231489",
-    "název": {"cs": "Město Kadaň - Zpráva o činnosti příspěvkových organizací za rok 2023"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "spisová_značka": "429/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Zprávy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Zpráva příspěvkové organizace 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3863650.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/231933",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-231933",
     "název": {"cs": "Magistrát města Chomutova - odbor stavební úřad - Veřejná vyhláška - Oznámení o návrhu zadání aktualizace územní studie krajiny obce s rozšířenou působností Chomutov"},
@@ -2058,74 +1926,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "44143"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3878433.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232382",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232382",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 18.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "číslo_jednací": "MUKK/44954/2024",
-    "spisová_značka": "441/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "44954"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3893243.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232388",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232388",
-    "název": {"cs": "ČEZ Distribuce, a.s. - Oznámení o plánované odstávce elektrické energie - 18.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-02"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "číslo_jednací": "MUKK/45117/2024",
-    "spisová_značka": "442/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "ČEZ Distribuce, a.s."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "45117"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3893351.pdf"
       }    ]
   },
 {
@@ -2326,40 +2126,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "VŘ ÚD OVV 2024 podatelna"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3898142.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232622",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232622",
-    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Sdělení k vydání stanoviska na změnu č. 10 územního plánu Kadaně"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-04"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-10-21"
-    },
-    "číslo_jednací": "MUKK/46150/2024",
-    "spisová_značka": "456/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "46324"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3898496.pdf"
       }    ]
   },
 {
