@@ -3399,6 +3399,175 @@
         "název": {"cs": "MZM ÚD 6 11 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3951167.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234567",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234567",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - FREESHOP Loučná pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-15"
+    },
+    "číslo_jednací": "R/2024/40232/2",
+    "spisová_značka": "514/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "40232"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3953755.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234568",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234568",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - IV-12-4026092 CV, Hradec, Svod, kNN, SS100, č. p. 962, k.ú. Rokle"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-15"
+    },
+    "číslo_jednací": "R/2024//38341/2",
+    "spisová_značka": "515/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "38341"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3953757.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234569",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234569",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Novostavba kotelny v areálu firmy POL-AGRO, Poláky"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-15"
+    },
+    "číslo_jednací": "R/2024/34433/2",
+    "spisová_značka": "516/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "34433"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3953758.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234574",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234574",
+    "název": {"cs": "Město Kadaň - Zveřejnění záměru obce - uzavření 3 dodatků k nájemním smlouvám o výpůjčce - č.14226/17, 12887/14, 12886/14 + prodej části parcely č. 402 v k.ú. Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-15"
+    },
+    "spisová_značka": "517/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zamer obce 30 10 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3953847.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234575",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234575",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - změna termínu přechodné úpravy provozu - Rekonstrukce ul. Čsl. armády, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-10-30"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-15"
+    },
+    "číslo_jednací": "ODPK-48465/2024/Slu",
+    "spisová_značka": "518/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "48465"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3953849.pdf"
+      }    ]
   }
   ]
 }
