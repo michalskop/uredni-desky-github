@@ -1634,40 +1634,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/228876",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-228876",
-    "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Bartoloměj Makuňa"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-08-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-01"
-    },
-    "číslo_jednací": "MUKK/38596/2024",
-    "spisová_značka": "364/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "38596"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3776022.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230116",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230116",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3AD6831"},
@@ -2322,39 +2288,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "20241008150431809"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3908710.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/233044",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-233044",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  říjen 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-10"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-01"
-    },
-    "spisová_značka": "474/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "střelby 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3910066.pdf"
       }    ]
   },
 {
@@ -3027,39 +2960,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "20241023175100725"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3939308.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234279",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234279",
-    "název": {"cs": "SSE Explo Česká republika, s.r.o. - clonový odstřel v lomu Úhošťany - 31.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-24"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-01"
-    },
-    "spisová_značka": "508/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "SSE Explo Česká republika, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "odstrel 31 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3941334.pdf"
       }    ]
   },
 {
