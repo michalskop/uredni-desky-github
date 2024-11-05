@@ -3132,39 +3132,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234631",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234631",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - pracovník  živnostenského úřadu - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-31"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "spisová_značka": "519/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ ÚD ŻÚ 11 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3955477.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234783",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234783",
     "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - Kadaň"},
