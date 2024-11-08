@@ -2907,6 +2907,73 @@
         "název": {"cs": "51323"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3970493.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235368",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235368",
+    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 30.11.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-02"
+    },
+    "spisová_značka": "539/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Technické služby Kadaň, s.r.o."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "sber 30 11 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3974104.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235369",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235369",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Komunikace pro 7 pozemků - Rašovice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-08"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-11-25"
+    },
+    "číslo_jednací": "R/2024/40756/2",
+    "spisová_značka": "540/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "40756"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/3974105.pdf"
+      }    ]
   }
   ]
 }
