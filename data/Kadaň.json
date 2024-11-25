@@ -1931,74 +1931,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235281",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235281",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - změna termínu přechodné úpravy provozu - Libědice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "číslo_jednací": "ODPK-48511/2024/Slu",
-    "spisová_značka": "531/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "48511"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3970400.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235284",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235284",
-    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - ul. Martinská ve Vejprtech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "číslo_jednací": "ODPK-49487/2024/Slu",
-    "spisová_značka": "532/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "49487"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3970485.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235285",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235285",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Audi 9U7 7851"},
@@ -2066,74 +1998,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235287",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235287",
-    "název": {"cs": "KÚ ÚK - Oznámení o zveřejnění návrhu 9. změny Zásad územního rozvoje Ústeckého kraje a Vyhodnocení 9zZÚR ÚK na udržitelný rozvoj území"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "číslo_jednací": "MUKK/51328/2024",
-    "spisová_značka": "535/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51328"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3970488.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235288",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235288",
-    "název": {"cs": "KÚ ÚK - Veřejná vyhláška - Oznámení o zveřejnění návrhu 9. změny Zásad územního rozvoje Ústeckého kraje a Vyhodnocení 9zZÚR ÚK na udržitelný rozvoj území"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "číslo_jednací": "MUKK/51327/2024",
-    "spisová_značka": "536/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51327"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3970489.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235293",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235293",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Viera Pilarová - odročení - 29.1.2025"},
@@ -2197,40 +2061,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "sber 30 11 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3974104.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235369",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235369",
-    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Komunikace pro 7 pozemků - Rašovice"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-11-25"
-    },
-    "číslo_jednací": "R/2024/40756/2",
-    "spisová_značka": "540/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Závazná stanoviska"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "40756"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3974105.pdf"
       }    ]
   },
 {
