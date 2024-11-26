@@ -3040,6 +3040,105 @@
         "název": {"cs": "strelby 12 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4017983.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236712",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236712",
+    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-13"
+    },
+    "spisová_značka": "570/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozpočet města"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "oznameni o rozpoctovych pravidlech 26 11 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4019585.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236714",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236714",
+    "název": {"cs": "Město Kadaň - Návrh střednědobého výhledu rozpočtu na roky 2026 - 2027"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-13"
+    },
+    "spisová_značka": "571/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozpočet města"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "vyhled 2026 2027"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4019594.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236727",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236727",
+    "název": {"cs": "Město Kadaň - Návrh rozpočtu města 2025"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-26"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-13"
+    },
+    "spisová_značka": "572/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozpočet města"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "navrh rozpoctu 2025"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4019692.pdf"
+      }    ]
   }
   ]
 }
