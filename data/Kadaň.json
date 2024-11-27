@@ -3139,6 +3139,40 @@
         "název": {"cs": "54868"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4019950.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236990",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236990",
+    "název": {"cs": "KÚ ÚK - 2. zasedání Zastupitelstva Ústeckého kraje - 9.12.2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-27"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-10"
+    },
+    "číslo_jednací": "KUUK/168450/2024",
+    "spisová_značka": "574/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "KÚ ÚK ZM 9 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4022916.pdf"
+      }    ]
   }
   ]
 }
