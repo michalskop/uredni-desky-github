@@ -3037,6 +3037,39 @@
         "název": {"cs": "KÚ ÚK ZM 9 12 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4022916.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237166",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237166",
+    "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. bytů pro seniory - Tyršova, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-11-29"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "spisová_značka": "575/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Volné byty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "byty senioři 29 11 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4026503.pdf"
+      }    ]
   }
   ]
 }
