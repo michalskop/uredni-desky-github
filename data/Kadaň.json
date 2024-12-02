@@ -823,74 +823,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217475",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217475",
-    "název": {"cs": "Finanční úřad - Veřejná vyhláška - hromadný předpisný seznam - daň z nemovitých věcí na rok 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "číslo_jednací": "MUKK/19670/2024",
-    "spisová_značka": "188/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Finanční úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "19670"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3565040.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/217476",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-217476",
-    "název": {"cs": "Finanční úřad - Informace pro poplatníky daně z nemovitých věcí v roce 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-04-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "číslo_jednací": "MUKK/19670/2024",
-    "spisová_značka": "189/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Finanční úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "informace letàk 19670"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3565044.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/219216",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-219216",
     "název": {"cs": "Město Kadaň - Výběrové řízení - Strážník městské policie Kadaň"},
@@ -1631,39 +1563,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/233784",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-233784",
-    "název": {"cs": "Město Kadaň - Oznámení o použití hlučné zábavní pyrotechniky - Advent - 30.11.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-18"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "spisová_značka": "495/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Advent ohnostroj"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3926937.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234113",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234113",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Mercedes"},
@@ -1693,39 +1592,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "vyzva 23 10 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3938383.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/234116",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-234116",
-    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  listopad 2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-23"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "spisová_značka": "503/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Újezdní úřad Hradiště"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "vycvik 11 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3938390.pdf"
       }    ]
   },
 {
@@ -1930,39 +1796,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235368",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235368",
-    "název": {"cs": "Technické služby Kadaň, s.r.o. - Sběr nebezpečného odpadu - 30.11.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-08"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "spisová_značka": "539/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Technické služby Kadaň, s.r.o."}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "sber 30 11 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3974104.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235614",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235614",
     "název": {"cs": "Správa městských bytů - nabídka nájmu volných bytů jako tzv. startovacích - Kadaň"},
@@ -2025,141 +1858,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "byty samozivitele 12 11 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3982541.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235826",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235826",
-    "název": {"cs": "MÚ - Stavební úřad - Vyrozumění o zahájení řízení - Parkoviště v ul. Školní, Klášterec nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "číslo_jednací": "MUKK/51928/2024",
-    "spisová_značka": "544/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - Stavební úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51928"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3990247.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235827",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235827",
-    "název": {"cs": "Město Kadaň - Výpis usnesení Mimořádného Zastupitelstva města Kadaně ze dne 6.11.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "spisová_značka": "545/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "MZM 6 11 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3990426.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235879",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235879",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - ul. 17. listopadu, Klášterec nad Ohří"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "číslo_jednací": "ODPK-42916/2024/Slu",
-    "spisová_značka": "547/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "42916"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3992089.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235880",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235880",
-    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - zrušení návrhu na změnu přechodné úpravy provozu - České Hamry"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-02"
-    },
-    "číslo_jednací": "ODPK-48251/2024/Slu",
-    "spisová_značka": "546/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Opatření obecné povahy"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "48251"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3992093.pdf"
       }    ]
   },
 {
