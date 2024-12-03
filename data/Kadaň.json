@@ -2801,6 +2801,73 @@
         "název": {"cs": "Návrh střednědobého výhledu DSO  2026 2027"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4032866.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237405",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237405",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí o umístění liniové stavby - IE-12-4006967 CV-napáječ VN 22 kV, Měděnec - Loučná"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-19"
+    },
+    "číslo_jednací": "MUKK/51036/2024",
+    "spisová_značka": "578/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "51036"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4034050.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237406",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237406",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Sociální pracovník sociálně-právní ochrany dětí - doba neurčitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-03"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-06"
+    },
+    "spisová_značka": "579/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ UD SVaZ 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4034051.pdf"
+      }    ]
   }
   ]
 }
