@@ -1895,40 +1895,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236187",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236187",
-    "název": {"cs": "MÚ - odbor dopravy - Vyrozumění o zahájení řízení o prodloužení lhůty platnosti povolení - Oprava části ulice Čechova v Kadani"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-05"
-    },
-    "číslo_jednací": "ODPK/47308/2024/680/Fri",
-    "spisová_značka": "553/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Oznámení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "47308"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4004547.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236188",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236188",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Zdeňka Kozáková - 30.1.2025"},
