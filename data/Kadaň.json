@@ -2763,6 +2763,278 @@
         "název": {"cs": "povodně"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4040638.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237858",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237858",
+    "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "ODPK-53537/2024/Slu",
+    "spisová_značka": "584/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "53537"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045851.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237859",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237859",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - FVE Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/58753/2",
+    "spisová_značka": "585/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "58753"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045852.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237860",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237860",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Cyklostezka podél Podmilevského potoka"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/54182/2",
+    "spisová_značka": "586/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "54182"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045853.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237861",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237861",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko -  - Zahradní chata p.č. 2136/16, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/44453/4",
+    "spisová_značka": "587/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "44453"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045854.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237862",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237862",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Zpevněná plocha, p. č. 58/8 a 66/5 Vadkovice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/49820/3",
+    "spisová_značka": "588/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49820"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045855.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237863",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237863",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - CV-Vernéřov"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/25728/5",
+    "spisová_značka": "589/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "25728"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045856.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237864",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237864",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - CV Radonice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/49510/4",
+    "spisová_značka": "590/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49510"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045861.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237867",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237867",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Přemostění silnice č. 568 Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2024-12-30"
+    },
+    "číslo_jednací": "R/2024/49460/4",
+    "spisová_značka": "591/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "49460"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4045941.pdf"
+      }    ]
   }
   ]
 }
