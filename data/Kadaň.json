@@ -1266,72 +1266,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232675",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232675",
-    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 7.10.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-09"
-    },
-    "spisová_značka": "458/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "vyzvy auta 7 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3904450.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232966",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232966",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 3K6 5534"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-09"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-09"
-    },
-    "spisová_značka": "468/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva 9 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3908615.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/232972",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-232972",
     "název": {"cs": "Město Kadaň - Smlouva o poskytnutí dotace - Kliský - fasáda"},
@@ -1992,39 +1926,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "vyzva 25 11 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4017921.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236635",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236635",
-    "název": {"cs": "KÚ ÚK - Návrh rozpočtu Ústeckého kraje na rok 2025"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-22"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-09"
-    },
-    "spisová_značka": "560/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Krajský úřad Ústeckého kraje"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "54441"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4017927.pdf"
       }    ]
   },
 {
