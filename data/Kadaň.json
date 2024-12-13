@@ -2596,6 +2596,73 @@
         "název": {"cs": "56845"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4047399.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238246",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238246",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 8U 7569"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-13"
+    },
+    "spisová_značka": "593/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 13 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4060387.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238248",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238248",
+    "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče - Veřejná vyhláška  - Oznámení veřejného projednávání - Návrhu změny č. 1 územního plánu Veliká Ves"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-24"
+    },
+    "číslo_jednací": "MUKK/56508/2024",
+    "spisová_značka": "594/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor regionálního rozvoje, územního plánování a památkové péče,"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "56508"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4060389.pdf"
+      }    ]
   }
   ]
 }
