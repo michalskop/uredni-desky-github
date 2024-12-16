@@ -1037,39 +1037,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230937",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230937",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-09-13"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-16"
-    },
-    "spisová_značka": "413/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Hospodaření města"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznameni po ZM 12 9 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3846275.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/230951",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-230951",
     "název": {"cs": "Město Kadaň - Oznámení o vyhlášení právního předpisu - Obecně závazná vyhláška města Kadaně o stanovení místních koeficientů pro výpočet daně z nemovitých věcí"},
@@ -1086,11 +1053,11 @@
     "agenda": [
       {
         "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
+        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
       }      ,
       {
         "typ": "Agenda",
-        "název": {"cs": "Hospodaření města"}
+        "název": {"cs": "DSO cyklostezka"}
       }
     ],
     "dokument": [
@@ -1426,39 +1393,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "20241010144233221"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/3912073.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/233473",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-233473",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - 1US 6612"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-10-15"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-16"
-    },
-    "spisová_značka": "492/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "vyzva 15 10 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3920477.pdf"
       }    ]
   },
 {
@@ -1825,39 +1759,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "strelby 12 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4017983.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236712",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236712",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-26"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2024-12-16"
-    },
-    "spisová_značka": "570/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozpočet města"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznameni o rozpoctovych pravidlech 26 11 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4019585.pdf"
       }    ]
   },
 {
