@@ -2498,6 +2498,344 @@
         "název": {"cs": "56508"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4060389.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238422",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238422",
+    "název": {"cs": "Město Kadaň - Prodloužení stávajícího smluvního vztahu - Smlouva o výpůjčce č. 13095/15"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "spisová_značka": "595/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zveřejnění záměru obce 16 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071463.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238423",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238423",
+    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-14"
+    },
+    "spisová_značka": "596/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozpočet města"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "oznámeni 16 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071464.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238425",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238425",
+    "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Roman Šnajdr"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-27"
+    },
+    "číslo_jednací": "MUKK/57548/2024",
+    "spisová_značka": "597/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57548"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071479.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238426",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238426",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Foliový blok G-12,8"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "R/2024/55715/2",
+    "spisová_značka": "598/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "55715"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071486.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238428",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238428",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Přístavba objektu - Mikulovice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "R/2024/69547/2",
+    "spisová_značka": "599/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "69547"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071489.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238429",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238429",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Novostavba bytových domů - Tramonto - Loučná pod Klínovcem"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "R/2024/69552/2",
+    "spisová_značka": "600/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "69552"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071491.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238433",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238433",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí - Povolení stavby ve zrychleném řízení - Stavební úpravy BJ č. 51, ul. Věžní 1391, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "MUKK/57171/2024",
+    "spisová_značka": "601/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57171"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071579.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238434",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238434",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - Modernizace nádvoří 1. ZŠ v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "R/2024/71893/2",
+    "spisová_značka": "602/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "71893"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071580.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238435",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238435",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasné jednotné environmentální stanovisko - IV-12-4025837, CV-Měděnec, Horní Halže 7, kNN, SS100"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-02"
+    },
+    "číslo_jednací": "R/2024/70558/2",
+    "spisová_značka": "603/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "70558"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071581.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238436",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238436",
+    "název": {"cs": "EÚ Přerov - Dražební vyhláška o oznámení dražebního roku - Solinstal, s.r.o., Jana Švermy 2, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-16"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-20"
+    },
+    "číslo_jednací": "MUKK/57751/2024",
+    "spisová_značka": "604/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57751"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4071583.pdf"
+      }    ]
   }
   ]
 }
