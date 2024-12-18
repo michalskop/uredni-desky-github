@@ -2737,6 +2737,174 @@
         "název": {"cs": "57751"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4071583.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238657",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238657",
+    "název": {"cs": "EÚ Praha 6 - Dražební vyhláška - Petr Hobík"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-16"
+    },
+    "číslo_jednací": "MUKK/58223/2024",
+    "spisová_značka": "605/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "58223"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4077488.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238659",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238659",
+    "název": {"cs": "KÚ ÚK - Veřejná vyhláška - Oznámení o zveřejnění 8 aktualizace Zásad územního rozvoje Ústeckého kraje"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-03"
+    },
+    "číslo_jednací": "MUKK/57950/2024",
+    "spisová_značka": "606/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Krajský úřad Ústeckého kraje"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "57950"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4077510.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238668",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238668",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí - Prodloužení doby platnosti povolení stavby - Vodovod Radonice - část Kojetín"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-03"
+    },
+    "číslo_jednací": "R/2024/79416/5",
+    "spisová_značka": "607/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "79416"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4077613.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238670",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238670",
+    "název": {"cs": "Město Kadaň - Zpráva o cestovním ruchu 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-20"
+    },
+    "spisová_značka": "608/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zpráva KZK"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4077614.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238671",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238671",
+    "název": {"cs": "Město Kadaň - Zpráva o školství ve městě 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-20"
+    },
+    "spisová_značka": "609/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "zpráva skolstvi 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4077617.pdf"
+      }    ]
   }
   ]
 }
