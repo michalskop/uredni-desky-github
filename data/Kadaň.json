@@ -3004,6 +3004,172 @@
         "název": {"cs": "Zprávy komise výbory 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4079076.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238858",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238858",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Odbor životního prostředí - pracovník vodoprávního a stavebního úřadu - doba neurčitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-20"
+    },
+    "spisová_značka": "614/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ ÚD ŽP 20 12 2024   vodprávní a stavební"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4081164.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238859",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238859",
+    "název": {"cs": "Město Kadaň - Výběrové řízení - Odbor životního prostředí - pracovník na úseku ochrany ovzduší a odpadového hospodářství - doba neurčitá"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-20"
+    },
+    "spisová_značka": "615/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výběrové řízení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "VŘ ÚD ŽP20 12 2024  ovzduší odpady"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4081167.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238884",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238884",
+    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Renault"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-20"
+    },
+    "spisová_značka": "616/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzva 20 12 2024"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4081291.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238887",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238887",
+    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Stinčík Tomáš"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-12"
+    },
+    "číslo_jednací": "MUKK/58627/2024",
+    "spisová_značka": "617/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "58627"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4081294.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238888",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238888",
+    "název": {"cs": "DSO Cyklostezka Prunéřov - Černovice - Zápis z jednání 35. valné hromady Dobrovolného svazku obcí „Cyklostezka Prunéřov - Černovice&quot;"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2024-12-20"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "nespecifikovaný": true
+    },
+    "spisová_značka": "618/2024",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO - Cyklostezka Prunéřov - Černovice"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "DSO cyklostezka"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Zápis 35 valná hromada DSO"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4081295.pdf"
+      }    ]
   }
   ]
 }
