@@ -1730,39 +1730,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237406",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237406",
-    "název": {"cs": "Město Kadaň - Výběrové řízení - Sociální pracovník sociálně-právní ochrany dětí - doba neurčitá"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-12-03"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-01-06"
-    },
-    "spisová_značka": "579/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výběrové řízení"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "VŘ UD SVaZ 12 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4034051.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/237682",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-237682",
     "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Peugeot"},
@@ -2060,39 +2027,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "zpráva skolstvi 2024"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4077617.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238742",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238742",
-    "název": {"cs": "Město Kadaň - Výpis usnesení Zastupitelstva města Kadaně ze dne 12.12.2024"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-12-19"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-01-06"
-    },
-    "spisová_značka": "612/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Ostatní dokumenty"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "ZM 12 12 2024 UD"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4079071.pdf"
       }    ]
   },
 {
