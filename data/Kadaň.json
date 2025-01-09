@@ -2706,6 +2706,39 @@
         "název": {"cs": "57330"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4123442.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/239759",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-239759",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasná jednotná enviromentální stanoviska"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-01-09"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-01-27"
+    },
+    "spisová_značka": "13/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "JES 9 1 2025"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4125379.pdf"
+      }    ]
   }
   ]
 }
