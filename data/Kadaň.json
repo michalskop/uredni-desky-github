@@ -2436,6 +2436,106 @@
         "název": {"cs": "Byty senioři 22 1 2025"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4158321.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/240827",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-240827",
+    "název": {"cs": "Újezdní úřad Hradiště - Výcvik ve vojenském újezdu Hradiště -  únor 2025"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-01-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-03"
+    },
+    "spisová_značka": "25/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Újezdní úřad Hradiště"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "strelby 2 2025"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4164428.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/240829",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-240829",
+    "název": {"cs": "Ministerstvo životního prostředí - zahájení zjišťovacího řízení - Závod pro zpracování vytěžené rudy z ložiska Cínovec"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-01-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-10"
+    },
+    "spisová_značka": "26/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ministerstvo životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "20250124074507149"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4164431.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/240832",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-240832",
+    "název": {"cs": "Obec Měděnec - Veřejná vyhláška - Oznámení o vydání Změny č. 1 územního plánu formou Opatření obecné povahy číslo 1/2025 a úplného znění územního plánu Měděnce po této změně"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-01-24"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-10"
+    },
+    "číslo_jednací": "MUKK/3019/2025",
+    "spisová_značka": "27/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "~Nezařazeno"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Veřejná vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "3019"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4164437.pdf"
+      }    ]
   }
   ]
 }
