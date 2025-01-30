@@ -1463,40 +1463,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/235293",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-235293",
-    "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Viera Pilarová - odročení - 29.1.2025"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-11-07"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-01-30"
-    },
-    "číslo_jednací": "MUKK/51323/2024",
-    "spisová_značka": "538/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "51323"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/3970493.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/236188",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-236188",
     "název": {"cs": "EÚ Plzeň - Dražební vyhláška - Zdeňka Kozáková - 30.1.2025"},
@@ -1997,40 +1963,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "Ples Podbořany"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4127369.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/240055",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-240055",
-    "název": {"cs": "MÚ - odbor dopravy - Veřejná vyhláška - oznámení o návrhu  opatření obecné povahy - stanovení místní úpravy provozu - Hradiště"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2025-01-14"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-01-30"
-    },
-    "číslo_jednací": "ODPK-56709/2024/Slu",
-    "spisová_značka": "15/2025",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor dopravy"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Veřejná vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "56709"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4136618.pdf"
       }    ]
   },
 {
