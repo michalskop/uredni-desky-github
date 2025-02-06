@@ -2534,6 +2534,209 @@
         "název": {"cs": "5660"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4195271.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241928",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241928",
+    "název": {"cs": "Státní pozemkový úřad - Oznámení o vyložení návrhu změn map BPEJ - Úhošťany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-07"
+    },
+    "číslo_jednací": "MUKK/5448/2025",
+    "spisová_značka": "43/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5448"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195276.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241929",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241929",
+    "název": {"cs": "Český statistický úřad - Životní podmínky 2025 - výběrové šetření v domácnostech"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-06-23"
+    },
+    "číslo_jednací": "MUKK/5062, 5063/2025",
+    "spisová_značka": "44/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Český statistický úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Ostatní dokumenty"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5062 5063"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195277.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241930",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241930",
+    "název": {"cs": "Severočeské vodovody a kanalizace - Oznámení o rekonstrukci vodovodního řadu Kadaň - Klášterecká"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2026-04-04"
+    },
+    "číslo_jednací": "MUKK/5622/2025",
+    "spisová_značka": "45/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Severočeské vodovody a kanalizace, a.s."}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5622"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195278.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241934",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241934",
+    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasná jednotná environmentální stanoviska ze dne 6.2.2025"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-24"
+    },
+    "spisová_značka": "46/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor životního prostředí"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Závazná stanoviska"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "JES 6 2 2025"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195283.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241935",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241935",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení přechodné úpravy provozu - ul. Kostelní, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-24"
+    },
+    "číslo_jednací": "ODPK-3910/2025/Slu",
+    "spisová_značka": "47/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "3910"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195284.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241937",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241937",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - stanovení místní úpravy provozu - Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-06"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-24"
+    },
+    "číslo_jednací": "ODPK-53537/2024/Slu",
+    "spisová_značka": "48/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "53537"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4195287.pdf"
+      }    ]
   }
   ]
 }
