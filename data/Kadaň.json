@@ -2770,6 +2770,107 @@
         "název": {"cs": "6123"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4197531.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242200",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242200",
+    "název": {"cs": "Město Kadaň - Výzvy k odstranění vozidel - 10.2.2025"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-04-14"
+    },
+    "spisová_značka": "51/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Výzva"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "výzvy 10 2 2025"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4206923.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242201",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242201",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí - Povolení stavby ve zrychleném řízení - CV-Vernéřov, PZ, prop. výv., řešení N-1, kVN"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-26"
+    },
+    "číslo_jednací": "MUKK/5884/2025",
+    "spisová_značka": "52/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5884"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4206924.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242202",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242202",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí - Povolení stavby ve zrychleném řízení - CV, Vernéřov, PZ, p. č. 773/2, kVN, rVN"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-10"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-02-26"
+    },
+    "číslo_jednací": "MUKK/5997/2025",
+    "spisová_značka": "53/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "5997"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4206931.pdf"
+      }    ]
   }
   ]
 }
