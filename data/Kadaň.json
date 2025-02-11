@@ -2737,6 +2737,40 @@
         "název": {"cs": "5997"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4206931.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242256",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242256",
+    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Stinčík Tomáš - odročení na neurčito"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-11"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-17"
+    },
+    "číslo_jednací": "MUKK/6590/2025",
+    "spisová_značka": "54/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6590"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4208573.pdf"
+      }    ]
   }
   ]
 }
