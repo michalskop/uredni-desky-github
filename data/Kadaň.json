@@ -1662,40 +1662,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238887",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238887",
-    "název": {"cs": "EÚ Prachatice - Dražební vyhláška - Stinčík Tomáš"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-12-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-02-12"
-    },
-    "číslo_jednací": "MUKK/58627/2024",
-    "spisová_značka": "617/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Exekutorský úřad"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Dražební vyhláška"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "58627"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4081294.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238888",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238888",
     "název": {"cs": "DSO Cyklostezka Prunéřov - Černovice - Zápis z jednání 35. valné hromady Dobrovolného svazku obcí „Cyklostezka Prunéřov - Černovice&quot;"},
