@@ -2737,6 +2737,74 @@
         "název": {"cs": "6331"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4211475.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242458",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242458",
+    "název": {"cs": "MÚ - stavební odbor - Rozhodnutí - Povolení stavby ve zrychleném řízení - PRESNE, s.r.o., Tušimice"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-03"
+    },
+    "číslo_jednací": "MUKK/6462/2025",
+    "spisová_značka": "56/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6462"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4213395.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242459",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242459",
+    "název": {"cs": "EÚ Praha 9 - Dražební vyhláška - Radim Bouček, Jitka Boučková"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-13"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-04-01"
+    },
+    "číslo_jednací": "MUKK/6793/2025",
+    "spisová_značka": "57/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Exekutorský úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Dražební vyhláška"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6793"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4213396.pdf"
+      }    ]
   }
   ]
 }
