@@ -1529,39 +1529,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238423",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238423",
-    "název": {"cs": "Město Kadaň - Oznámení o rozpočtových pravidlech"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-12-16"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-02-14"
-    },
-    "spisová_značka": "596/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Rozpočet města"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "oznámeni 16 12 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4071464.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238425",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238425",
     "název": {"cs": "EÚ Klatovy - Dražební vyhláška - Roman Šnajdr"},
@@ -1900,39 +1867,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241188",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241188",
-    "název": {"cs": "MÚ - odbor životního prostředí - Souhlasná jednotná environmentální stanoviska ze dne 29.1.2025"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2025-01-29"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-02-14"
-    },
-    "spisová_značka": "32/2025",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "MÚ - odbor životního prostředí"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Závazná stanoviska"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "JES 29 1 2025"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4177310.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241454",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241454",
     "název": {"cs": "MÚ - odbor dopravy - veřejná vyhláška - oznámení o návrhu opatření obecné povahy - ul. Fibichova v Kadani"},
@@ -2198,39 +2132,6 @@
         "typ": "Digitální objekt",
         "název": {"cs": "JES 31 1 2025"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4182841.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/241782",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-241782",
-    "název": {"cs": "Město Kadaň - Pozvánka na Zastupitelstvo města Kadaně - 13.2.2025"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2025-02-05"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-02-14"
-    },
-    "spisová_značka": "41/2025",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Pozvánka"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "Pozvánka na ZM 13 2 2025"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4192583.pdf"
       }    ]
   },
 {
