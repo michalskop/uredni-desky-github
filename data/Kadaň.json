@@ -2739,6 +2739,142 @@
         "název": {"cs": "6793"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4213396.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242578",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242578",
+    "název": {"cs": "MÚ - stavební úřad - Rozhodnutí - Prodloužení lhůty platnosti - Oprava části ulice Čechova v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-14"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-03"
+    },
+    "číslo_jednací": "MUKK/58599/2024",
+    "spisová_značka": "58/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - Stavební úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Rozhodnutí"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "58599"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4216517.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242579",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242579",
+    "název": {"cs": "MÚ - odbor dopravy - opatření obecné povahy - veřejná vyhláška - stanovení přechodné úpravy provozu - Královský Vrch v Kadani"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-14"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-03"
+    },
+    "číslo_jednací": "ODPK-61/2025",
+    "spisová_značka": "59/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "61"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4216518.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242580",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242580",
+    "název": {"cs": "Státní pozemkový úřad - Oznámení o rozšíření obvodu pozemkových úprav - Úhošťany - Rokle"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-14"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-03"
+    },
+    "číslo_jednací": "MUKK/6949/2025",
+    "spisová_značka": "60/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "6949"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4216519.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242581",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242581",
+    "název": {"cs": "Státní pozemkový úřad - Komplexní pozemkové úpravy v k.ú. Úhošťany"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-14"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2029-01-01"
+    },
+    "číslo_jednací": "MUKK/7047/2025",
+    "spisová_značka": "61/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Státní pozemkový úřad"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "7047"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4216520.pdf"
+      }    ]
   }
   ]
 }
