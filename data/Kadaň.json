@@ -2507,6 +2507,73 @@
         "název": {"cs": "7047"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4216520.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242813",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242813",
+    "název": {"cs": "MÚ - odbor dopravy - Vyrozumění o zahájení řízení - Cyklostezka podél Podmilevského potoka, Klášterec nad Ohří"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-06"
+    },
+    "číslo_jednací": "MUKK/7183/2025",
+    "spisová_značka": "63/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Oznámení"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD žádost o povolení záměru cyklostezka Klášterec n Ohří"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4226085.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/242816",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-242816",
+    "název": {"cs": "Město Kadaň - odbor tajemníka úřadu - majetkoprávní úsek - pronájem části nebytových prostor pro muzeum čarodějnic v č.p. 185, Mírové náměstí, Kadaň"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-18"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-06"
+    },
+    "spisová_značka": "64/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor tajemníka úřadu"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zveřejnění záměru obce"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ majet úsek pronájem nebyt prostor muzeum čarodějnic"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4226092.pdf"
+      }    ]
   }
   ]
 }
