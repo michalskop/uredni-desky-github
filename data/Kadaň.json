@@ -1563,39 +1563,6 @@
   },
 {
     "typ": ["Digitální objekt","Informace na úřední desce"],
-    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238884",
-    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238884",
-    "název": {"cs": "Město Kadaň - Výzva k odstranění vozidla - Renault"},
-    "popis": {"cs": ""},
-    "vyvěšení":{
-      "typ": "Časový okamžik",
-      "datum": "2024-12-20"
-    },
-    "relevantní_do": {
-      "typ": "Časový okamžik",
-      "datum": "2025-02-20"
-    },
-    "spisová_značka": "616/2024",
-    "agenda": [
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Město Kadaň"}
-      }      ,
-      {
-        "typ": "Agenda",
-        "název": {"cs": "Výzva"}
-      }
-    ],
-    "dokument": [
-
-      {
-        "typ": "Digitální objekt",
-        "název": {"cs": "výzva 20 12 2024"},
-        "url": "https://www.mesto-kadan.cz/filemanager/files/4081291.pdf"
-      }    ]
-  },
-{
-    "typ": ["Digitální objekt","Informace na úřední desce"],
     "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/238888",
     "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-238888",
     "název": {"cs": "DSO Cyklostezka Prunéřov - Černovice - Zápis z jednání 35. valné hromady Dobrovolného svazku obcí „Cyklostezka Prunéřov - Černovice&quot;"},
