@@ -2806,6 +2806,40 @@
         "název": {"cs": "OD OOP VV místní úprava provozu Kadaň ul 1 máje 1543"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4233123.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/243255",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-243255",
+    "název": {"cs": "MÚ - odbor dopravy - Opatření obecné povahy - Veřejná vyhláška - stanovení přechodné úpravy provozu - úplná uzavírka mostu a opěrné zdi - obec Údolíčko"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-21"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-04"
+    },
+    "číslo_jednací": "ODPK-5952/2025",
+    "spisová_značka": "73/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "MÚ - odbor dopravy"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Opatření obecné povahy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "MÚ OD OOP VV přechodná úprava provozu reko mostu v Údolíčku"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4233543.pdf"
+      }    ]
   }
   ]
 }
