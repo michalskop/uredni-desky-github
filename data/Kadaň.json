@@ -2939,6 +2939,72 @@
         "název": {"cs": "20250224172730572"},
         "url": "https://www.mesto-kadan.cz/filemanager/files/4242606.pdf"
       }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/243468",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-243468",
+    "název": {"cs": "Město Kadaň - Plán investiční výstavby na rok 2025- stav ke dni 10.1.2025"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-31"
+    },
+    "spisová_značka": "83/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Plán IV"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4242725.pdf"
+      }    ]
+  },
+{
+    "typ": ["Digitální objekt","Informace na úřední desce"],
+    "iri": "https://www.mesto-kadan.cz/zdroj/uredni-deska/informace/243469",
+    "url": "https://www.mesto-kadan.cz/cs/mestsky-urad/uredni-deska-6.html-as4udetail-243469",
+    "název": {"cs": "Město Kadaň - Zpráva o sportu ve městě za rok 2024"},
+    "popis": {"cs": ""},
+    "vyvěšení":{
+      "typ": "Časový okamžik",
+      "datum": "2025-02-25"
+    },
+    "relevantní_do": {
+      "typ": "Časový okamžik",
+      "datum": "2025-03-31"
+    },
+    "spisová_značka": "82/2025",
+    "agenda": [
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Město Kadaň"}
+      }      ,
+      {
+        "typ": "Agenda",
+        "název": {"cs": "Zprávy"}
+      }
+    ],
+    "dokument": [
+
+      {
+        "typ": "Digitální objekt",
+        "název": {"cs": "Zpráva sport"},
+        "url": "https://www.mesto-kadan.cz/filemanager/files/4242726.pdf"
+      }    ]
   }
   ]
 }
