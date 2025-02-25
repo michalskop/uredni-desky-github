@@ -2584,7 +2584,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2025-03-04"
+      "datum": "2025-03-10"
     },
     "číslo_jednací": "ODPK-7730/2025",
     "spisová_značka": "71/2025",
@@ -2618,9 +2618,10 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2025-03-03"
+      "datum": "2025-03-10"
     },
     "číslo_jednací": "ODPK-56375/2024",
+    "spisová_značka": "72/2025",
     "agenda": [
       {
         "typ": "Agenda",
@@ -2651,7 +2652,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2025-03-04"
+      "datum": "2025-03-10"
     },
     "číslo_jednací": "ODPK-5952/2025",
     "spisová_značka": "73/2025",
@@ -2685,7 +2686,7 @@
     },
     "relevantní_do": {
       "typ": "Časový okamžik",
-      "datum": "2025-03-04"
+      "datum": "2025-03-10"
     },
     "číslo_jednací": "SÚ/65/2025",
     "spisová_značka": "74/2025",
